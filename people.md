@@ -1,7 +1,5 @@
 ---
 layout: page
 title: People
-subtitle: Lab Members
+subtitle: Stay tuned...
 ---
-
-Stay tuned:
