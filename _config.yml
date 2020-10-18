@@ -14,13 +14,13 @@ author: EmPRISE Lab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  People: "people"
-  Research: "research"
-  Publications: "publications"
-  Teaching: "teaching"
-  Open Resources: "resources"
-  Press: "press"
-  Apply: "apply"
+  People: "/docs/people.html"
+  Research: "/docs/research.html"
+  Publications: "/docs/publications.html"
+  Teaching: "/docs/teaching.html"
+  Open Resources: "/docs/resources.html"
+  Press: "/docs/press.html"
+  Apply: "/docs/apply.html"
   
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
