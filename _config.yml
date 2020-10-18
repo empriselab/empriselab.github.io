@@ -14,13 +14,13 @@ author: EmPRISE Lab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  People: "docs/people.html"
-  Research: "docs/research.html"
-  Publications: "docs/publications.html"
-  Teaching: "docs/teaching.html"
-  Open Resources: "docs/resources.html"
-  Press: "docs/press.html"
-  Apply: "docs/apply.html"
+  People: "people.html"
+  Research: "research.html"
+  Publications: "publications.html"
+  Teaching: "teaching.html"
+  Open Resources: "resources.html"
+  Press: "press.html"
+  Apply: "apply.html"
   
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -216,6 +216,9 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      
+# Include this files
+include: ['_pages']
 
 # Exclude these files from production site
 exclude:
@@ -226,7 +229,7 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  #- docs/
+  - docs/
 
 plugins:
   - jekyll-paginate
