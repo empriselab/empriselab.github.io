@@ -20,7 +20,7 @@ navbar-links:
   Teaching: "teaching.html"
   Open Resources: "resources.html"
   Press: "press.html"
-  Apply: "apply.html"
+  Apply: "/_pages/apply.html"
   
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
