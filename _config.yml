@@ -14,11 +14,18 @@ author: EmPRISE Lab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  People: "people"
+  Research: "research"
+  Publications: "publications"
+  Teaching: "teaching"
+  Open Resources: "resources"
+  Press: "press"
+  Apply: "apply"
+  
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
