@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "empriselab21@gmail.com"
-# facebook: deanattali
-  github: EmpriseLab
-  twitter: EmpriseLab
+   email: "empriselab21@gmail.com"
+#  facebook: deanattali
+   github: EmpriseLab
+   twitter: EmpriseLab
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
