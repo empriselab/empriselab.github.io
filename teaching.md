@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Research
+title: Teaching
 subtitle: Stay tuned...
 ---
