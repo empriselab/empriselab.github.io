@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Research
+title: Open Resources
 subtitle: Stay tuned...
 ---
