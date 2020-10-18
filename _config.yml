@@ -201,7 +201,6 @@ paginate: 5
 kramdown:
   input: GFM
 
-pages: ./_pages
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
