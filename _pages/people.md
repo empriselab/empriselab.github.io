@@ -13,8 +13,8 @@ layout: page
   <div class="col-md-4 col-offset-md-1 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" /> </div>
   <div class="col-md-8 clearfix">
-    <h4>{{ member.name }}</h4>
-    <br>{{ member.info }}<br>Email: <{{ member.email }}>
+    <br>{{ **member.name** }}
+    <br>{{ member.info }}<br>**Email:** {{ member.email }}
     <br>{{ member.bio }}
   </div>
 </div>
