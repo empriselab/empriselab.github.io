@@ -4,6 +4,30 @@
     url: https://arxiv.org/abs/1908.07088
   year: 2020
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
+  note:
+  
+- title: "Is More Autonomy Always Better? Exploring Preferences of Users with Mobility Impairments in Robot-assisted Feeding"
+  authors: T. Bhattacharjee, E.K. Gordon, R. Scalise, M.E. Cabrera, A. Caspi, M. Cakmak, and S.S. Srinivasa.
+  link:
+    url: https://personalrobotics.cs.washington.edu/publications/bhattacharjee2020userpref.pdf
+  year: 2020
+  venue: ACM/IEEE International Conference on Human-Robot Interaction.
+  note: 
+  
+- title: "A Community-Centered Design Framework for Robot-Assisted Feeding Systems"
+  authors: T. Bhattacharjee, M. E. Cabrera, A. Caspi, M. Cakmak, and S.S. Srinivasa.
+  link:
+    url: https://personalrobotics.cs.washington.edu/publications/bhattacharjee2019designraf.pdf
+  year: 2019
+  venue: International ACM SIGACCESS Conference on Computers and Accessibility.
+  note: 
+  
+- title: "Robot-Assisted Feeding: Generalizing Skewering Strategies across Food Items on a Plate"
+  authors: R. Feng, Y. Kim, G. Lee, E.K. Gordon, M. Schmittle, S. Kumar, T. Bhattacharjee, and S.S. Srinivasa.
+  link:
+    url: https://personalrobotics.cs.washington.edu/publications/feng2019generalization.pdf
+  year: 2019
+  venue: International Symposium on Robotics Research.
   note: 
   
 - title: "Transfer depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding"
@@ -13,4 +37,20 @@
   year: 2019
   venue: ACM/IEEE International Conference on Human-Robot Interaction.
   note: Best Paper Award Winner for Technical Advances in HRI
+  
+- title: "Sensing Shear Forces During Food Manipulation: Resolving the Trade-Off Between Range and Sensitivity"
+  authors: H. Song, T. Bhattacharjee, and S.S. Srinivasa.
+  link:
+    url: https://personalrobotics.cs.washington.edu/publications/song2019shear.pdf
+  year: 2019
+  venue: IEEE International Conference on Robotics and Automation.
+  note: 
+  
+- title: "Towards Robotic Feeding: Role of Haptics in Fork-based Food Manipulation"
+  authors: T. Bhattacharjee, G. Lee, H. Song, and S.S. Srinivasa.
+  link:
+    url: https://personalrobotics.cs.washington.edu/publications/bhattacharjee2019haptic.pdf
+  year: 2019
+  venue: IEEE Robotics and Automation Letters.
+  note: 
 
