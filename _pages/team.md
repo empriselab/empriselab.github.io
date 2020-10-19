@@ -10,7 +10,7 @@ permalink: /team/
 {% for member in site.data.team_members %}
 
 <div class="row">
-  <div class="col-sm-8 offset-md-1 clearfix">
+  <div class="col-sm-8 col-offset-md-1 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> </div>
   <div class="col-sm-4 clearfix">
     <h4>{{ member.name }}</h4>
