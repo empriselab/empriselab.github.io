@@ -3,7 +3,7 @@ permalink: /people/
 layout: page
 ---
 
-### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
+#### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
 
 
 ## Lab Members
