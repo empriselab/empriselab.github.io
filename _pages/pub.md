@@ -3,12 +3,22 @@ permalink: /pub/
 layout: page
 ---
 
-
-#### Here's a link to [Google Scholar](https://scholar.google.com/citations?user=X1zsXTgAAAAJ&hl=en&oi=ao)
-
 <h3>2020</h3>
 
+<h4> Journal / Conference Papers </h4> 
+
 {% for publi in site.data.publist %}
+{% if publi.year == 2020 %}
+  <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
+  {{ publi.authors }}<br />
+  <em>{{ publi.venue }}</em>&nbsp;{{ publi.year }}.<br />
+  <strong>{{ publi.note }}</strong>
+{% endif %}
+{% endfor %}
+
+<h4> Other Papers </h4>
+
+{% for publi in site.data.otherpublist %}
 {% if publi.year == 2020 %}
   <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
   {{ publi.authors }}<br />
