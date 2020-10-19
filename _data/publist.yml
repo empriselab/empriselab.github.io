@@ -269,3 +269,51 @@
   year: 2010
   venue: International Journal of Medical Robotics and Computer Assisted Surgery.
   note: 
+
+- title: "Controlling Redundant Robot Arm-Trunk Systems for Human-like Reaching Motion"
+  authors: T. Bhattacharjee, Y. Oh, J. H. Bae, and S. R. Oh.
+  link:
+    url: https://drive.google.com/file/d/168V0rLYoE98yjhh7iX2wSbhmesBQIUve/view?usp=sharing
+  year: 2010
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
+  note: 
+  
+- title: "Psychophysical Evaluation of Control Scheme Designed for Optimal Kinesthetic Perception in Scaled Teleoperation"
+  authors: H. I. Son, T. Bhattacharjee, H. R. Jung, and D. Y. Lee.
+  link:
+    url: https://drive.google.com/file/d/1M-OV_521t5KFahTUdCrxO2XZelNioM6E/view?usp=sharing
+  year: 2010
+  venue: IEEE International Conference on Robotics and Automation.
+  note: 
+  
+- title: "Position-Position Control with Gain-Scheduling for Telesurgical Systems"
+  authors: J. H. Cho, H. I. Son, T. Bhattacharjee, D. G. Lee, and D. Y. Lee.
+  link:
+    url: https://drive.google.com/file/d/1RsYk0faduegsY4FGUdKUGA8x3mHWU7pX/view?usp=sharing
+  year: 2010
+  venue: International Conference on Advanced Mechatronics.
+  note: 
+  
+- title: "Passivity Analysis of Haptic Systems Interacting with Viscoelastic Virtual Environment"
+  authors: H. I. Son, T. Bhattacharjee, and D. Y. Lee.
+  link:
+    url: https://drive.google.com/file/d/1o014CSd3vUXmqzYrYhLsGxdmXjSChoqw/view?usp=sharing
+  year: 2009
+  venue: International Conference on Advanced Robotics.
+  note: 
+  
+- title: "Control Design Based on Analytical Stability Criteria for Optimized Kinesthetic Perception in Scaled Teleoperation"
+  authors: H. I. Son, T. Bhattacharjee, and D. Y. Lee.
+  link:
+    url: https://drive.google.com/file/d/1l2WctDI54EMlhbMQR4lUO327A3LW7log/view?usp=sharing
+  year: 2009
+  venue: International Joint Conference on Instrumentation, Control and Information Technology.
+  note: 
+  
+- title: "Haptic Control with Environment Force Estimation for Telesurgery"
+  authors: T. Bhattacharjee, H. I. Son, and D. Y. Lee.
+  link:
+    url: https://drive.google.com/file/d/1mkJP1sp8iH6GhfGVdpzqm4CpBP7A7cQa/view?usp=sharing
+  year: 2008
+  venue: International Conference of the IEEE Engineering in Medicine and Biology Society.
+  note: 
