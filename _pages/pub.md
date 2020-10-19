@@ -10,7 +10,7 @@ layout: page
 
   <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
   {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em>{{ publi.year }}
+  <em>{{ publi.venue }}</em>&nbsp{{ publi.year }}<br />
   <strong>{{ publi.note }}</strong>
 
 {% endfor %}
