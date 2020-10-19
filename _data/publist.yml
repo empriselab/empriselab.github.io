@@ -1,7 +1,7 @@
 - title: "Telemanipulation with Chopsticks: Analyzing Human Factors in User Demonstrations"
   authors: L. Ke, A. Kamat, J. Wang, T. Bhattacharjee, C. Mavrogiannis, and S. S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/ke2020teleop.pdf
+    url: https://drive.google.com/file/d/1BKFLBWjMkECG5TxEE5axjAsLe86jWPW-/view?usp=sharing
   year: 2020
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
   note:
@@ -9,7 +9,7 @@
 - title: "Adaptive Robot-Assisted Feeding: An Online Learning Framework for Acquiring Previously-Unseen Food Items"
   authors: E.K. Gordon, X. Meng, T. Bhattacharjee, M. Barnes, and S. S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/gordon2020adaptive.pdf
+    url: https://drive.google.com/file/d/1PkrNqzhjFPmFPc3AFvvXr-Ui_NTKiT81/view?usp=sharing
   year: 2020
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
   note:
@@ -17,7 +17,7 @@
 - title: "Is More Autonomy Always Better? Exploring Preferences of Users with Mobility Impairments in Robot-assisted Feeding"
   authors: T. Bhattacharjee, E.K. Gordon, R. Scalise, M.E. Cabrera, A. Caspi, M. Cakmak, and S.S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/bhattacharjee2020userpref.pdf
+    url: https://drive.google.com/file/d/1egcoVP9bEbTkmxHmKl09dWrEcrGfF_Io/view?usp=sharing
   year: 2020
   venue: ACM/IEEE International Conference on Human-Robot Interaction.
   note: 
@@ -25,7 +25,7 @@
 - title: "A Community-Centered Design Framework for Robot-Assisted Feeding Systems"
   authors: T. Bhattacharjee, M. E. Cabrera, A. Caspi, M. Cakmak, and S.S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/bhattacharjee2019designraf.pdf
+    url: https://drive.google.com/file/d/1iGu4nlYH2qR2jCW9b97JqgACJmnZvKee/view?usp=sharing
   year: 2019
   venue: International ACM SIGACCESS Conference on Computers and Accessibility.
   note: 
@@ -33,7 +33,7 @@
 - title: "Robot-Assisted Feeding: Generalizing Skewering Strategies across Food Items on a Plate"
   authors: R. Feng, Y. Kim, G. Lee, E.K. Gordon, M. Schmittle, S. Kumar, T. Bhattacharjee, and S.S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/feng2019generalization.pdf
+    url: https://drive.google.com/file/d/1fys8RuGgiwNxGLYULea5LgjfIPyTLFGR/view?usp=sharing
   year: 2019
   venue: International Symposium on Robotics Research.
   note: 
@@ -41,7 +41,7 @@
 - title: "Transfer depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding"
   authors: D. Gallenberger, T. Bhattacharjee, Y. Kim, and S.S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/gallenberger2019skewering.pdf
+    url: https://drive.google.com/file/d/1GKISvYIIuzPbt-5GAfpsC3v340YD9MQ7/view?usp=sharing
   year: 2019
   venue: ACM/IEEE International Conference on Human-Robot Interaction.
   note: Best Paper Award Winner for Technical Advances in HRI
@@ -49,7 +49,7 @@
 - title: "Sensing Shear Forces During Food Manipulation: Resolving the Trade-Off Between Range and Sensitivity"
   authors: H. Song, T. Bhattacharjee, and S.S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/song2019shear.pdf
+    url: https://drive.google.com/file/d/1xa5j8tPm1Tz5GG22VOnUyDRzvNBKfkXv/view?usp=sharing
   year: 2019
   venue: IEEE International Conference on Robotics and Automation.
   note: 
@@ -57,8 +57,41 @@
 - title: "Towards Robotic Feeding: Role of Haptics in Fork-based Food Manipulation"
   authors: T. Bhattacharjee, G. Lee, H. Song, and S.S. Srinivasa.
   link:
-    url: https://personalrobotics.cs.washington.edu/publications/bhattacharjee2019haptic.pdf
+    url: https://drive.google.com/file/d/1KZ5KvLrybp67MCPyW0Py9dxTFN8MVf68/view?usp=sharing
   year: 2019
   venue: IEEE Robotics and Automation Letters.
   note: 
+  
+- title: "Desk Organization: Effect of Multimodal Inputs on Spatial Relational Learning"
+  authors: R. Rowe, S. Singhal, D. Yi, T. Bhattacharjee,  and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1ytaGsvgjZfFTQ0FR1Q3Vf435DaYPGyZS/view?usp=sharing
+  year: 2019
+  venue: International Symposium on Robot and Human Interactive Communication.
+  note: 
+  
+- title: "Multimodal Tactile Perception of Objects in a Real Home"
+  authors: T. Bhattacharjee, H. M. Clever, J. Wade, and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/1OLxnZSfkTNhqeEmY_MMoyXT1NhPfEKEZ/view?usp=sharing
+  year: 2018
+  venue: IEEE Robotics and Automation Letters.
+  note: 
+  
+- title: "Inferring Object Properties with a Tactile-Sensing Array Given Varying Joint Stiffness and Velocity"
+  authors: T. Bhattacharjee, J. M. Rehg, and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/1BbLE6yYGUAX0rBPSvPLA0DY83TFHDoc6/view?usp=sharing
+  year: 2018
+  venue: International Journal of Humanoid Robotics.
+  note: 
+  
+- title: "Towards Material Classification of Scenes using Active Thermography"
+  authors: H. Bai, T. Bhattacharjee, H. Chen, A. Kapusta, and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/1bUtVMAtb-3zRdAizuZKKZDouQHGAa2tk/view?usp=sharing
+  year: 2018
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
+  note: 
+
 
