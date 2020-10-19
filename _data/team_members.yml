@@ -1,23 +1,23 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  bio: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  bio: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  bio: Master Leiden University with Milan Allan
+- name: Tapomayukh "Tapo" Bhattacharjee
+  photo: tapo.jpg
+  info: Assistant Professor, starting Summer 2021
+  email: tapomayukh AT cornell dot edu
+  bio: Tapomayukh "Tapo" Bhattacharjee will be joining the Department of Computer Science at Cornell University as a tenure-track Assistant Professor in Summer 2021.
+  Tapo wants to enable robots to assist people with mobility limitations with tasks for daily living and he believes that allowing efficient and safe 
+  physical interactions between robots and their immediate environments is the key. His work spans the fields of human-robot interaction, haptic perception, and 
+  robot manipulation. Tapo, with his background in both ME and CS, is a full stack roboticist. He is not only passionate about developing algorithms that solve 
+  fundamental problems in these domains but also strongly believes in developing real robotic systems, deploying them in the real world, and evaluating them with 
+  real users.
 
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://empriselab.github.io/apply/">openings</a> for more info
-  email: awesome@awesome.com
-  bio: Awesome grad student
+  email: awesome AT awesome dot edu 
+  bio: Awesome grad student 1
+  
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://empriselab.github.io/apply/">openings</a> for more info
+  email: awesome AT awesome dot edu 
+  bio: Awesome grad student 2
+
