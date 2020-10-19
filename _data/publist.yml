@@ -1,7 +1,15 @@
+- title: "Telemanipulation with Chopsticks: Analyzing Human Factors in User Demonstrations"
+  authors: L. Ke, A. Kamat, J. Wang, T. Bhattacharjee, C. Mavrogiannis, and S. S. Srinivasa.
+  link:
+    url: https://personalrobotics.cs.washington.edu/publications/ke2020teleop.pdf
+  year: 2020
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
+  note:
+
 - title: "Adaptive Robot-Assisted Feeding: An Online Learning Framework for Acquiring Previously-Unseen Food Items"
   authors: E.K. Gordon, X. Meng, T. Bhattacharjee, M. Barnes, and S. S. Srinivasa.
   link:
-    url: https://arxiv.org/abs/1908.07088
+    url: https://personalrobotics.cs.washington.edu/publications/gordon2020adaptive.pdf
   year: 2020
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
   note:
