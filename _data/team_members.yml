@@ -7,12 +7,12 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://empriselab.github.io/apply/">openings</a> for more info
-  email: awesome1@cornell.edu 
+  email: awesome1 AT cornell dot edu 
   bio: Awesome grad student 1
   
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://empriselab.github.io/apply/">openings</a> for more info
-  email: awesome2@cornell.edu 
+  email: awesome2 AT cornell dot edu 
   bio: Awesome grad student 2
 
