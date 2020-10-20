@@ -1,5 +1,5 @@
 ---
-permalink: /pub/
+permalink: /publications/
 layout: page
 ---
 
