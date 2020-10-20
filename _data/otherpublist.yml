@@ -38,6 +38,14 @@
   venue: Conference on Neural Information Processing Systems (NeurIPS).
   note: Best Demonstration Award Winner
   
+- title: "Rapid Haptic Perception using Force and Thermal Sensing"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://smartech.gatech.edu/handle/1853/60181
+  year: 2017
+  venue: Ph.D. Dissertation.
+  note: 
+  
 - title: "Force and Thermal Sensing with a Fabric-based Skin"
   authors: J. Wade, T. Bhattacharjee, and C. C. Kemp.
   link:
@@ -148,4 +156,28 @@
     url: https://drive.google.com/file/d/1_VEAeTnrmWihR37peplu2pWTzmQaAhqg/view?usp=sharing
   year: 2012
   venue: Biomedical Engineering Society (BMES) Meeting.
+  note: 
+  
+- title: "Analysis of Stability and Performance of Telesurgical Systems"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://drive.google.com/file/d/0B5IkR-5za8vGMTExZGJkODAtMjZkOC00MzYxLWJhNzItNGE3MDBlYjFkODIy/view?usp=sharing
+  year: 2009
+  venue: M.S. Thesis.
+  note: 
+  
+- title: "An Obstacle Avoiding Robot"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://drive.google.com/file/d/0B5IkR-5za8vGN2NiZTViYjMtYWRhZS00YjI1LTk3OWUtZGZiOGUxZDkwZmM5/view?usp=sharing
+  year: 2006
+  venue: B.Tech. (B.S.) Major Thesis.
+  note: 
+  
+- title: "A Cricket Playing Robot"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://drive.google.com/file/d/0B5IkR-5za8vGNjUxMTcxYjUtMDZjYi00MGE0LWFmMGItYjJkOTE0MzhmNDg5/view?usp=sharing
+  year: 2006
+  venue: B.Tech. (B.S.) Major Thesis.
   note: 
