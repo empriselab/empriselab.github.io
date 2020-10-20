@@ -90,17 +90,6 @@ layout: page
 {% endif %}
 {% endfor %}
 
-<h4> Other Papers </h4>
-
-{% for publi in site.data.otherpublist %}
-{% if publi.year == 2017 %}
-  <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
-  {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em>&nbsp;{{ publi.year }}.<br />
-  <strong>{{ publi.note }}</strong>
-{% endif %}
-{% endfor %}
-
 
 <h3>2016</h3>
 
@@ -265,16 +254,6 @@ layout: page
 {% endif %}
 {% endfor %}
 
-<h4> Other Papers </h4>
-
-{% for publi in site.data.otherpublist %}
-{% if publi.year == 2009 %}
-  <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
-  {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em>&nbsp;{{ publi.year }}.<br />
-  <strong>{{ publi.note }}</strong>
-{% endif %}
-{% endfor %}
 
 <h3>2008</h3>
 
@@ -282,19 +261,6 @@ layout: page
 
 {% for publi in site.data.publist %}
 {% if publi.year == 2008 %}
-  <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
-  {{ publi.authors }}<br />
-  <em>{{ publi.venue }}</em>&nbsp;{{ publi.year }}.<br />
-  <strong>{{ publi.note }}</strong>
-{% endif %}
-{% endfor %}
-
-<h3>2006</h3>
-
-<h4> Other Papers </h4>
-
-{% for publi in site.data.otherpublist %}
-{% if publi.year == 2006 %}
   <a href="{{ publi.link.url }}">{{ publi.title }}</a> <br />
   {{ publi.authors }}<br />
   <em>{{ publi.venue }}</em>&nbsp;{{ publi.year }}.<br />
