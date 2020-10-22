@@ -8,11 +8,11 @@ title: "Press"
 
 <div class="row mt-3">
   <div class="col-md-6 col-offset-md-1 clearfix">
-    <a href="{{ article.url }}">{{ article.title }}</a>,</div>
+    <a href="{{ article.url }}">{{ article.title }}</a></div>
   <div class="col-md-3 clearfix">
-    {{ article.venue }}.</div>
+    {{ article.venue }}</div>
   <div class="col-md-3 clearfix">
-    {{ article.date }}.</div>
+    {{ article.date }}</div>
 </div>
 
 {% endfor %}
