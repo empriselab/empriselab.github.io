@@ -7,11 +7,11 @@ layout: page
 
 <div class="row mt-3">
   <div class="col-md-3 col-offset-md-1 clearfix">
-    {% include youtubePlayer.html id={{ vid.id }} %}</div>
+    {% include youtubePlayer.html id="drUPDtQ1FQ4" %}</div>
   <div class="col-md-3 col-offset-md-1 clearfix">
-    {% include youtubePlayer.html id={{ vid.id }} %}</div>
+    {% include youtubePlayer.html id="drUPDtQ1FQ4" %}</div>
   <div class="col-md-3 clearfix">
-    {% include youtubePlayer.html id={{ vid.id }} %}</div>
+    {% include youtubePlayer.html id="drUPDtQ1FQ4" %}</div>
 </div>
 
 {% endfor %}
