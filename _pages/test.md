@@ -7,7 +7,7 @@ layout: page
 
 <div class="row mt-3">
   <div class="col-lg-4 clearfix">
-    {% include youtubePlayer.html id="drUPDtQ1FQ4" %}</div>
+    {% include youtubePlayer.html id="{{ vid.videoID }}" %}</div>
   <div class="col-lg-4 clearfix">
     {% include youtubePlayer.html id="drUPDtQ1FQ4" %}</div>
   <div class="col-lg-4 clearfix">
