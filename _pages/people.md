@@ -7,7 +7,6 @@ title: People
 #### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
 
 
-## Lab Members
 {% for member in site.data.team_members %}
 
 <div class="row mt-3">
