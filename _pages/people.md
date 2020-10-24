@@ -1,6 +1,7 @@
 ---
 permalink: /people/
 layout: page
+title: People
 ---
 
 #### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
