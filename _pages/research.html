@@ -12,7 +12,18 @@ subtitle: Stay tuned...
   
   <body>
     
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLcOTttRr6L6e5-jiNoF5TSvmgKvhKH6D9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+    {% for researchvid in site.data.videos %}
+
+      <div class="row mt-3">
+        <div class="col-lg-4 clearfix">
+          <iframe src="https://www.youtube.com/embed/drUPDtQ1FQ4" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+        <div class="col-lg-4 clearfix">
+          <iframe src="https://www.youtube.com/embed/drUPDtQ1FQ4" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+        <div class="col-lg-4 clearfix">
+          <iframe src="https://www.youtube.com/embed/drUPDtQ1FQ4" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+      </div>
+
+    {% endfor %}
+      
   </body>
 </html>
