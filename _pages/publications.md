@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 layout: page
+title: Publications
 ---
 
 <h3>2020</h3>
