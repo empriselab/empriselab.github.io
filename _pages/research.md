@@ -1,0 +1,37 @@
+---
+permalink: /research/
+layout: page
+title: Research
+---
+
+## Robot-assisted Feeding
+
+Eating is an activity of daily living (ADL) and losing the ability to self-feed can be devastating. Robots have the potential to help with these tasks. Successful robotic assistive feeding depends on reliable bite acquisition, appropriate bite timing, and easy bite transfer in both individual and social dining settings. Automating bite acquisition is daunting as the universe of foods, cutlery, and human strategies is massive and the activity demands robust nonprehensile manipulation of a deformable hard-to-model target. Bite timing, especially in social dining settings, is a delicate dance of multimodal signaling (via gaze, facial expressions, gestures, and speech, to name a few), action, and sometimes coercion. Bite transfer constitutes a unique type of robot-human handover where the human needs to use the mouth. Through this project, we are developing algorithms and technologies that can address these challenges towards a robotic system that can autonomously feed people with upper-extremity mobility limitations in real homes.
+
+<div class="col embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-pOP7vbFqSk" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+## Compliant Manipulation with Whole-arm Sensing
+
+Physical interactions between robots and humans are inevitable and desired during caregiving. Tactile sensing can enable a robot to infer properties of its surroundings from planned and incidental contact during manipulation in unstructured human environments. Through this project, we are developing solutions that can efficiently combine multimodal sensing and perception to develop intelligent planning and control policies for safe and efficient manipulation with and around humans.
+
+<div class="col embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/trhqnOZ6bjU" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+## Featured Videos
+
+<div class="row row-cols-3">
+{% for video in site.data.vidlist %}
+  <div class="col my-3">
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.ytid }}" allowfullscreen></iframe>
+  </div>
+  </div>
+{% endfor %}
+</div>

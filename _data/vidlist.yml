@@ -1,29 +1,36 @@
-- title: HRI Autonomy, IROS Online Learning, and ISRR Generalizing
-  vidcol1: yZmwEA82Qfk
-  vidcol2: drUPDtQ1FQ4
-  vidcol3: mv_IB6NS3XQ
-  
-- title: HRI Transfer, Shear Sensing, and Taxonomy
-  vidcol1: bkkzGDVs4hc
-  vidcol2: 7fOn9QzpOag
-  vidcol3: IFGMEF9vPI0
-
-- title: Multimodal Fabric, Expert Dancers, and Older Adults
-  vidcol1: HXOBA0_x2s0
-  vidcol2: nxf43d4RPWw
-  vidcol3: g1bb_FTKbxQ
-  
-- title: Thermal Recognition, Touch and Vision CRF, Touch and Vision Vanilla
-  vidcol1: vQL3WvnBb7U
-  vidcol2: xptJdOCfXQk
-  vidcol3: FTk8ewAP8yY
-  
-- title: Whole-arm Tactile Sensing, Multimodal tactile in home, Rapid Categorization
-  vidcol1: -NUQfsJ9GMI
-  vidcol2: DVunUMBhoB4
-  vidcol3: G90Zbd7S1ok
-  
-- title: Thermal Sensing, Capacitive Skin Viz, Active Thermal Sensing Viz
-  vidcol1: Wnrp2qOtios
-  vidcol2: Tkck625gwwI
-  vidcol3: RUqqum3Du3k
+- title: HRI Autonomy
+  ytid: yZmwEA82Qfk
+- title: IROS Online Learning
+  ytid: drUPDtQ1FQ4
+- title: ISRR Generalizing
+  ytid: mv_IB6NS3XQ
+- title: HRI Transfer
+  ytid: bkkzGDVs4hc
+- title: Shear Sensing
+  ytid: 7fOn9QzpOag
+- title: Taxonomy
+  ytid: IFGMEF9vPI0
+- title: Multimodal Fabric
+  ytid: HXOBA0_x2s0
+- title: Expert Dancers
+  ytid: nxf43d4RPWw
+- title: Older Adults
+  ytid: g1bb_FTKbxQ
+- title: Thermal Recognition
+  ytid: vQL3WvnBb7U
+- title: Touch and Vision CRF
+  ytid: xptJdOCfXQk
+- title: Touch and Vision Vanilla
+  ytid: FTk8ewAP8yY
+- title: Whole-arm Tactile Sensing
+  ytid: -NUQfsJ9GMI
+- title: Multimodal tactile in home
+  ytid: DVunUMBhoB4
+- title: Rapid Categorization
+  ytid: G90Zbd7S1ok
+- title: Thermal Sensing
+  ytid: Wnrp2qOtios
+- title: Capacitive Skin Viz
+  ytid: Tkck625gwwI
+- title: Active Thermal Sensing Viz
+  ytid: RUqqum3Du3k
