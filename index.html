@@ -1,26 +1,19 @@
 ---
-layout: home
+layout: page
 title: EmPRISE Lab
 subtitle: EMpowering People with Robots and Intelligent Shared Experiences
 ---
 
-<html>
-  <head>
-    <meta charset="utf-8">
-  </head>
-  
-  <body>
-    <p align="left"><font size="4">Our mission is to enable robots to improve the quality of life of people with mobility limitations by assisting them with activities of daily living (ADLs). In our lab, we seek solutions to the fundamental research question on <i>how to leverage robot-world physical interactions in unstructured human environments to perform relevant ADLs</i>.</font></p>
-    <p align="left"><font size="4">EmPRISE lab is a part of the <a href="http://www.cs.cornell.edu/" target="_blank">Department of Computer Science</a> in the <a href="https://cis.cornell.edu/" target="_blank">Computing and Information Science</a> at <a href="https://www.cornell.edu/" target="_blank">Cornell University</a>. We are a full-stack robotics lab leveraging tools from sensing, perception, planning, learning, and control to provide intelligent autonomy. Our projects delve deep into human-robot interaction, haptic perception, robot manipulation, and tactile sensing. We are not only passionate about developing algorithms that solve fundamental problems in these domains but also strongly believe in developing real robotic systems, deploying them in the real world, and evaluating them with real users.</font></p>
-  
-    <h2>Recent News:</h2>
+<p>
+Our mission is to enable robots to improve the quality of life of people with mobility limitations by assisting them with activities of daily living (ADLs). In our lab, we seek solutions to the fundamental research question on <em>how to leverage robot-world physical interactions in unstructured human environments to perform relevant ADLs</em>.
+</p>
 
-    {% for article in site.data.news limit:7 %}
-    <p><b>{{ article.date }}</b><br>
-    <em>{{ article.headline }}</em></p>
-    {% endfor %}
+<p>
+EmPRISE lab is a part of the <a href="http://www.cs.cornell.edu/" target="_blank">Department of Computer Science</a> in the <a href="https://cis.cornell.edu/" target="_blank">Computing and Information Science</a> at <a href="https://www.cornell.edu/" target="_blank">Cornell University</a>. We are a full-stack robotics lab leveraging tools from sensing, perception, planning, learning, and control to provide intelligent autonomy. Our projects delve deep into human-robot interaction, haptic perception, robot manipulation, and tactile sensing. We are not only passionate about developing algorithms that solve fundamental problems in these domains but also strongly believe in developing real robotic systems, deploying them in the real world, and evaluating them with real users.
+</p>
 
-    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews/">... See all news</a></h4>
-    
-  </body>
-</html>
+<h2>Recent News</h2>
+
+{% include news.html limit=7 %}
+
+<a href="{{ '/news/' | relative_url }}">See all news</a></h4>

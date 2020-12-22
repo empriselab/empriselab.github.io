@@ -1,0 +1,7 @@
+{% assign n = include.limit | default: site.data.news.size %}
+{% for article in site.data.news limit:n %}
+<p>
+<b>{{ article.date }}</b><br/>
+<em>{{ article.headline }}</em>
+</p>
+{% endfor %}
