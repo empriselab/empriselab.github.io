@@ -3,6 +3,7 @@
   link:
     url: https://drive.google.com/file/d/1BKFLBWjMkECG5TxEE5axjAsLe86jWPW-/view?usp=sharing
   year: 2020
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
   note:
 
@@ -11,309 +12,555 @@
   link:
     url: https://drive.google.com/file/d/1PkrNqzhjFPmFPc3AFvvXr-Ui_NTKiT81/view?usp=sharing
   year: 2020
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
   note:
-  
+
 - title: "Is More Autonomy Always Better? Exploring Preferences of Users with Mobility Impairments in Robot-assisted Feeding"
   authors: T. Bhattacharjee, E.K. Gordon, R. Scalise, M.E. Cabrera, A. Caspi, M. Cakmak, and S.S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1egcoVP9bEbTkmxHmKl09dWrEcrGfF_Io/view?usp=sharing
   year: 2020
+  type: conf-journal
   venue: ACM/IEEE International Conference on Human-Robot Interaction.
-  note: 
-  
+  note:
+
 - title: "A Community-Centered Design Framework for Robot-Assisted Feeding Systems"
   authors: T. Bhattacharjee, M. E. Cabrera, A. Caspi, M. Cakmak, and S.S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1iGu4nlYH2qR2jCW9b97JqgACJmnZvKee/view?usp=sharing
   year: 2019
+  type: conf-journal
   venue: International ACM SIGACCESS Conference on Computers and Accessibility.
-  note: 
-  
+  note:
+
 - title: "Robot-Assisted Feeding: Generalizing Skewering Strategies across Food Items on a Plate"
   authors: R. Feng, Y. Kim, G. Lee, E.K. Gordon, M. Schmittle, S. Kumar, T. Bhattacharjee, and S.S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1fys8RuGgiwNxGLYULea5LgjfIPyTLFGR/view?usp=sharing
   year: 2019
+  type: conf-journal
   venue: International Symposium on Robotics Research.
-  note: 
-  
+  note:
+
 - title: "Transfer depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding"
   authors: D. Gallenberger, T. Bhattacharjee, Y. Kim, and S.S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1GKISvYIIuzPbt-5GAfpsC3v340YD9MQ7/view?usp=sharing
   year: 2019
+  type: conf-journal
   venue: ACM/IEEE International Conference on Human-Robot Interaction.
   note: Best Paper Award Winner for Technical Advances in HRI
-  
+
 - title: "Sensing Shear Forces During Food Manipulation: Resolving the Trade-Off Between Range and Sensitivity"
   authors: H. Song, T. Bhattacharjee, and S.S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1xa5j8tPm1Tz5GG22VOnUyDRzvNBKfkXv/view?usp=sharing
   year: 2019
+  type: conf-journal
   venue: IEEE International Conference on Robotics and Automation.
-  note: 
-  
+  note:
+
 - title: "Towards Robotic Feeding: Role of Haptics in Fork-based Food Manipulation"
   authors: T. Bhattacharjee, G. Lee, H. Song, and S.S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1KZ5KvLrybp67MCPyW0Py9dxTFN8MVf68/view?usp=sharing
   year: 2019
+  type: conf-journal
   venue: IEEE Robotics and Automation Letters.
-  note: 
-  
+  note:
+
 - title: "Desk Organization: Effect of Multimodal Inputs on Spatial Relational Learning"
   authors: R. Rowe, S. Singhal, D. Yi, T. Bhattacharjee,  and S. S. Srinivasa.
   link:
     url: https://drive.google.com/file/d/1ytaGsvgjZfFTQ0FR1Q3Vf435DaYPGyZS/view?usp=sharing
   year: 2019
+  type: conf-journal
   venue: International Symposium on Robot and Human Interactive Communication.
-  note: 
-  
+  note:
+
 - title: "Multimodal Tactile Perception of Objects in a Real Home"
   authors: T. Bhattacharjee, H. M. Clever, J. Wade, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1OLxnZSfkTNhqeEmY_MMoyXT1NhPfEKEZ/view?usp=sharing
   year: 2018
+  type: conf-journal
   venue: IEEE Robotics and Automation Letters.
-  note: 
-  
+  note:
+
 - title: "Inferring Object Properties with a Tactile-Sensing Array Given Varying Joint Stiffness and Velocity"
   authors: T. Bhattacharjee, J. M. Rehg, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1BbLE6yYGUAX0rBPSvPLA0DY83TFHDoc6/view?usp=sharing
   year: 2018
+  type: conf-journal
   venue: International Journal of Humanoid Robotics.
-  note: 
-  
+  note:
+
 - title: "Towards Material Classification of Scenes using Active Thermography"
   authors: H. Bai, T. Bhattacharjee, H. Chen, A. Kapusta, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1bUtVMAtb-3zRdAizuZKKZDouQHGAa2tk/view?usp=sharing
   year: 2018
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
-  note: 
-  
+  note:
+
 - title: "A Force and Thermal Sensing Skin for Robots in Human Environments"
   authors: J. Wade, T. Bhattacharjee, R. D. Williams, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1kJTkYtuw7peOO5JxG14OshMn9oDUHHGx/view?usp=sharing
   year: 2017
+  type: conf-journal
   venue: Robotics and Autonomous Systems.
-  note: 
-  
+  note:
+
 - title: "Older Adults’ Acceptance of a Robot for Partner Dance-based Exercise"
   authors: T. L. Chen, T. Bhattacharjee, J. M. Beer, L. H. Ting, M. E. Hackney, W. A. Rogers, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1bUcIQ1F132LFzbExM0bp19clYgfeiYZ8/view?usp=sharing
   year: 2017
+  type: conf-journal
   venue: PLoS ONE.
-  note: 
-  
+  note:
+
 - title: "Small Forces that differ with Prior Motor Experience can Communicate Movement Goals during Human-Human Physical Interaction"
   authors: A. Sawers, T. Bhattacharjee, J. L. McKay, M. E. Hackney, C. C. Kemp, and L. H. Ting.
   link:
     url: https://drive.google.com/file/d/16PgM3HicJ0uP3WDmhfq_qZWb6umyqe3U/view?usp=sharing
   year: 2017
+  type: conf-journal
   venue: Journal of NeuroEngineering and Rehabilitation.
-  note: 
+  note:
 
 - title: "A Passivity Criterion for Real-Time Haptic Simulation of Viscoelastic Soft Tissues"
   authors: H. I. Son and T. Bhattacharjee.
   link:
     url: https://drive.google.com/file/d/1ipllxkT-9AWKBy4jIC1Od2G48jcgfnbA/view?usp=sharing
   year: 2016
+  type: conf-journal
   venue: Part I- Journal of Systems and Control Engineering.
-  note: 
-  
+  note:
+
 - title: "A CRF that Combines Touch and Vision for Haptic Mapping"
   authors: A. A. Shenoi, T. Bhattacharjee, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1uYdL6fP4jcFX95VGRq1zzNu6ZLDRnUyR/view?usp=sharing
   year: 2016
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
-  note: 
+  note:
 
 - title: "Data-driven Haptic Perception for Robot-Assisted Dressing"
   authors: A. Kapusta, W. Yu, T. Bhattacharjee, C. K. Liu, G. Turk, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1cRgBJQ06Np4tOetLoZdw_xMg0pv3Aqcn/view?usp=sharing
   year: 2016
+  type: conf-journal
   venue: IEEE International Symposium on Robot and Human Interactive Communication.
-  note: 
-  
+  note:
+
 - title: "Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation"
   authors: D. Park, Z. Erickson, T. Bhattacharjee, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1Gi8hdmh7bKMeSIn9bLaG3IxIfIT9bIMZ/view?usp=sharing
   year: 2016
+  type: conf-journal
   venue: IEEE International Conference on Robotics and Automation.
-  note: 
-  
+  note:
+
 - title: "Data-driven Thermal Recognition of Contact with People and Objects"
   authors: T. Bhattacharjee, J. Wade, Y. Chitalia, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1va2ttwUnrb4N01Ro302cnBh_lLpni9k2/view?usp=sharing
   year: 2016
+  type: conf-journal
   venue: IEEE Haptics Symposium.
-  note: 
+  note:
 
 - title: "Evaluation by Expert Dancers of a Robot that performs Partnered Stepping via Haptic Interaction"
   authors: T. L. Chen, T. Bhattacharjee, J. L. Mckay, J. E. Borinski, M. E. Hackney, L. H. Ting, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1n0njFPO2uRoVQpi6J9JA4fFcxdyNZy2U/view?usp=sharing
   year: 2015
+  type: conf-journal
   venue: PLoS ONE.
   note: Pick of the week in the literature survey of 'latest and greatest articles' published in Biomechanics circles
-  
+
 - title: "Material Recognition from Heat Transfer given Varying Initial Conditions and Short-Duration Contact"
   authors: T. Bhattacharjee, J. Wade, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/16247JMTpdU6ia73Av76LBAO8bia4ayEo/view?usp=sharing
   year: 2015
+  type: conf-journal
   venue: Robotics Science and Systems.
-  note: 
-  
+  note:
+
 - title: "Combining Tactile Sensing and Vision for Rapid Haptic Mapping"
   authors: T. Bhattacharjee, A. A. Shenoi, D. Park, J. M. Rehg, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/12P1T_kppt-25ST3A8aBN7Ar7WOlwU1Xt/view?usp=sharing
   year: 2015
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
   note:
-  
+
 - title: "Antagonistic Muscle Based Robot Control for Physical Interactions"
   authors: T. Bhattacharjee and G. Niemeyer.
   link:
     url: https://drive.google.com/file/d/15HDdEIkRSxSe_NYgcwfc3PJLzcezKGnt/view?usp=sharing
   year: 2015
+  type: conf-journal
   venue: IEEE International Conference on Robotics and Automation.
-  note:  
-  
+  note:
+
 - title: "Analytical and Psychophysical Comparison of Bilateral Teleoperators for Enhanced Perceptual Performance"
   authors: H. I. Son, J. H. Cho, T. Bhattacharjee, H. R. Jung, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/10yX7nxIA1Vp_kMwdQdD98RLRw7ZIScI3/view?usp=sharing
   year: 2014
+  type: conf-journal
   venue: IEEE Transactions on Industrial Electronics.
-  note:  
-  
+  note:
+
 - title: "Gain-Scheduling Control of Teleoperation Systems Interacting with Soft Tissues"
   authors: J. H. Cho, H. I. Son, D. G. Lee, T. Bhattacharjee, H. R. Jung, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1XgOXVTVdQg-UMAlcGVllj5QkNyKOJgyL/view?usp=sharing
   year: 2013
+  type: conf-journal
   venue: IEEE Transactions on Industrial Electronics.
-  note: 
-  
+  note:
+
 - title: "Rapid Categorization of Object Properties from Incidental Contact with a Tactile Sensing Robot Arm"
   authors: T. Bhattacharjee, A. Kapusta, J. M. Rehg, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/19Rg23GOjY4jvZjPoldI3mKN7KBPwoxOq/view?usp=sharing
   year: 2013
+  type: conf-journal
   venue: IEEE International Conference on Humanoid Robotics.
-  note: 
-  
+  note:
+
 - title: "Tactile Sensing over Articulated Joints with Stretchable Sensors"
   authors: T. Bhattacharjee, A. Jain, S. Vaish, M. D. Killpack, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/15ZbdvIcc9GXIf98HH8ot2xCTcF3SRM8h/view?usp=sharing
   year: 2013
+  type: conf-journal
   venue: IEEE World Haptics Conference.
-  note: 
-  
+  note:
+
 - title: "Effect of Impedance-Shaping on Perception of Soft Tissues in Macro-Micro Teleoperation"
   authors: H. I. Son, T. Bhattacharjee, and H. Hashimoto.
   link:
     url: https://drive.google.com/file/d/1c0RHOVJ_9RKTWGEURgDu2KNA-iX6tk05/view?usp=sharing
   year: 2012
+  type: conf-journal
   venue: IEEE Transactions on Industrial Electronics.
-  note: 
-  
+  note:
+
 - title: "Haptic Classification and Recognition of Objects using a Tactile Sensing Forearm"
   authors: T. Bhattacharjee, J. M. Rehg, and C. C. Kemp.
   link:
     url: https://drive.google.com/file/d/1Kd0_6gmoNFPBOrl0LqPJrlflgf3d5n7N/view?usp=sharing
   year: 2012
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
-  note:   
-  
+  note:
+
 - title: "Enhancement in Operator’s Perception of Soft Tissues and its Experimental Validation for Scaled Teleoperation Systems"
   authors: H. I. Son, T. Bhattacharjee, and H. Hashimoto.
   link:
     url: https://drive.google.com/file/d/1W4ybFkAWi5qIzRm825Zd5FjUSgT6Mx80/view?usp=sharing
   year: 2011
+  type: conf-journal
   venue: IEEE Transactions on Mechatronics.
-  note:   
-  
+  note:
+
 - title: "Effect of Scaling on the Performance and Stability of Teleoperation Systems Interacting with Soft Environments"
   authors: H. I. Son, T. Bhattacharjee, and H. Hashimoto.
   link:
     url: https://drive.google.com/file/d/13PVgKyJRfiK95XU-Ja6xDGZo8rjJ-IXb/view?usp=sharing
   year: 2011
+  type: conf-journal
   venue: Advanced Robotics.
-  note:  
-  
+  note:
+
 - title: "Control Design for Human-like Reaching Movements using Redundancy in Robot Arm-Trunk Systems"
   authors: T. Bhattacharjee, Y. Oh, J. H. Bae, and S. R. Oh.
   link:
     url: https://drive.google.com/file/d/1qyZ4xr6x1BGHTc50I5NmePg1z1-pvmlP/view?usp=sharing
   year: 2011
+  type: conf-journal
   venue: International Journal of Control Automation and Systems.
-  note:  
-  
+  note:
+
 - title: "Estimation of Environmental Force for the Haptic Interface of Robotic Surgery"
   authors: H. I. Son, T. Bhattacharjee, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1wBOtjll6DXTPfdG92ua4NZsJ3UrUIBwO/view?usp=sharing
   year: 2010
+  type: conf-journal
   venue: International Journal of Medical Robotics and Computer Assisted Surgery.
-  note: 
+  note:
 
 - title: "Controlling Redundant Robot Arm-Trunk Systems for Human-like Reaching Motion"
   authors: T. Bhattacharjee, Y. Oh, J. H. Bae, and S. R. Oh.
   link:
     url: https://drive.google.com/file/d/168V0rLYoE98yjhh7iX2wSbhmesBQIUve/view?usp=sharing
   year: 2010
+  type: conf-journal
   venue: IEEE/RSJ International Conference on Intelligent Robots and Systems.
-  note: 
-  
+  note:
+
 - title: "Psychophysical Evaluation of Control Scheme Designed for Optimal Kinesthetic Perception in Scaled Teleoperation"
   authors: H. I. Son, T. Bhattacharjee, H. R. Jung, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1M-OV_521t5KFahTUdCrxO2XZelNioM6E/view?usp=sharing
   year: 2010
+  type: conf-journal
   venue: IEEE International Conference on Robotics and Automation.
-  note: 
-  
+  note:
+
 - title: "Position-Position Control with Gain-Scheduling for Telesurgical Systems"
   authors: J. H. Cho, H. I. Son, T. Bhattacharjee, D. G. Lee, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1RsYk0faduegsY4FGUdKUGA8x3mHWU7pX/view?usp=sharing
   year: 2010
+  type: conf-journal
   venue: International Conference on Advanced Mechatronics.
-  note: 
-  
+  note:
+
 - title: "Passivity Analysis of Haptic Systems Interacting with Viscoelastic Virtual Environment"
   authors: H. I. Son, T. Bhattacharjee, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1o014CSd3vUXmqzYrYhLsGxdmXjSChoqw/view?usp=sharing
   year: 2009
+  type: conf-journal
   venue: International Conference on Advanced Robotics.
-  note: 
-  
+  note:
+
 - title: "Control Design Based on Analytical Stability Criteria for Optimized Kinesthetic Perception in Scaled Teleoperation"
   authors: H. I. Son, T. Bhattacharjee, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1l2WctDI54EMlhbMQR4lUO327A3LW7log/view?usp=sharing
   year: 2009
+  type: conf-journal
   venue: International Joint Conference on Instrumentation, Control and Information Technology.
-  note: 
-  
+  note:
+
 - title: "Haptic Control with Environment Force Estimation for Telesurgery"
   authors: T. Bhattacharjee, H. I. Son, and D. Y. Lee.
   link:
     url: https://drive.google.com/file/d/1mkJP1sp8iH6GhfGVdpzqm4CpBP7A7cQa/view?usp=sharing
   year: 2008
+  type: conf-journal
   venue: International Conference of the IEEE Engineering in Medicine and Biology Society.
-  note: 
+  note:
+
+- title: "Grasping with Chopsticks: Fine Grained Manipulation using Inexpensive Hardware by Imitation Learning"
+  authors: L. Ke, J. Wang, T. Bhattacharjee, B. Boots, and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1AS0tEu9pB_WBrP6W-gwztj2RiSC_r434/view?usp=sharing
+  year: 2020
+  type: other
+  venue: Workshop on Hand-Object Interaction - From Human Demonstrations to Robot Manipulation (HOBI 2020), IEEE International Conference on Robot and Human Interactive Communication.
+  note:
+
+- title: "A Contextual Bandit Framework for Adaptive Robotic Bite Acquisition"
+  authors: E.K. Gordon, X. Meng, T. Bhattacharjee, M. Barnes, and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1HWCacj9m0RMHgeVwPYLy5MdBcI73ORKF/view?usp=sharing
+  year: 2019
+  type: other
+  venue: Humanoids 2019 Workshop on Robotic Food Manipulation.
+  note:
+
+- title: "Learning from Failures in Robot-Assisted Feeding: Using Online Learning to Develop Manipulation Strategies for Bite Acquisition"
+  authors: E.K. Gordon, X. Meng, M. Barnes, T. Bhattacharjee, and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1ZG6HrAfqqvT6rXtgDX88TCpZyrwpPnXw/view?usp=sharing
+  year: 2019
+  type: other
+  venue: IJCAI 2019 Workshop on AIxFood.
+  note:
+
+- title: "Bite Acquisition of Soft Food Items via Reconfiguration"
+  authors: G. Lee, T. Bhattacharjee, and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1QfymePmU2LbrcTb553IcOMeeXNv31sDI/view?usp=sharing
+  year: 2019
+  type: other
+  venue: RSS 2019 Workshop on Task-Informed Grasping (TIG-II) - From Perception to Physical Interaction.
+  note:
+
+- title: "Autonomous robot feeding for upper-extremity mobility impaired people: Integrating sensing, perception, learning, motion planning, and robot control"
+  authors: T. Bhattacharjee, D. Gallenberger, D. Dubois, L. L'Écuyer-Lapiere, Y. Kim, A. Mandalika, R. Scalise, R. Qu, H. Song, E. Gordon, and S.S. Srinivasa.
+  link:
+    url: https://neurips.cc/Conferences/2018/Awards
+  year: 2018
+  type: other
+  venue: Conference on Neural Information Processing Systems (NeurIPS).
+  note: Best Demonstration Award Winner
+
+- title: "Rapid Haptic Perception using Force and Thermal Sensing"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://smartech.gatech.edu/handle/1853/60181
+  year: 2017
+  type: other
+  venue: Ph.D. Dissertation.
+  note:
+
+- title: "Force and Thermal Sensing with a Fabric-based Skin"
+  authors: J. Wade, T. Bhattacharjee, and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/19L3NLOsLUqbXEQTL2PO3cy1OJAeG-K4Q/view?usp=sharing
+  year: 2016
+  type: other
+  venue: IROS 2016 Workshop - See, Touch and Hear - Workshop on Multimodal Sensor-based Robot Control for HRI and Soft Manipulation.
+  note:
+
+- title: "A Handheld Device for the In Situ Acquisition of Multimodal Tactile Sensing Data"
+  authors: J. Wade, T. Bhattacharjee, and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/1v_1uamn38eNaTs1RvEjlzMVkTOuWCQdn/view?usp=sharing
+  year: 2015
+  type: other
+  venue: IROS 2015 Workshop - See and Touch - 1st Workshop on Multimodal Sensor-based Robot Control for HRI and Soft Manipulation.
+  note:
+
+- title: "Sensing Incidental Contact to inform Manipulation in Clutter"
+  authors: T. Bhattacharjee and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/1ClNLz8Ka7ht2Y_mvf4g6Yl2mJxLQ84Jt/view?usp=sharing
+  year: 2015
+  type: other
+  venue: RSS 2015 Workshop - Learning for Visual and Tactile Interaction.
+  note:
+
+- title: "Haptic Perception during Manipulation Tasks using Whole Arm Tactile Sensing"
+  authors: T. Bhattacharjee and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/14hiJNUBmtVIQGUExMtBqPbJncTiJkI85/view?usp=sharing
+  year: 2015
+  type: other
+  venue: ICRA 2015 Workshop - "Get in Touch!" Tactile & Force Sensing for Autonomous, Compliant, Intelligent Robots.
+  note:
+
+- title: "Human Arms Remove Energy during Blindfolded Partnered Stepping Tasks with a Robot Follower"
+  authors: Y. S. Song, T. L. Chen, T. Bhattacharjee, J. L. Mckay, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/1RWoTs6eLsGRmUepnTG_Jf7TL0NpO42Du/view?usp=sharing
+  year: 2015
+  type: other
+  venue: ICRA 2015 Workshop on Rehabilitation Robotics and Human Robot Interaction.
+  note:
+
+- title: "Human Arms Remove Energy for Increased Stability during Partnered Stepping Tasks with a Robot Follower"
+  authors: Y. S. Song, T. L. Chen, T. Bhattacharjee, J. L. Mckay, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/1J61t081FOEpQGxceUAvAqChwBgdqLY8w/view?usp=sharing
+  year: 2015
+  type: other
+  venue: Society of Neural Control of Movement (NCM) 25th Annual Meeting.
+  note:
+
+- title: "Human Arms Remove Energy during Partnered Stepping Tasks with a Robot Follower"
+  authors: Y. S. Song, T. L. Chen, T. Bhattacharjee, J. L. Mckay, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/154fNyDBzGJPeASEJUFrT95R7P5S_h5_W/view?usp=sharing
+  year: 2015
+  type: other
+  venue: 3rd ASU Rehabilitation Robotics Workshop.
+  note:
+
+- title: "A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning"
+  authors: T. Bhattacharjee, P. M. Grice, A. Kapusta, M. D. Killpack, D. Park, and C. C. Kemp.
+  link:
+    url: https://drive.google.com/file/d/1DNBOaclfETYv10tAICZU0BcLELL1BFVc/view?usp=sharing
+  year: 2014
+  type: other
+  venue: IROS 2014 Workshop - 3rd Workshop on Robots in Clutter - Perception and Interaction in Clutter.
+  note:
+
+- title: "A Simple Model of Dynamic Interaction Forces during Human-Robot Partnered Motion"
+  authors: J. L. McKay, M. Huang, T. L. Chen, T. Bhattacharjee, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/16PPJ7uT8b0SeMlZXkQobXIxRHXnWtwxa/view?usp=sharing
+  year: 2013
+  type: other
+  venue: Piper Health Solutions Workshop on Rehabilitation Robotics.
+  note:
+
+- title: "Partnered Human-Robot Stepping Based on Interactive Forces at the Hand"
+  authors: T. L. Chen, J. L. McKay, T. Bhattacharjee, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/1cmJn_eyctj8PQM4QFho4AGSuyGQQcuJh/view?usp=sharing
+  year: 2013
+  type: other
+  venue: Piper Health Solutions Workshop on Rehabilitation Robotics.
+  note:
+
+- title: "Non-linear Task-Space Disturbance Observer for Position Regulationof Redundant Robot Arms against Perturbations in 3D Environments"
+  authors: T. Bhattacharjee, Y. Oh, and S. R. Oh.
+  link:
+    url: https://drive.google.com/file/d/1t1aO_PMZYm5uwW2LfNWyrYWZuYPDRo51/view?usp=sharing
+  year: 2013
+  type: other
+  venue: Technical Report, arXiv-1311.0388.
+  note:
+
+- title: "Validation of a Control Algorithm for Human-like Reaching Motion using 7-DOF Arm and 19-DOF Hand-Arm Systems"
+  authors: T. Bhattacharjee, Y. Oh, and S. R. Oh.
+  link:
+    url: https://drive.google.com/file/d/1C_MM3DPjLzbtaZ6t9__06CM2aRoWorFp/view?usp=sharing
+  year: 2013
+  type: other
+  venue: Technical Report, arXiv-1311.0959.
+  note:
+
+- title: "Partnered Human-Robot Stepping Based on Interactive Forces at the Hand"
+  authors: T. L. Chen, J. L. McKay, T. Bhattacharjee, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/1UZKxYYELsE8kPeVlwYuCkOAid__y-eVq/view?usp=sharing
+  year: 2012
+  type: other
+  venue: American Society of Biomechanics (ASB) Annual Meeting.
+  note:
+
+- title: "Partnered Human-Robot Stepping Based on Interactive Forces at the Hand"
+  authors: T. L. Chen, J. L. McKay, T. Bhattacharjee, M. E. Hackney, C. C. Kemp, and L. H. Ting.
+  link:
+    url: https://drive.google.com/file/d/1_VEAeTnrmWihR37peplu2pWTzmQaAhqg/view?usp=sharing
+  year: 2012
+  type: other
+  venue: Biomedical Engineering Society (BMES) Meeting.
+  note:
+
+- title: "Analysis of Stability and Performance of Telesurgical Systems"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://drive.google.com/file/d/0B5IkR-5za8vGMTExZGJkODAtMjZkOC00MzYxLWJhNzItNGE3MDBlYjFkODIy/view?usp=sharing
+  year: 2009
+  type: other
+  venue: M.S. Thesis.
+  note:
+
+- title: "An Obstacle Avoiding Robot"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://drive.google.com/file/d/0B5IkR-5za8vGN2NiZTViYjMtYWRhZS00YjI1LTk3OWUtZGZiOGUxZDkwZmM5/view?usp=sharing
+  year: 2006
+  type: other
+  venue: B.Tech. (B.S.) Major Thesis.
+  note:
+
+- title: "A Cricket Playing Robot"
+  authors: T. Bhattacharjee.
+  link:
+    url: https://drive.google.com/file/d/0B5IkR-5za8vGNjUxMTcxYjUtMDZjYi00MGE0LWFmMGItYjJkOTE0MzhmNDg5/view?usp=sharing
+  year: 2006
+  type: other
+  venue: B.Tech. (B.S.) Minor Thesis.
+  note:
