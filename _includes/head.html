@@ -12,24 +12,11 @@
     {%- endif -%}
   {% endcapture %}
 
-  {% capture description %}
-    {%- if page.share-description -%}
-      {{ page.share-description }}
-    {%- elsif page.subtitle -%}
-      {{ page.subtitle }}
-    {%- else -%}
-      {%- assign excerpt_length = site.excerpt_length | default: 50 -%}
-      {{ page.content | strip_html | xml_escape | truncatewords: excerpt_length | strip }}
-    {%- endif -%}
-  {% endcapture %}
-
   <title>{{ title }}</title>
 
   {% if site.author %}
-  <meta name="author" content="{{ site.author }}">
+  <meta name="author" content="{{ site.author | strip_html }}">
   {% endif %}
-
-  <meta name="description" content="{{ description }}">
 
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
