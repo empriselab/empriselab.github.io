@@ -1,0 +1,25 @@
+---
+permalink: /people/
+layout: page
+title: People
+---
+
+<strong>We are looking for new PhD students to join the team <a href="{{ '/apply/' | relative_url }}">(see openings)</a>!</strong>
+
+{% for member in site.data.team_members %}
+<div class="row my-3">
+  <div class="col-md-4 col-offset-md-1">
+    <img class="img-fluid"
+         src="{{ '/assets/img/team/' | append: member.photo | relative_url }}"
+         style="float: left" />
+  </div>
+  <div class="col-md-8">
+    <strong>{{ member.name }}</strong>
+    <p>
+      {{ member.info }}<br/>
+      Email: {{ member.email }}
+    </p>
+    <p>{{ member.bio }}</p>
+  </div>
+</div>
+{% endfor %}

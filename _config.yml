@@ -9,7 +9,7 @@
 title: EmPRISE Lab
 
 # Your name to show in the footer
-author: EmPRISE Lab (Inspired by the <a href="http://www.allanlab.org/aboutwebsite" target=_blank>Allan Lab</a> template)
+author: EmPRISE Lab (Inspired by the <a href="http://www.allanlab.org/aboutwebsite" target="_blank">Allan Lab</a> template)
 
 # --- List of links in the navigation bar --- #
 
@@ -31,11 +31,11 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+# title-img: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

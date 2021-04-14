@@ -1,0 +1,32 @@
+---
+permalink: /publications/
+layout: page
+title: Publications
+---
+
+{% assign pubs_by_year = site.data.pubs | group_by: 'year' %}
+{% for year in pubs_by_year %}
+<h3>{{ year.name }}</h3>
+
+{% assign pubs_by_type = year.items | group_by: 'type' %}
+{% for type_group in pubs_by_type %}
+{% if type_group.name == 'conf-journal' %}
+{% assign group_title = 'Conference / Journal Papers' %}
+{% elsif type_group.name == 'other' %}
+{% assign group_title = 'Other Papers' %}
+{% endif %}
+
+<h4>{{ group_title }}</h4>
+
+{% for pub in type_group.items %}
+<p>
+<a href="{{ pub.link.url }}">{{ pub.title }}</a>
+<br/>{{ pub.authors }}
+<br/><em>{{ pub.venue }}</em>&nbsp;{{ pub.year }}.
+{% if pub.note %}
+<br/><strong>{{ pub.note }}</strong>
+{% endif %}
+</p>
+{% endfor %}
+{% endfor %}
+{% endfor %}
