@@ -1,3 +1,21 @@
+- title: "Grasping with Chopsticks: Combating Covariate Shift in Model-free Imitation Learning for Fine Manipulation"
+  authors: L. Ke, J. Wang, T. Bhattacharjee, B. Boots, and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1jShLNZd6j1NoJJ_ZCNx4hIhurHg74Lxs/view?usp=sharing
+  year: 2021
+  type: conf-journal
+  venue: IEEE International Conference on Robotics and Automation.
+  note:
+  
+- title: "Leveraging Post hoc Context for Faster Learning in Bandit Settings with Applications in Robot-assisted Feeding"
+  authors: E.K. Gordon, S. Roychowdhury, T. Bhattacharjee, K. Jamieson, and S. S. Srinivasa.
+  link:
+    url: https://drive.google.com/file/d/1hBIugD3pBgc6Pyemdl0tBCothT-pX2CM/view?usp=sharing
+  year: 2021
+  type: conf-journal
+  venue: IEEE International Conference on Robotics and Automation.
+  note:
+
 - title: "Telemanipulation with Chopsticks: Analyzing Human Factors in User Demonstrations"
   authors: L. Ke, A. Kamat, J. Wang, T. Bhattacharjee, C. Mavrogiannis, and S. S. Srinivasa.
   link:
