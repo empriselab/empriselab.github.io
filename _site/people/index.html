@@ -7,30 +7,11 @@
 
   
 
-  
-
   <title>People</title>
 
   
-  <meta name="author" content="EmPRISE Lab (Inspired by the <a href="http://www.allanlab.org/aboutwebsite" target=_blank>Allan Lab</a> template)">
+  <meta name="author" content="EmPRISE Lab (Inspired by the Allan Lab template)">
   
-
-  <meta name="description" content="#### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
-
-
-{% for member in site.data.team_members %}
-
-
-  
-     
-  
-    {{ member.name }}
-    {{ member.info }}Email: {{ member.email }}
-    {{ member.bio }}
-  
-
-
-{% endfor %}">
 
   
 
@@ -88,22 +69,7 @@
   
   <meta property="og:site_name" content="EmPRISE Lab">
   <meta property="og:title" content="People">
-  <meta property="og:description" content="#### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
-
-
-{% for member in site.data.team_members %}
-
-
-  
-     
-  
-    {{ member.name }}
-    {{ member.info }}Email: {{ member.email }}
-    {{ member.bio }}
-  
-
-
-{% endfor %}">
+  <meta property="og:description" content="">
 
   
 
@@ -120,22 +86,7 @@
   <meta name="twitter:creator" content="@EmpriseLab">
 
   <meta property="twitter:title" content="People">
-  <meta property="twitter:description" content="#### **We are looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/apply) **!**
-
-
-{% for member in site.data.team_members %}
-
-
-  
-     
-  
-    {{ member.name }}
-    {{ member.info }}Email: {{ member.email }}
-    {{ member.bio }}
-  
-
-
-{% endfor %}">
+  <meta property="twitter:description" content="">
 
   
 
@@ -154,7 +105,7 @@
   
 
 
-  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand navbar-brand-logo" href="http://localhost:4000/"><img alt="EmPRISE Lab Logo" src="/assets/img/avatar-icon.png"/></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand navbar-brand-logo" href="http://localhost:4000/"><img alt="EmPRISE Lab Logo" src="/assets/img/emprise-logo.png"/></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
@@ -225,34 +176,53 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <h4 id="we-are-looking-for-new-phd-students-to-join-the-team-see-openings-"><strong>We are looking for new PhD students to join the team</strong> <a href="http://localhost:4000/apply">(see openings)</a> <strong>!</strong></h4>
+      <strong>We are looking for new PhD students to join the team <a href="/apply/">(see openings)</a>!</strong>
 
-<div class="row mt-3">
-  <div class="col-md-4 col-offset-md-1 clearfix">
-    <img src="http://localhost:4000/images/teampic/tapo.jpg" class="img-responsive" width="100%" style="float: left" /> </div>
-  <div class="col-md-8 clearfix">
-    <h4><a href="http://www.tapomayukh.com" target="_blank">Tapomayukh "Tapo" Bhattacharjee</a></h4>
-    <br />Assistant Professor, starting Summer 2021<br />Email: tapomayukh AT cornell dot edu
+
+<div class="row my-3">
+  <div class="col-md-4 col-offset-md-1">
+    <img class="img-fluid"
+         src="/assets/img/team/tapo.jpg"
+         style="float: left" />
+  </div>
+  <div class="col-md-8">
+    <strong><a href="http://www.tapomayukh.com" target="_blank">Tapomayukh "Tapo" Bhattacharjee</a></strong>
+    <p>
+      Assistant Professor, starting Summer 2021<br/>
+      Email: tapomayukh AT cornell dot edu
+    </p>
     <p>Tapo wants to enable robots to assist people with mobility limitations with activities of daily living. He believes that efficient and safe physical interactions between robots and their immediate environments is the key. His work spans the fields of human-robot interaction, haptic perception, and robot manipulation.</p>
   </div>
 </div>
 
-<div class="row mt-3">
-  <div class="col-md-4 col-offset-md-1 clearfix">
-    <img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="100%" style="float: left" /> </div>
-  <div class="col-md-8 clearfix">
-    <h4>This could be you !</h4>
-    <br />See <a href="https://empriselab.github.io/apply/">openings</a> for more info<br />Email: awesome1 AT cornell dot edu
+<div class="row my-3">
+  <div class="col-md-4 col-offset-md-1">
+    <img class="img-fluid"
+         src="/assets/img/team/rock.jpg"
+         style="float: left" />
+  </div>
+  <div class="col-md-8">
+    <strong>This could be you !</strong>
+    <p>
+      See <a href="https://empriselab.github.io/apply/">openings</a> for more info<br/>
+      Email: awesome1 AT cornell dot edu
+    </p>
     <p>Awesome grad student 1</p>
   </div>
 </div>
 
-<div class="row mt-3">
-  <div class="col-md-4 col-offset-md-1 clearfix">
-    <img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="100%" style="float: left" /> </div>
-  <div class="col-md-8 clearfix">
-    <h4>This could be you !</h4>
-    <br />See <a href="https://empriselab.github.io/apply/">openings</a> for more info<br />Email: awesome2 AT cornell dot edu
+<div class="row my-3">
+  <div class="col-md-4 col-offset-md-1">
+    <img class="img-fluid"
+         src="/assets/img/team/rock.jpg"
+         style="float: left" />
+  </div>
+  <div class="col-md-8">
+    <strong>This could be you !</strong>
+    <p>
+      See <a href="https://empriselab.github.io/apply/">openings</a> for more info<br/>
+      Email: awesome2 AT cornell dot edu
+    </p>
     <p>Awesome grad student 2</p>
   </div>
 </div>
@@ -281,7 +251,7 @@
       <span class="sr-only">Email me</span>
    </a>
   </li><li class="list-inline-item">
-    <a href="https://github.com/EmpriseLab" title="GitHub">
+    <a href="https://github.com/empriselab" title="GitHub">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -309,10 +279,10 @@
       
       <p class="copyright text-muted">
       
-        EmPRISE Lab (Inspired by the <a href="http://www.allanlab.org/aboutwebsite" target=_blank>Allan Lab</a> template)
+        EmPRISE Lab (Inspired by the <a href="http://www.allanlab.org/aboutwebsite" target="_blank">Allan Lab</a> template)
         &nbsp;&bull;&nbsp;
       
-      2020
+      2021
 
       
         &nbsp;&bull;&nbsp;
