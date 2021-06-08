@@ -1,18 +1,30 @@
 - name: <a href="http://www.tapomayukh.com" target="_blank">Tapomayukh "Tapo" Bhattacharjee</a>
   photo: tapo.jpg
-  info: Assistant Professor, starting Summer 2021
+  info: Assistant Professor, Computer Science
   email: tapomayukh AT cornell dot edu
   bio: Tapo wants to enable robots to assist people with mobility limitations with activities of daily living. He believes that efficient and safe physical and social interactions between robots and their immediate environments is the key. His work spans the fields of human-robot interaction, haptic perception, and robot manipulation.
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://empriselab.github.io/apply/">openings</a> for more info
-  email: awesome1 AT cornell dot edu 
-  bio: Awesome grad student 1
+- name: <a href="https://madan96.github.io/" target="_blank">Rishabh Madan</a>
+  photo: rishabh.jpg
+  info: Ph.D. Student, Computer Science
+  email: rm773 AT cornell dot edu 
+  bio: Rishabh's research interests are in leveraging robot learning for decision-making under uncertainty to enable assistive robots. He received his B.Tech. in Ocean Engineering and Naval Architecture from the Indian Institute of Technology Kharagpur.
   
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="https://empriselab.github.io/apply/">openings</a> for more info
-  email: awesome2 AT cornell dot edu 
-  bio: Awesome grad student 2
+- name: <a href="https://rkjenamani.github.io/" target="_blank">Rajat Kumar Jenamani</a>
+  photo: rajat.jpg
+  info: Ph.D. Student, Computer Science
+  email: rj277 AT cornell dot edu 
+  bio: Rajat's research interests are in motion planning, human-robot interaction, and machine learning. Rajat received his B.Tech in Computer Science and Engineering from IIT Kharagpur.
+
+- name: <a href="https://janondras.wordpress.com/" target="_blank">Jan "Janko" Ondras</a>
+  photo: jan.jpg
+  info: Ph.D. Student, Computer Science
+  email: jo339 AT cornell dot edu 
+  bio: Janko is interested in developing reliable assistive robots and is curious about cognitive science-inspired approaches to human-robot interaction. Janko is a Computer Science graduate from University of Cambridge.
+
+- name: <a href="https://yorucathy.github.io/" target="_blank">Ruolin Ye</a>
+  photo: ruolin.jpg
+  info: Undergraduate Research Intern
+  email: cathyye2000 AT sjtu dot edu dot cn 
+  bio: Ruolin Ye is currently a junior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
 
