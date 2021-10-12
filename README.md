@@ -19,4 +19,5 @@ To update content for any of the above, go to `_data` folder and update the corr
 To update the homepage, you will have to directly edit the `index.html` file.
 
 ## Deploying the changes
-TODO: Update this.
+We use GitHub actions to continuously render static pages to `deploy-server` branch, for any changes made to the `master` branch.
+Additionally, we have setup a cronjob on the server side to pull any new changes.
