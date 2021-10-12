@@ -20,4 +20,5 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: deploy-server # optional
+        keep_history: true
 
