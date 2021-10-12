@@ -18,5 +18,6 @@ jobs:
       # uses: helaili/jekyll-action@d305e465c911226c731afb6db07c8bde20e03ced
       uses: helaili/jekyll-action@2.2.0
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: deploy-server # optional
 
