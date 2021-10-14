@@ -1,3 +1,49 @@
+- title: "Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer"
+  authors: Suneel Belkhale, Ethan Kroll Gordon, Yuxiao Chen, Siddhartha Srinivasa, Tapomayukh Bhattacharjee, and Dorsa Sadigh.
+  link:
+    url:
+  year: 2021
+  venue: Under Review
+
+- title: "A Robot Cluster for Reproducible Research in Dexterous Manipulation"
+  authors: Stefan Bauer, Felix Widmaier, Manuel Wüthrich, Niklas Funk, Julen Urain De Jesus, Jan Peters, Joe Watson, Claire Chen, Krishnan Srinivasan, Junwu Zhang, Jeffrey Zhang, Matthew R Walter, Rishabh Madan, Charles Schaff, Takahiro Maeda, Takuma Yoneda, Denis Yarats, Arthur Allshire, Ethan K Gordon, Tapomayukh Bhattacharjee, Siddhartha S Srinivasa, Animesh Garg, Annika Buchholz, Sebastian Stark, Thomas Steinbrenner, Joel Akpo, Shruti Joshi, Vaibhav Agrawal, and Bernhard Schölkopf.
+  link:
+    url:
+  year: 2021
+  venue: Under Review
+
+- title: "Benchmarking Structured Policies and Policy Optimization for Real-World Dexterous Object Manipulation"
+  authors: Niklas Funk, Charles Schaff, Rishabh Madan, Takuma Yoneda, Julen Urain De Jesus, Joe Watson, Ethan K. Gordon, Felix Widmaier, Stefan Bauer, Siddhartha S. Srinivasa, Tapomayukh Bhattacharjee, Matthew R. Walter, and Jan Peters
+  link:
+    url: 
+  year: 2021
+  type: conf-journal
+  venue: IEEE Robotics and Automation Letters
+
+- title: "An exploration of accessible remote teleoperation for assistive mobile manipulators in the home"
+  authors: Maria E. Cabrera, Tapomayukh Bhattacharjee, Kavi Dey, and Maya Cakmak.
+  link:
+    url: https://drive.google.com/file/d/12IR3vIlzX42TFe4JY2DMOjAxVvwq5u3U/view?usp=sharing
+  year: 2021
+  type: conf-journal
+  venue: IEEE International Symposium on Robot and Human Interactive Communication
+
+- title: "Cursor-based robot tele-manipulation through 2D-to-SE2 interfaces"
+  authors: Maria E. Cabrera, Kavi Dey, Kavita Krishnaswamy, Tapomayukh Bhattacharjee, and Maya Cakmak.
+  link:
+    url: https://drive.google.com/file/d/1aKfstW9Y3l0ByJtNTuGSyTpCUMfWhF-g/view?usp=sharing
+  year: 2021
+  type: conf-journal
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
+
+- title: "Material recognition via heat transfer given ambiguous initial conditions"
+  authors: Tapomayukh Bhattacharjee, Henry M Clever, Joshua Wade, and Charles C Kemp.
+  link:
+    url: https://drive.google.com/file/d/1Eemidsq0kQXhLH0LUxRVUw9wljYeFiIT/view?usp=sharing
+  year: 2021
+  type: conf-journal
+  venue: IEEE Transactions on Haptics
+
 - title: "Grasping with Chopsticks: Combating Covariate Shift in Model-free Imitation Learning for Fine Manipulation"
   authors: L. Ke, J. Wang, T. Bhattacharjee, B. Boots, and S. S. Srinivasa.
   link:
