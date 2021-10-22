@@ -22,9 +22,32 @@
   email: jo339 AT cornell dot edu 
   bio: Janko is interested in developing reliable assistive robots and is curious about cognitive science-inspired approaches to human-robot interaction. Janko is a Computer Science graduate from University of Cambridge.
 
+- name: Boxin Xu
+  photo: anon.png
+  info: M.S. Student, Mechanical Engineering
+  email: bx65 AT cornell edu
+  bio: Boxin is a Masters student in Mechanical Engineering. With the background of ME, she is passionate about combining hands-on experience with the implementation of the algorithm in the field of assistive and medical robots. Boxin is also interested in various outdoor activities such as skiing and backpacking. Besides, she is a feminist that fights for equal rights for woman and the LGBTQ groups.
+
+- name: Elizabeth Healy
+  photo: anon.png
+  info: M.Eng. Student, Computer Science
+  email: eah255 AT cornell edu
+  bio: Elizabeth is a Master of Engineering student studying Computer Science at Cornell University. She graduated with a BS in Computer Science and a minor in Business from Cornell in May of 2021. Her background is primarily in artificial intelligence and machine learning and she is excited to explore the intersection between these fields and robotics.
+
 - name: <a href="https://yorucathy.github.io/" target="_blank">Ruolin Ye</a>
   photo: ruolin.jpg
   info: Undergraduate Research Intern
   email: cathyye2000 AT sjtu dot edu dot cn 
   bio: Ruolin Ye is currently a junior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
 
+- name: <a href="https://aparajitosaha.github.io" target="_blank">Aparajito "Apu" Saha</a>
+  photo: Aparajito_Saha.jpg
+  info: Undergraduate
+  email: as2537 AT cornell edu
+  bio: Apu is currently a senior studying Electrical and Computer Engineering and Computer Science at Cornell University. He is interested in investigating multi-sensor fusion approaches for improving autonomy in robots that interact with humans.
+
+- name: <a href="https://heydavid.kim" target="_blank">David Kim</a>
+  photo: davidkim.jpg
+  info: Undergraduate
+  email: jk2537 AT cornell edu
+  bio: David is a senior studying Computer Science and Electrical and Computer Engineering at Cornell University. He is planning to pursue a PhD in robotics after graduating from Cornell. Some of David's hobbies include biking around campus, playing board games with friends, and cooking.

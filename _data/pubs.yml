@@ -1,17 +1,3 @@
-- title: "Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer"
-  authors: Suneel Belkhale, Ethan Kroll Gordon, Yuxiao Chen, Siddhartha Srinivasa, Tapomayukh Bhattacharjee, and Dorsa Sadigh.
-  link:
-    url:
-  year: 2021
-  venue: Under Review
-
-- title: "A Robot Cluster for Reproducible Research in Dexterous Manipulation"
-  authors: Stefan Bauer, Felix Widmaier, Manuel Wüthrich, Niklas Funk, Julen Urain De Jesus, Jan Peters, Joe Watson, Claire Chen, Krishnan Srinivasan, Junwu Zhang, Jeffrey Zhang, Matthew R Walter, Rishabh Madan, Charles Schaff, Takahiro Maeda, Takuma Yoneda, Denis Yarats, Arthur Allshire, Ethan K Gordon, Tapomayukh Bhattacharjee, Siddhartha S Srinivasa, Animesh Garg, Annika Buchholz, Sebastian Stark, Thomas Steinbrenner, Joel Akpo, Shruti Joshi, Vaibhav Agrawal, and Bernhard Schölkopf.
-  link:
-    url:
-  year: 2021
-  venue: Under Review
-
 - title: "Benchmarking Structured Policies and Policy Optimization for Real-World Dexterous Object Manipulation"
   authors: Niklas Funk, Charles Schaff, Rishabh Madan, Takuma Yoneda, Julen Urain De Jesus, Joe Watson, Ethan K. Gordon, Felix Widmaier, Stefan Bauer, Siddhartha S. Srinivasa, Tapomayukh Bhattacharjee, Matthew R. Walter, and Jan Peters
   link:
