@@ -1,53 +1,71 @@
-- name: <a href="http://www.tapomayukh.com" target="_blank">Tapomayukh "Tapo" Bhattacharjee</a>
+- name: Tapomayukh "Tapo" Bhattacharjee
   photo: tapo.jpg
   info: Assistant Professor, Computer Science
   email: tapomayukh AT cornell dot edu
   bio: Tapo wants to enable robots to assist people with mobility limitations with activities of daily living. He believes that efficient and safe physical and social interactions between robots and their immediate environments is the key. His work spans the fields of human-robot interaction, haptic perception, and robot manipulation.
+  website: http://www.tapomayukh.com
+  type: 0
 
-- name: <a href="https://madan96.github.io/" target="_blank">Rishabh Madan</a>
+- name: Rishabh Madan
   photo: rishabh.jpg
   info: Ph.D. Student, Computer Science
-  email: rm773 AT cornell dot edu 
+  email: rm773 AT cornell dot edu
   bio: Rishabh's research interests are in leveraging robot learning for decision-making under uncertainty to enable assistive robots. He received his B.Tech. in Ocean Engineering and Naval Architecture from the Indian Institute of Technology Kharagpur.
-  
-- name: <a href="https://rkjenamani.github.io/" target="_blank">Rajat Kumar Jenamani</a>
+  website: https://madan96.github.io
+  type: 1
+
+- name: Rajat Kumar Jenamani
   photo: rajat.jpeg
   info: Ph.D. Student, Computer Science
-  email: rj277 AT cornell dot edu 
+  email: rj277 AT cornell dot edu
   bio: Rajat's research interests are in motion planning, human-robot interaction, and machine learning. Rajat received his B.Tech in Computer Science and Engineering from IIT Kharagpur.
+  website: https://rkjenamani.github.io
+  type: 1
 
-- name: <a href="https://janondras.wordpress.com/" target="_blank">Jan "Janko" Ondras</a>
+- name: Jan "Janko" Ondras
   photo: jan.jpg
   info: Ph.D. Student, Computer Science
-  email: jo339 AT cornell dot edu 
+  email: jo339 AT cornell dot edu
   bio: Janko is interested in developing reliable assistive robots and is curious about cognitive science-inspired approaches to human-robot interaction. Janko is a Computer Science graduate from University of Cambridge.
+  website: https://janondras.wordpress.com
+  type: 1
 
 - name: Boxin Xu
   photo: boxin.jpeg
   info: M.S. Student, Mechanical Engineering
   email: bx65 AT cornell edu
   bio: Boxin is passionate about combining hands-on experience with the implementation of the algorithm in the field of assistive and medical robots. Boxin is also interested in outdoor activities such as skiing and backpacking. Besides, she is a feminist that fights for equal rights for woman and the LGBTQ groups.
+  website: ""
+  type: 2
 
 - name: Elizabeth Healy
   photo: elizabeth.jpg
   info: M.Eng. Student, Computer Science
   email: eah255 AT cornell edu
   bio: Elizabeth graduated with a BS in Computer Science and a minor in Business from Cornell in May of 2021. Her background is primarily in artificial intelligence and machine learning and she is excited to explore the intersection between these fields and robotics.
+  website: ""
+  type: 2
 
-- name: <a href="https://yorucathy.github.io/" target="_blank">Ruolin Ye</a>
+- name: Ruolin Ye
   photo: ruolin.jpg
   info: Undergraduate Research Intern
-  email: cathyye2000 AT sjtu dot edu dot cn 
-  bio: Ruolin Ye is currently a junior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
+  email: cathyye2000 AT sjtu dot edu dot cn
+  bio: Ruolin Ye is currently a senior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
+  website: https://yorucathy.github.io
+  type: 3
 
-- name: <a href="https://aparajitosaha.github.io" target="_blank">Aparajito "Apu" Saha</a>
+- name: Aparajito "Apu" Saha
   photo: Aparajito_Saha.jpg
-  info: Undergraduate
+  info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
   email: as2537 AT cornell edu
   bio: Apu is currently a senior studying Electrical and Computer Engineering and Computer Science at Cornell University. He is interested in investigating multi-sensor fusion approaches for improving autonomy in robots that interact with humans.
+  website: https://aparajitosaha.github.io
+  type: 3
 
-- name: <a href="https://heydavid.kim" target="_blank">David Kim</a>
+- name: David Kim
   photo: davidkim.jpg
-  info: Undergraduate
+  info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
   email: jk2537 AT cornell edu
   bio: David is a senior studying Computer Science and Electrical and Computer Engineering at Cornell University. He is planning to pursue a PhD in robotics after graduating from Cornell. Some of David's hobbies include biking around campus, playing board games with friends, and cooking.
+  website: http://heydavid.kim
+  type: 3
