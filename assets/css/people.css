@@ -1,0 +1,164 @@
+/*
+ * Custom CSS for the People page.
+ * 
+ * -------------- PLEASE READ IF YOU WISH TO EDIT THE PAGE LAYOUT --------------
+ * Last edited: 11/18/21
+ * For any questions, please reach out to jk2537@cornell.edu (David Kim, '22)
+ * -----------------------------------------------------------------------------
+ * Currently, the images are fixed into place using CSS Grid. The justification 
+ * behind this (e.g. instead of using Flexbox) is that CSS grid is the best way 
+ * to layout dynamic data from the team members YAML configuration file. Using 
+ * Flexbox does not allow for dynamic reordering of the data (i.e. the order 
+ * impacts the layout and display & could cause potential issues). However, 
+ * using Grid does mean that the code is less automatically scalable.
+ * 
+ * The general summary of how it works:
+ * 1) A "type" identifier (PhD, MS, ...) is injected into each member's div.
+ *    - Faculty = 0, PhD = 1, Masters = 2, and Undergrads = 3
+ * 2) Each type has a separate ROW with three columns for three people.
+ * 3) If there are more than 3 people in the row for that type, then there are 
+ *    several remedies:
+ *    - The number of columns can be increased
+ *    - Create additional rows for that type and move some people down
+ */
+
+.full-page {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-rows: repeat(4, 50px 1fr);
+  grid-template-columns: repeat(3, 1fr); /* Each person gets his/her column */
+}
+
+.member-info {
+  max-width: 200px !important;
+  max-height: 250px !important;
+  margin: 0 auto;
+}
+
+/* Faculty */
+#row-label-0 {
+  grid-row: 1 / span 1;
+  grid-column: 1 / span 3;
+  font-weight: 700;
+  padding-left: 50px;
+}
+.type-0 {
+  grid-row: 2 / span 1;
+}
+.type-0-info {
+  padding-top: 10px;
+  grid-row: 2 / span 1;
+  grid-column: 2 / span 2;
+  max-width: 100%;
+}
+
+/* PhD students */
+#row-label-1 {
+  grid-row: 3 / span 1;
+  grid-column: 1 / span 3;
+  font-weight: 700;
+  padding-left: 50px;
+}
+.type-1 {
+  grid-row: 4 / span 1;
+}
+
+/* Masters students */
+#row-label-2 {
+  grid-row: 5 / span 1;
+  grid-column: 1 / span 3;
+  font-weight: 700;
+  padding-left: 50px;
+}
+.type-2 {
+  grid-row: 6 / span 1;
+}
+
+/* Undergraduate students */
+#row-label-3 {
+  grid-row: 7 / span 1;
+  grid-column: 1 / span 3;
+  font-weight: 700;
+  padding-left: 50px;
+}
+.type-3 {
+  grid-row: 8 / span 1;
+}
+
+/* Modal related */
+
+.clickable-member-image:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+/* Used for hiding the modal contents at load. */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.image-modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border-radius: 8px;
+  width: 800px;
+}
+
+/* The close button for the modal */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#modal-control {
+  display: none;
+}
+
+/* For smaller screens */
+@media (max-width: 800px) {
+  .row-label,
+  .type-0-info {
+    display: none;
+  }
+  .full-page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .member-info {
+    max-width: 300px !important;
+    max-height: 350px !important;
+    margin-bottom: 70px !important;
+  }
+  .img-fluid {
+    margin-bottom: 10px;
+  }
+  #professor-name {
+    display: block !important;
+  }
+  .image-modal-content {
+    margin: 150px auto;
+    width: 90%;
+  }
+}
