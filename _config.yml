@@ -20,8 +20,8 @@ navbar-links:
   Teaching: "teaching"
   Open Resources: "resources"
   Press: "press"
-  Apply: "apply"
   Outreach: "outreach"
+  Apply: "apply"
   
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
