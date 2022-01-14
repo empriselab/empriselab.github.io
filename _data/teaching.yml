@@ -1,10 +1,14 @@
+- term: Spring 2022
+  role: "CS 6751: Robotic Manipulation"
+- term: Spring 2022
+  role: "CS XXXX: Robotics Seminar"
 - term: Fall 2021
   role: '<a href="https://www.cs.cornell.edu/courses/cs5750/2021fa">CS 4750: Foundations of Robotics</a>'
 - term: Fall 2021
   role: '<a href="https://robotics.cornell.edu/events/seminars/">CS 7796: Robotics Seminar</a>'
-- term: Autumn 2020
-  role: Co-instructor for CSE 590R Research Seminar
-- term: Autumn 2019
-  role: Co-instructor for CSE 590R Research Seminar
-- term: Winter 2019
-  role: '<a href="https://courses.cs.washington.edu/courses/cse571/19wi/">CSE 571: Robotics: Algorithms and Applications</a>'
+# - term: Autumn 2020
+#   role: Co-instructor for CSE 590R Research Seminar
+# - term: Autumn 2019
+#   role: Co-instructor for CSE 590R Research Seminar
+# - term: Winter 2019
+#   role: '<a href="https://courses.cs.washington.edu/courses/cse571/19wi/">CSE 571: Robotics: Algorithms and Applications</a>'
