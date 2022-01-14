@@ -1,7 +1,6 @@
 // Set up the modal to be ready to be clicked and toggled.
-function activateModal(element) {
+function activateModal(element, elementId) {
   // Get the modal
-  const elementId = parseInt(element.id);
   let modal = document.getElementById(`modal-${elementId}`);
 
   // When the user clicks on the element, open the modal
@@ -20,8 +19,10 @@ function activateModal(element) {
 // Get the total number of members on the page
 const numPeople = parseInt(document.getElementById("modal-control").innerText);
 for (let i = 1; i <= numPeople; i++) {
-  let modalTrigger = document.getElementById(`${i}`);
-  activateModal(modalTrigger);
+  let modalTriggerImage = document.getElementById(`modal-trigger-image-${i}`);
+  activateModal(modalTriggerImage, i);
+  let modalTriggerText = document.getElementById(`modal-trigger-text-${i}`);
+  activateModal(modalTriggerText, i);
 }
 
 // When the user clicks anywhere outside of ANY modals, close it
