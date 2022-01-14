@@ -19,10 +19,10 @@ navbar-links:
   Publications: "publications"
   Teaching: "teaching"
   Outreach: "outreach"
-  Open Resources: "resources"
+  Resources: "resources"
   Press: "press"
+  Photos: "photos"
   Apply: "apply"
-  Gallery: "gallery"
 
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
