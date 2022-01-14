@@ -12,26 +12,23 @@ full-width: true
   <h2 class="row-label" id="row-label-1">PhD Students</h2>
   <h2 class="row-label" id="row-label-2">MS & MEng Students</h2>
   <h2 class="row-label" id="row-label-3">Undergraduate Students</h2>
+  <h2 class="row-label" id="row-label-4">Honorary Lab Members</h2>
 
-  {% for member in site.data.team_members %} {% if member.type != 0 %}
-  <!-- Not a professor -->
+  {% for member in site.data.team_members %}
   <div class="member-info my-3 type-{{ member.type }}">
     <img
-      class="img-fluid clickable-member-image"
-      id="{{ forloop.index }}"
+      class="img-fluid clickable-modal-trigger"
+      id="modal-trigger-image-{{ forloop.index }}"
       src="{{
     '/assets/img/team/' | append: member.photo | relative_url }}"
       style="float: left"
     />
 
-    <div class="text-center">
-      {% if member.website == "" %}
-      <strong>{{ member.name }}</strong><br />
-      {% else %}
-      <a href="{{ member.website }}" target="_blank"
-        ><strong>{{ member.name }}</strong></a
-      ><br />
-      {% endif %}
+    <div
+      class="text-center clickable-modal-trigger"
+      id="modal-trigger-text-{{ forloop.index }}"
+    >
+      <strong>{{ member.name }}</strong>
     </div>
 
     <!-- Hidden modal that opens when image clicked -->
@@ -49,55 +46,7 @@ full-width: true
       </div>
     </div>
   </div>
-
-  {% else %}
-  <!-- Professor gets a special treatment for large screens -->
-  <div class="member-info my-3 type-{{ member.type }}">
-    <img
-      class="img-fluid clickable-member-image"
-      id="{{ forloop.index }}"
-      src="{{ '/assets/img/team/' | append: member.photo | relative_url }}"
-      style="float: left"
-    />
-
-    <div class="text-center" id="professor-name" style="display: none">
-      {% if member.website == "" %}
-      <strong>{{ member.name }}</strong><br />
-      {% else %}
-      <a href="{{ member.website }}" target="_blank"
-        ><strong>{{ member.name }}</strong></a
-      ><br />
-      {% endif %}
-    </div>
-
-    <!-- Hidden modal that opens when image clicked -->
-    <div class="image-modal" id="modal-{{ forloop.index }}">
-      <div class="image-modal-content">
-        <span class="close">&times;</span>
-        {{ member.info }}<br />
-        Email: {{ member.email }}<br />
-
-        {% if member.website != "" %}
-        <a href="{{ member.website }}" target="_blank">{{ member.website }}</a>
-        {% endif %}
-
-        <p>{{ member.bio }}</p>
-      </div>
-    </div>
-  </div>
-  <div class="type-0-info col-md-8">
-    {% if member.website == "" %}
-    <strong>{{ member.name }}</strong><br />
-    {% else %}
-    <a href="{{ member.website }}" target="_blank"
-      ><strong>{{ member.name }}</strong></a
-    ><br />
-    {% endif %} {{ member.info }}<br />
-    Email: {{ member.email }}
-    <p>{{ member.bio }}</p>
-  </div>
-
-  {% endif %} {% endfor %}
+  {% endfor %}
 
   <!-- Number of people to be displayed. Used by JavaScript -->
   <div id="modal-control">{{ site.data.team_members.size }}</div>
