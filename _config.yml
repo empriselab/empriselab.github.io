@@ -19,10 +19,11 @@ navbar-links:
   Publications: "publications"
   Teaching: "teaching"
   Outreach: "outreach"
-  Open Resources: "resources"
+  Resources: "resources"
   Press: "press"
+  Photos: "photos"
   Apply: "apply"
-  
+
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -46,17 +47,17 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-   email: "empriselab21@gmail.com"
-#  facebook: deanattali
-   github: empriselab
-   twitter: EmpriseLab
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-   youtube: channel/UC964lfWIMojN48cA6FK2Fhg?view_as=subscriber
+  email: "empriselab21@gmail.com"
+  #  facebook: deanattali
+  github: empriselab
+  twitter: EmpriseLab
+  #  reddit: yourname
+  #  linkedin: daattali
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
+  youtube: channel/UC964lfWIMojN48cA6FK2Fhg?view_as=subscriber
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -204,23 +205,21 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      
+
 # Include these files
-include: ['_pages']
-      
+include: ["_pages"]
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -236,7 +235,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 

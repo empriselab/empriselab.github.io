@@ -2,7 +2,7 @@
  * Custom CSS for the People page.
  * 
  * -------------- PLEASE READ IF YOU WISH TO EDIT THE PAGE LAYOUT --------------
- * Last edited: 11/18/21
+ * Last edited: 1/14/22
  * For any questions, please reach out to jk2537@cornell.edu (David Kim, '22)
  * -----------------------------------------------------------------------------
  * Currently, the images are fixed into place using CSS Grid. The justification 
@@ -14,7 +14,7 @@
  * 
  * The general summary of how it works:
  * 1) A "type" identifier (PhD, MS, ...) is injected into each member's div.
- *    - Faculty = 0, PhD = 1, Masters = 2, and Undergrads = 3
+ *    - Faculty = 0, PhD = 1, Masters = 2, Undergrads = 3, Other = 4
  * 2) Each type has a separate ROW with three columns for three people.
  * 3) If there are more than 3 people in the row for that type, then there are 
  *    several remedies:
@@ -35,6 +35,7 @@
   max-width: 200px !important;
   max-height: 250px !important;
   margin: 0 auto;
+  padding-bottom: 10px;
 }
 
 /* Faculty */
@@ -46,12 +47,6 @@
 }
 .type-0 {
   grid-row: 2 / span 1;
-}
-.type-0-info {
-  padding-top: 10px;
-  grid-row: 2 / span 1;
-  grid-column: 2 / span 2;
-  max-width: 100%;
 }
 
 /* PhD students */
@@ -87,9 +82,24 @@
   grid-row: 8 / span 1;
 }
 
+/* Honorary lab members */
+#row-label-4 {
+  grid-row: 9 / span 1;
+  grid-column: 1 / span 3;
+  font-weight: 700;
+  padding-left: 50px;
+}
+.type-4 {
+  grid-row: 10 / span 1;
+}
+
 /* Modal related */
 
-.clickable-member-image:hover {
+.clickable-modal-trigger {
+  color: #007bff;
+}
+
+.clickable-modal-trigger:hover {
   cursor: pointer;
   opacity: 0.8;
 }

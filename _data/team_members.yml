@@ -25,7 +25,7 @@
 - name: Boxin Xu
   photo: boxin.jpg
   info: M.S. Student, Mechanical Engineering
-  email: bx65 AT cornell edu
+  email: bx65 AT cornell dot edu
   bio: Boxin is passionate about combining hands-on experience with the implementation of the algorithm in the field of assistive and medical robots. Boxin is also interested in outdoor activities such as skiing and backpacking. Besides, she is a feminist that fights for equal rights for woman and the LGBTQ groups.
   website: ""
   type: 2
@@ -33,7 +33,7 @@
 - name: Elizabeth Healy
   photo: elizabeth.jpg
   info: M.Eng. Student, Computer Science
-  email: eah255 AT cornell edu
+  email: eah255 AT cornell dot edu
   bio: Elizabeth graduated with a BS in Computer Science and a minor in Business from Cornell in May of 2021. Her background is primarily in artificial intelligence and machine learning and she is excited to explore the intersection between these fields and robotics.
   website: ""
   type: 2
@@ -49,7 +49,7 @@
 - name: Aparajito "Apu" Saha
   photo: Aparajito_Saha.jpg
   info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
-  email: as2537 AT cornell edu
+  email: as2537 AT cornell dot edu
   bio: Apu is currently a senior studying Electrical and Computer Engineering and Computer Science at Cornell University. He is interested in investigating multi-sensor fusion approaches for improving autonomy in robots that interact with humans.
   website: https://aparajitosaha.github.io
   type: 3
@@ -57,7 +57,15 @@
 - name: David Kim
   photo: davidkim.jpg
   info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
-  email: jk2537 AT cornell edu
+  email: jk2537 AT cornell dot edu
   bio: David is a senior studying Computer Science and Electrical and Computer Engineering at Cornell University. He is planning to pursue a PhD in robotics after graduating from Cornell. Some of David's hobbies include biking around campus, playing board games with friends, and cooking.
   website: http://heydavid.kim
   type: 3
+
+- name: V Nguyen
+  photo: v_nguyen.jpg
+  info: Occupational Therapist
+  email: venture.vy AT gmail dot com
+  bio: "V earned her doctorate in occupational therapy at Pacific University in Hillsboro, Oregon. V’s main field of interest is promoting accessibility in health care and technologies - especially for underserved and rural populations.<br/><br/>V is an agent of change in the world of occupational therapy. She creates infinite accessible possibilities for individuals to accomplish their fun, fulfilling, and meaningful occupations no matter their stage in life. She strives to have others see greatness in themselves while engaging in lifelong active learning that enriches both her experiences and those she serves. She invites you to join her journey."
+  website: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
+  type: 4

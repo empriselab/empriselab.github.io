@@ -1,0 +1,17 @@
+---
+permalink: /photos/demo-day
+layout: page
+title: Demo Day
+full-width: true
+---
+
+<div class="container">
+  <div class="row d-flex flex-wrap align-items-center">
+    {% for image in site.static_files %} {% if image.path contains
+    'img/photos/2021-demo-day' %}
+    <div class="col-12 col-md-6 col-lg-3 pb-3">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
