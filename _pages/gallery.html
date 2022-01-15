@@ -2,7 +2,6 @@
 permalink: /gallery/
 layout: page
 title: Gallery
-css: /assets/css/gallery.css
 full-width: true
 ---
 
@@ -10,9 +9,15 @@ full-width: true
   <div class="row d-flex flex-wrap align-items-center">
     {% for image in site.static_files %} {% if image.path contains 'img/gallery'
     %}
-    <div class="col-12 col-md-6 col-lg-6 pb-4">
+    <div class="container pb-4">
+      <div class="col-12 col-md-6 col-lg-6 pb-1 center">
       <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
-    </div>
+      </div>
+      <div class="text-center">
+        <strong>{{ image.path | slice: 20, 200 | split: "." | first }}</strong>
+      </div>
+    </div> 
     {% endif %} {% endfor %}
+    </div>
   </div>
 </div>
