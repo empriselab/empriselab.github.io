@@ -7,6 +7,9 @@
 <loc>http://emprise.cs.cornell.edu/apply/</loc>
 </url>
 <url>
+<loc>http://emprise.cs.cornell.edu/gallery/</loc>
+</url>
+<url>
 <loc>http://emprise.cs.cornell.edu/hapticdatasets/</loc>
 </url>
 <url>
@@ -20,9 +23,6 @@
 </url>
 <url>
 <loc>http://emprise.cs.cornell.edu/people/</loc>
-</url>
-<url>
-<loc>http://emprise.cs.cornell.edu/photos/</loc>
 </url>
 <url>
 <loc>http://emprise.cs.cornell.edu/press/</loc>
