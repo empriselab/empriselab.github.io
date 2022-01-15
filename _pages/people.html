@@ -24,12 +24,22 @@ full-width: true
       style="float: left"
     />
 
+    {% if member == site.data.team_members.first %}
+    <div
+      class="text-center clickable-modal-trigger"
+      id="modal-trigger-text-{{ forloop.index }}"
+      style="position: relative; width: 150%; right: 25%"
+    >
+      <strong>{{ member.name }}</strong>
+    </div>
+    {% else %}
     <div
       class="text-center clickable-modal-trigger"
       id="modal-trigger-text-{{ forloop.index }}"
     >
       <strong>{{ member.name }}</strong>
     </div>
+    {% endif %}
 
     <!-- Hidden modal that opens when image clicked -->
     <div class="image-modal" id="modal-{{ forloop.index }}">
