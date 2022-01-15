@@ -1,0 +1,18 @@
+---
+permalink: /gallery/
+layout: page
+title: Gallery
+css: /assets/css/gallery.css
+full-width: true
+---
+
+<div class="container">
+  <div class="row d-flex flex-wrap align-items-center">
+    {% for image in site.static_files %} {% if image.path contains 'img/gallery'
+    %}
+    <div class="col-12 col-md-6 col-lg-6 pb-4">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
