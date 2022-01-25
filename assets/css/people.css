@@ -78,19 +78,22 @@
   font-weight: 700;
   padding-left: 50px;
 }
-.type-3 {
+.type-3-1 {
   grid-row: 8 / span 1;
+}
+.type-3-2 {
+  grid-row: 9 / span 1;
 }
 
 /* Honorary lab members */
 #row-label-4 {
-  grid-row: 9 / span 1;
+  grid-row: 10 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 .type-4 {
-  grid-row: 10 / span 1;
+  grid-row: 11 / span 1;
 }
 
 /* Modal related */
@@ -124,6 +127,12 @@
   padding: 20px;
   border-radius: 8px;
   width: 800px;
+}
+
+.tapo-title {
+  position: relative;
+  width: 150%;
+  right: 25%;
 }
 
 /* The close button for the modal */
@@ -170,5 +179,10 @@
   .image-modal-content {
     margin: 150px auto;
     width: 90%;
+  }
+  .tapo-title {
+    position: unset;
+    width: 100%;
+    right: 0;
   }
 }

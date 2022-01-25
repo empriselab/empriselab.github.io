@@ -44,7 +44,7 @@
   email: cathyye2000 AT sjtu dot edu dot cn
   bio: Ruolin Ye is currently a senior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
   website: https://yorucathy.github.io
-  type: 3
+  type: 3-1
 
 - name: Aparajito "Apu" Saha
   photo: Aparajito_Saha.jpg
@@ -52,7 +52,7 @@
   email: as2537 AT cornell dot edu
   bio: Apu is currently a senior studying Electrical and Computer Engineering and Computer Science at Cornell University. He is interested in investigating multi-sensor fusion approaches for improving autonomy in robots that interact with humans.
   website: https://aparajitosaha.github.io
-  type: 3
+  type: 3-1
 
 - name: David Kim
   photo: davidkim.jpg
@@ -60,7 +60,23 @@
   email: jk2537 AT cornell dot edu
   bio: David is a senior studying Computer Science and Electrical and Computer Engineering at Cornell University. He is planning to pursue a PhD in robotics after graduating from Cornell. Some of David's hobbies include biking around campus, playing board games with friends, and cooking.
   website: http://heydavid.kim
-  type: 3
+  type: 3-1
+
+- name: Brandon Man
+  photo: anon.png
+  info: Undergraduate Student, Computer Science
+  email: bm557 AT cornell dot edu
+  bio: Brandon is currently a sophomore studying Computer Science in the College of Egnineering. He is planning to pursue a Master's or PhD in robotics after graduating from Cornell. Brandon is primarily interested in robot manipulation, computer vision and tactile sensing.
+  website: ""
+  type: 3-2
+
+- name: Advika Ravi Kumar
+  photo: anon.png
+  info: Undergraduate Student
+  email: ar732 AT cornell dot edu
+  bio: ""
+  website: ""
+  type: 3-2
 
 - name: V Nguyen
   photo: v_nguyen.jpg
