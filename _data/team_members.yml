@@ -38,6 +38,14 @@
   website: ""
   type: 2
 
+- name: Daniel Stabile
+  photo: daniel.jpg
+  info: M.Eng. Student, Computer Science
+  email: dis52 AT cornell dot edu
+  bio: Daniel graduated with a B.S. in Computer Science in May 2021 and is currently pursuing an M.Eng in Computer Science as well. He’s interested in Robot Manipulation, CV, and ML. Daniel enjoys biking, cooking, and traveling.
+  website: https://danielstabile.com
+  type: 2
+
 - name: Ruolin Ye
   photo: ruolin.jpg
   info: Undergraduate Research Intern
