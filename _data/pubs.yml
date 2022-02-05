@@ -1,3 +1,11 @@
+- title: "Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer"
+  authors: Suneel Belkhale, Ethan Kroll Gordon, Yuxiao Chen, Siddhartha Srinivasa, Tapomayukh Bhattacharjee, Dorsa Sadigh
+  link:
+    url: ""
+  year: 2022
+  type: conf-journal
+  venue: IEEE International Conference on Robotics and Automation
+
 - title: "Benchmarking Structured Policies and Policy Optimization for Real-World Dexterous Object Manipulation"
   authors: Niklas Funk, Charles Schaff, Rishabh Madan, Takuma Yoneda, Julen Urain De Jesus, Joe Watson, Ethan K. Gordon, Felix Widmaier, Stefan Bauer, Siddhartha S. Srinivasa, Tapomayukh Bhattacharjee, Matthew R. Walter, and Jan Peters
   link:
@@ -38,7 +46,7 @@
   type: conf-journal
   venue: IEEE International Conference on Robotics and Automation.
   note:
-  
+
 - title: "Leveraging Post hoc Context for Faster Learning in Bandit Settings with Applications in Robot-assisted Feeding"
   authors: E.K. Gordon, S. Roychowdhury, T. Bhattacharjee, K. Jamieson, and S. S. Srinivasa.
   link:
