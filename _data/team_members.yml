@@ -71,7 +71,7 @@
   type: 3-1
 
 - name: Brandon Man
-  photo: anon.png
+  photo: brandon.jpeg
   info: Undergraduate Student, Computer Science
   email: bm557 AT cornell dot edu
   bio: Brandon is currently a sophomore studying Computer Science in the College of Egnineering. He is planning to pursue a Master's or PhD in robotics after graduating from Cornell. Brandon is primarily interested in robot manipulation, computer vision and tactile sensing.
@@ -79,10 +79,10 @@
   type: 3-2
 
 - name: Advika Ravi Kumar
-  photo: anon.png
+  photo: advika.png
   info: Undergraduate Student
   email: ar732 AT cornell dot edu
-  bio: ""
+  bio: Advika is a freshman pursuing Computer Science and a minor in Robotics at Cornell University. Her interest in Robotics stems from tinkering with Arduino and Raspberry Pi. Some of her other hobbies include playing tennis and hiking around campus.
   website: ""
   type: 3-2
 
