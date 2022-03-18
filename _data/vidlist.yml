@@ -1,36 +1,32 @@
-- title: HRI Autonomy
-  ytid: yZmwEA82Qfk
-- title: IROS Online Learning
-  ytid: drUPDtQ1FQ4
-- title: ISRR Generalizing
-  ytid: mv_IB6NS3XQ
-- title: HRI Transfer
-  ytid: bkkzGDVs4hc
-- title: Shear Sensing
-  ytid: 7fOn9QzpOag
-- title: Taxonomy
-  ytid: IFGMEF9vPI0
-- title: Multimodal Fabric
-  ytid: HXOBA0_x2s0
-- title: Expert Dancers
-  ytid: nxf43d4RPWw
-- title: Older Adults
-  ytid: g1bb_FTKbxQ
-- title: Thermal Recognition
-  ytid: vQL3WvnBb7U
-- title: Touch and Vision CRF
-  ytid: xptJdOCfXQk
-- title: Touch and Vision Vanilla
-  ytid: FTk8ewAP8yY
-- title: Whole-arm Tactile Sensing
-  ytid: -NUQfsJ9GMI
-- title: Multimodal tactile in home
-  ytid: DVunUMBhoB4
-- title: Rapid Categorization
-  ytid: G90Zbd7S1ok
-- title: Thermal Sensing
-  ytid: Wnrp2qOtios
-- title: Capacitive Skin Viz
-  ytid: Tkck625gwwI
-- title: Active Thermal Sensing Viz
-  ytid: RUqqum3Du3k
+- title: 'Adaptive Robot Assisted Feeding:  An Online Learning Framework for Acquiring
+    Previously Unseen Food'
+  ytid: DirKkmB8mW8
+- title: Grasping with Chopsticks
+  ytid: 8fJRVdOlZt0
+- title: Leveraging Post Hoc Context for Faster Learning in Bandit Settings applied
+    to Robot Assisted Feeding
+  ytid: qKMDVInq1gM
+- title: Caregiving Robots at Cornell
+  ytid: CJ66x7JfqG0
+- title: 'Grasping with Chopsticks: Combating Covariate Shift'
+  ytid: GEIzh5kyAoY
+- title: 'Chopsticks: Teleoperation vs. Autonomous Control'
+  ytid: _hWjzucGkqQ
+- title: Combining Touch and Vision using Dense CRF
+  ytid: LRI5tAhuu3s
+- title: CRF video
+  ytid: dwzvcamvXMo
+- title: Evaluating an Assistive Feeding Robot with Users with Mobility Limitations
+  ytid: U29P72JOess
+- title: Expert dancers evaluating a robot for partnered stepping exercise
+  ytid: AIRXa-pIV4M
+- title: Generalizing Skewering Strategies across Food Items
+  ytid: -f2FUCvgeIA
+- title: Multimodal tactile perception of objects in a real home
+  ytid: MVYVSOKF5Yg
+- title: Online Learning for Food Manipulation
+  ytid: oTDrI0n_ruQ
+- title: Rapid categorization using a forearm tactile skin
+  ytid: ntATgTLoNdM
+- title: Reaching in clutter using whole arm tactile sensing
+  ytid: -Zv1rPXxq1c
