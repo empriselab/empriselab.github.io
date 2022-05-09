@@ -2,7 +2,7 @@
  * Custom CSS for the People page.
  * 
  * -------------- PLEASE READ IF YOU WISH TO EDIT THE PAGE LAYOUT --------------
- * Last edited: 1/14/22
+ * Last edited: 5/9/22
  * For any questions, please reach out to jk2537@cornell.edu (David Kim, '22)
  * -----------------------------------------------------------------------------
  * Currently, the images are fixed into place using CSS Grid. The justification 
@@ -14,12 +14,12 @@
  * 
  * The general summary of how it works:
  * 1) A "type" identifier (PhD, MS, ...) is injected into each member's div.
- *    - Faculty = 0, PhD = 1, Masters = 2, Undergrads = 3, Other = 4
+ *    - Faculty = 0, PhD = 1, Masters = 2, Undergrads = 3, Other = 4, Alumni = 5
  * 2) Each type has a separate ROW with three columns for three people.
  * 3) If there are more than 3 people in the row for that type, then there are 
  *    several remedies:
  *    - The number of columns can be increased
- *    - Create additional rows for that type and move some people down
+ *    - Create additional rows for that type and move some people down (current)
  */
 
 .full-page {
@@ -27,7 +27,7 @@
   margin-left: auto;
   margin-right: auto;
   display: grid;
-  grid-template-rows: repeat(4, 50px 1fr);
+  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 0fr 50px 1fr 1fr 50px 1fr 50px 1fr;
   grid-template-columns: repeat(3, 1fr); /* Each person gets his/her column */
 }
 
@@ -67,33 +67,47 @@
   font-weight: 700;
   padding-left: 50px;
 }
-.type-2 {
+.type-2-1 {
   grid-row: 6 / span 1;
+}
+.type-2-2 {
+  grid-row: 7 / span 1;
 }
 
 /* Undergraduate students */
 #row-label-3 {
-  grid-row: 7 / span 1;
+  grid-row: 8 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 .type-3-1 {
-  grid-row: 8 / span 1;
+  grid-row: 9 / span 1;
 }
 .type-3-2 {
-  grid-row: 9 / span 1;
+  grid-row: 10 / span 1;
 }
 
 /* Honorary lab members */
 #row-label-4 {
-  grid-row: 10 / span 1;
+  grid-row: 11 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 .type-4 {
-  grid-row: 11 / span 1;
+  grid-row: 12 / span 1;
+}
+
+/* Lab alumni */
+#row-label-5 {
+  grid-row: 13 / span 1;
+  grid-column: 1 / span 3;
+  font-weight: 700;
+  padding-left: 50px;
+}
+.type-5 {
+  grid-row: 14 / span 1;
 }
 
 /* Modal related */
