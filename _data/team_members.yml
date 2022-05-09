@@ -28,7 +28,7 @@
   email: bx65 AT cornell dot edu
   bio: Boxin is passionate about combining hands-on experience with the implementation of the algorithm in the field of assistive and medical robots. Boxin is also interested in outdoor activities such as skiing and backpacking. Besides, she is a feminist that fights for equal rights for woman and the LGBTQ groups.
   website: ""
-  type: 2
+  type: 2-1
 
 - name: Elizabeth Healy
   photo: elizabeth.jpg
@@ -36,7 +36,7 @@
   email: eah255 AT cornell dot edu
   bio: Elizabeth graduated with a BS in Computer Science and a minor in Business from Cornell in May of 2021. Her background is primarily in artificial intelligence and machine learning and she is excited to explore the intersection between these fields and robotics.
   website: ""
-  type: 2
+  type: 5
 
 - name: Daniel Stabile
   photo: daniel.jpg
@@ -44,7 +44,15 @@
   email: dis52 AT cornell dot edu
   bio: Daniel graduated with a B.S. in Computer Science in May 2021 and is currently pursuing an M.Eng in Computer Science as well. He’s interested in Robot Manipulation, CV, and ML. Daniel enjoys biking, cooking, and traveling.
   website: https://danielstabile.com
-  type: 2
+  type: 2-1
+
+- name: Skyler Valdez
+  photo: skyler.jpg
+  info: M.S. Student, Computer Science
+  email: sav68 AT cornell dot edu
+  bio: Skyler graduated from the University of New Mexico in May 2021 with a B.S. in Computer Engineering. She went on to pursue an M.S. in Computer Science at Cornell University as a recipient of the Critical Skills scholarship awarded by Sandia National Labs. Her interests consist largely of computer vision and machine learning and their applications in the field of assistive robotics. In her free time Skyler enjoys painting, cooking, rock climbing, and game development.
+  website: ""
+  type: 2-1
 
 - name: Ruolin Ye
   photo: ruolin.jpg
@@ -60,7 +68,7 @@
   email: as2537 AT cornell dot edu
   bio: Apu is currently a senior studying Electrical and Computer Engineering and Computer Science at Cornell University. He is interested in investigating multi-sensor fusion approaches for improving autonomy in robots that interact with humans.
   website: https://aparajitosaha.github.io
-  type: 3-1
+  type: 5
 
 - name: David Kim
   photo: davidkim.jpg
@@ -76,7 +84,7 @@
   email: bm557 AT cornell dot edu
   bio: Brandon is currently a sophomore studying Computer Science in the College of Egnineering. He is planning to pursue a Master's or PhD in robotics after graduating from Cornell. Brandon is primarily interested in robot manipulation, computer vision and tactile sensing.
   website: ""
-  type: 3-2
+  type: 3-1
 
 - name: Advika Ravi Kumar
   photo: advika.png
@@ -86,10 +94,34 @@
   website: ""
   type: 3-2
 
+- name: Sidharth Vasudev
+  photo: sidharth.jpeg
+  info: Undergraduate Student
+  email: sv355 AT cornell dot edu
+  bio: Sidharth is a Junior in Computer Science. His interests lie in the field of Artificial Intelligence Intelligent Decision Making. He is particularly interested in the applications of such techniques in the world, leading to his strong interest in robotics. Sidharth enjoys watching (and playing) basketball, reading, gaming, and going on treks.
+  website: ""
+  type: 3-2
+
+- name: Sienna Hu
+  photo: anon.png
+  info: Undergraduate Student
+  email: AT cornell dot edu
+  bio: ""
+  website: ""
+  type: 3-2
+
 - name: V Nguyen
   photo: v_nguyen.jpg
   info: Occupational Therapist
   email: venture.vy AT gmail dot com
   bio: "V earned her doctorate in occupational therapy at Pacific University in Hillsboro, Oregon. V’s main field of interest is promoting accessibility in health care and technologies - especially for underserved and rural populations.<br/><br/>V is an agent of change in the world of occupational therapy. She creates infinite accessible possibilities for individuals to accomplish their fun, fulfilling, and meaningful occupations no matter their stage in life. She strives to have others see greatness in themselves while engaging in lifelong active learning that enriches both her experiences and those she serves. She invites you to join her journey."
   website: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
+  type: 4
+
+- name: Katherine Dimitropoulou
+  photo: katherine.jpeg
+  info: Occupational Therapist
+  email: kd2524 AT cumc dot columbia dot edu
+  bio: ""
+  website: https://www.vagelos.columbia.edu/profile/katherine-dimitropoulou-phd
   type: 4
