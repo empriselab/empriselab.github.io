@@ -30,14 +30,6 @@
   website: ""
   type: 2-1
 
-- name: Elizabeth Healy
-  photo: elizabeth.jpg
-  info: M.Eng. Student, Computer Science
-  email: eah255 AT cornell dot edu
-  bio: Elizabeth graduated with a BS in Computer Science and a minor in Business from Cornell in May of 2021. Her background is primarily in artificial intelligence and machine learning and she is excited to explore the intersection between these fields and robotics.
-  website: ""
-  type: 5
-
 - name: Daniel Stabile
   photo: daniel.jpg
   info: M.Eng. Student, Computer Science
@@ -61,14 +53,6 @@
   bio: Ruolin Ye is currently a senior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
   website: https://yorucathy.github.io
   type: 3-1
-
-- name: Aparajito "Apu" Saha
-  photo: Aparajito_Saha.jpg
-  info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
-  email: as2537 AT cornell dot edu
-  bio: Apu is currently a senior studying Electrical and Computer Engineering and Computer Science at Cornell University. He is interested in investigating multi-sensor fusion approaches for improving autonomy in robots that interact with humans.
-  website: https://aparajitosaha.github.io
-  type: 5
 
 - name: David Kim
   photo: davidkim.jpg
