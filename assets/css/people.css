@@ -14,7 +14,7 @@
  * 
  * The general summary of how it works:
  * 1) A "type" identifier (PhD, MS, ...) is injected into each member's div.
- *    - Faculty = 0, PhD = 1, Masters = 2, Undergrads = 3, Other = 4, Alumni = 5
+ *    - Faculty = 0, PhD = 1, Masters = 2, Undergrads = 3, Other = 4
  * 2) Each type has a separate ROW with three columns for three people.
  * 3) If there are more than 3 people in the row for that type, then there are 
  *    several remedies:
@@ -26,8 +26,11 @@
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.grid-container {
   display: grid;
-  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 0fr 50px 1fr 1fr 50px 1fr 50px 1fr;
+  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 0fr 50px 1fr 1fr 50px 1fr;
   grid-template-columns: repeat(3, 1fr); /* Each person gets his/her column */
 }
 
@@ -100,14 +103,34 @@
 }
 
 /* Lab alumni */
-#row-label-5 {
-  grid-row: 13 / span 1;
-  grid-column: 1 / span 3;
-  font-weight: 700;
+#alumni {
   padding-left: 50px;
 }
-.type-5 {
-  grid-row: 14 / span 1;
+
+#alumni-label {
+  font-weight: 700;
+}
+
+.alumni-entries {
+  display: grid;
+  grid-template-columns: 200px auto;
+  grid-template-rows: 1fr;
+  grid-template-areas: "name desc";
+  column-gap: 20px;
+  margin-bottom: 5px;
+}
+
+.alumni-names {
+  grid-area: name;
+  justify-self: start;
+  align-self: start;
+  font-weight: bold;
+}
+
+.alumni-descriptions {
+  grid-area: desc;
+  justify-self: start;
+  align-self: start;
 }
 
 /* Modal related */

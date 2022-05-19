@@ -1,0 +1,22 @@
+/*
+ * Custom CSS for the People page.
+ */
+
+.gallery-img-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: normal;
+  align-items: center;
+  padding: 5px;
+}
+
+.gallery-img-item {
+  margin: 5px;
+  width: 48%;
+}
+
+@media screen and (max-width: 768px) {
+  .gallery-img-item {
+    width: 100%;
+  }
+}
