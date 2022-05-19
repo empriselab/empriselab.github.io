@@ -2,22 +2,26 @@
 permalink: /gallery/
 layout: page
 title: Gallery
+css: /assets/css/gallery.css
 full-width: true
 ---
 
 <div class="container">
-  <div class="row d-flex flex-wrap align-items-center">
-    {% for image in site.static_files %} {% if image.path contains 'img/gallery'
-    %}
+  <div class="row d-flex flex-wrap">
+    {% for event in site.data.gallery %}
     <div class="container pb-4">
-      <div class="col-12 col-md-6 col-lg-6 pb-1 center">
-      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+      <h2>{{ event.title }}</h2>
+      <div>{{ event.caption }}</div>
+      <div class="center gallery-img-container">
+        {% for image_path in event.images %}
+        <img
+          src="/assets/img/gallery/{{ site.baseurl }}{{ image_path }}"
+          alt='{{ image_path | split: "." | first }}'
+          class="gallery-img-item"
+        />
+        {% endfor %}
       </div>
-      <div class="text-center">
-        <strong>{{ image.path | slice: 21, 200 | split: "." | first }}</strong>
-      </div>
-    </div> 
-    {% endif %} {% endfor %}
     </div>
+    {% endfor %}
   </div>
 </div>

@@ -1,0 +1,22 @@
+- title: "Lab BBQ at Myers Park"
+  caption: "The lab went to Myers Park on May 7th, 2022, to wrap up the spring semester and welcome the new members."
+  images:
+    - "bbq1.jpg"
+    - "bbq2.jpg"
+    - "bbq3.jpg"
+    - "bbq4.jpg"
+
+- title: "CS 4750 Demo Day"
+  caption: "Students in Tapo's class, Foundations of Robotics, were invited to the lab to see demos of various robots. Advika really likes the robot meal plan!"
+  images:
+    - "robot_feeding.jpg"
+
+- title: "Ethan's farewell dinner :("
+  caption: "The lab met at the Boatyard Grill to say farewell to Ethan, who was visiting from the Personal Robotics Lab at UW."
+  images:
+    - "ethan_dinner.jpg"
+
+- title: "Lab dinner at Four Seasons"
+  caption: "Kay visiting Ithaca!"
+  images:
+    - "kay.jpg"
