@@ -86,26 +86,26 @@
   website: ""
   type: 3-2
 
-- name: Sienna Hu
-  photo: anon.png
+- name: Xuefeng (Sienna) Hu
+  photo: sienna.jpg
   info: Undergraduate Student
-  email: AT cornell dot edu
-  bio: ""
+  email: xh244 AT cornell dot edu
+  bio: "Xuefeng is a Junior in Computer Science (A fun fact: she transferred from Fashion Design major to CS). She's interested in Software Engineering and Robotics, as there are so many real-life applications of these fields and contribute to a better society through computing. During her spare time, she loves TV dramas/shows, photography, painting and spending time with friends."
   website: ""
   type: 3-2
 
-- name: V Nguyen
-  photo: v_nguyen.jpg
-  info: Occupational Therapist
-  email: venture.vy AT gmail dot com
-  bio: "V earned her doctorate in occupational therapy at Pacific University in Hillsboro, Oregon. V’s main field of interest is promoting accessibility in health care and technologies - especially for underserved and rural populations.<br/><br/>V is an agent of change in the world of occupational therapy. She creates infinite accessible possibilities for individuals to accomplish their fun, fulfilling, and meaningful occupations no matter their stage in life. She strives to have others see greatness in themselves while engaging in lifelong active learning that enriches both her experiences and those she serves. She invites you to join her journey."
-  website: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
-  type: 4
-
-- name: Katherine Dimitropoulou
+- name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
   email: kd2524 AT cumc dot columbia dot edu
   bio: ""
   website: https://www.vagelos.columbia.edu/profile/katherine-dimitropoulou-phd
+  type: 4
+
+- name: Dr. V Nguyen
+  photo: v_nguyen.jpg
+  info: Occupational Therapist
+  email: venture.vy AT gmail dot com
+  bio: "V earned her doctorate in occupational therapy at Pacific University in Hillsboro, Oregon. V’s main field of interest is promoting accessibility in health care and technologies - especially for underserved and rural populations.<br/><br/>V is an agent of change in the world of occupational therapy. She creates infinite accessible possibilities for individuals to accomplish their fun, fulfilling, and meaningful occupations no matter their stage in life. She strives to have others see greatness in themselves while engaging in lifelong active learning that enriches both her experiences and those she serves. She invites you to join her journey."
+  website: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
   type: 4
