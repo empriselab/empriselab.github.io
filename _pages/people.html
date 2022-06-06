@@ -68,12 +68,13 @@ full-width: true
     <h2 class="row-label" id="alumni-label">Alumni</h2>
     {% for alum in site.data.alumni %}
     <div class="alumni-entries">
-      <div class="alumni-names">
+      <div class="alumni-names grid-child">
         {% if alum.website != "" %}
         <a href="{{ alum.website }}" target="_blank">{{ alum.name }}</a>
         {% else %} {{ alum.name }} {% endif %}
       </div>
-      <div class="alumni-descriptions">{{ alum.info }}</div>
+      <div class="alumni-department grid-child">{{ alum.department }}</div>
+      <div class="alumni-job grid-child">{{ alum.job }}</div>
     </div>
     {% endfor %}
   </div>
