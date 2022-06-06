@@ -1,7 +1,9 @@
 - name: Elizabeth Healy
-  info: MEng 2022, now Full-Stack Engineer at Virtru
-  website: ""
+  department: MEng, CS 2022
+  job: Full-Stack Engineer at Virtru
+  website: https://www.linkedin.com/in/elizabeth-a-healy
 
 - name: Aparajito Saha
-  info: BS 2022, now Software Development Engineer at Amazon Robotics
+  department: BS, CS & ECE 2022
+  job: Software Development Engineer at Amazon Robotics
   website: https://aparajitosaha.github.io
