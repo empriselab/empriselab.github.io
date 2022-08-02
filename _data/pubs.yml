@@ -1,3 +1,35 @@
+- title: "Human-Robot Commensality: Bite Timing Prediction for Robot-Assisted Feeding in Groups"
+  authors: Jan Ondras*, Abrar Anwar*, Tong Wu*, Fanjun Bu, Malte Jung, Jorge Jose Ortiz, Tapomayukh Bhattacharjee
+  link:
+    url: "https://arxiv.org/abs/2207.03348"
+  year: 2022
+  type: preprint
+  venue: arXiv preprint
+
+- title: "RCareWorld: A Human-centric Simulation World for Caregiving Robots"
+  authors: Ruolin Ye*, Wenqiang Xu*, Haoyuan Fu, Rajat Kumar Jenamani, Vy Nguyen, Cewu Lu, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
+  link:
+    url: ""
+  year: 2022
+  type: conf-journal
+  venue: IEEE International Conference on Intelligent Robots and Systems
+
+- title: "SPARCS: Structuring Physically Assistive Robotics for Caregiving with Stakeholders-in-the-loop"
+  authors: Rishabh Madan*, Rajat Kumar Jenamani*, Vy Thuy Nguyen, Ahmed Moustafa, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
+  link:
+    url: ""
+  year: 2022
+  type: conf-journal
+  venue: IEEE International Conference on Intelligent Robots and Systems
+
+- title: "Learning from Demonstration using a Curvature Regularized Variational Auto-Encoder (CurvVAE)"
+  authors: Travers Rhodes*, Tapomayukh Bhattacharjee, Daniel Lee
+  link:
+    url: ""
+  year: 2022
+  type: conf-journal
+  venue: IEEE International Conference on Intelligent Robots and Systems
+
 - title: "Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer"
   authors: Suneel Belkhale, Ethan Kroll Gordon, Yuxiao Chen, Siddhartha Srinivasa, Tapomayukh Bhattacharjee, Dorsa Sadigh
   link:
