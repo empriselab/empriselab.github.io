@@ -121,6 +121,14 @@
   margin-bottom: 5px;
 }
 
+.grid-parent {
+  display: grid;
+  grid-template-columns: 80px auto;
+  grid-template-rows: 1fr;
+  column-gap: 20px;
+  margin-bottom: 20px;
+}
+
 .grid-child {
   justify-self: start;
   align-self: start;
