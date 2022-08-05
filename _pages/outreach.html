@@ -6,13 +6,28 @@ full-page: true
 ---
 
 <div class="container">
+  <h1>SoNIC Workshop</h1>
   <div class="row d-flex flex-wrap align-items-center">
     {% for image in site.static_files %} {% if image.path contains
-    'img/outreach/vert' %}
+    'img/outreach/sonic_vert' %}
     <div class="col-12 col-md-4 col-lg-4 pb-3">
       <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
     </div>
-    {% elsif image.path contains 'img/outreach/hori' %}
+    {% elsif image.path contains 'img/outreach/sonic_hori' %}
+    <div class="col-12 col-md-6 col-lg-6 pb-3">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+
+  <h1>CS 4750 Demo Day</h1>
+  <div class="row d-flex flex-wrap align-items-center">
+    {% for image in site.static_files %} {% if image.path contains
+    'img/outreach/demo_vert' %}
+    <div class="col-12 col-md-4 col-lg-4 pb-3">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+    </div>
+    {% elsif image.path contains 'img/outreach/demo_hori' %}
     <div class="col-12 col-md-6 col-lg-6 pb-3">
       <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
     </div>

@@ -2,31 +2,36 @@
 permalink: /publications/
 layout: page
 title: Publications
+css: /assets/css/people.css
 ---
 
-{% assign pubs_by_year = site.data.pubs | group_by: 'year' %}
-{% for year in pubs_by_year %}
+{% assign pubs_by_year = site.data.pubs | group_by: 'year' %} {% for year in
+pubs_by_year %}
 <h3>{{ year.name }}</h3>
 
-{% assign pubs_by_type = year.items | group_by: 'type' %}
-{% for type_group in pubs_by_type %}
-{% if type_group.name == 'conf-journal' %}
-{% assign group_title = 'Conference / Journal Papers' %}
-{% elsif type_group.name == 'other' %}
-{% assign group_title = 'Other Papers' %}
-{% endif %}
+{% assign pubs_by_type = year.items | group_by: 'type' %} {% for type_group in
+pubs_by_type %} {% if type_group.name == 'conf-journal' %} {% assign group_title
+= 'Conference / Journal Papers' %} {% elsif type_group.name == 'other' %} {%
+assign group_title = 'Other Papers' %} {% endif %}
 
 <h4>{{ group_title }}</h4>
 
 {% for pub in type_group.items %}
-<p>
-<a href="{{ pub.link.url }}">{{ pub.title }}</a>
-<br/>{{ pub.authors }}
-<br/><em>{{ pub.venue }}</em>&nbsp;{{ pub.year }}.
-{% if pub.note %}
-<br/><strong>{{ pub.note }}</strong>
-{% endif %}
-</p>
-{% endfor %}
-{% endfor %}
-{% endfor %}
+<div class="grid-parent">
+  <img
+    class="grid-child"
+    src="{{
+      '/assets/img/pubs/' | append: pub.thumbnail | relative_url }}"
+  />
+  <div class="grid-child">
+    <a href="{{ pub.link.url }}">{{ pub.title }}</a>
+    <br />
+    {{ pub.authors }}
+    <br />
+    <em>{{ pub.venue }}.</em>&nbsp;{{ pub.year }}. {% if pub.note %}
+    <br />
+    <strong>{{ pub.note }}</strong>
+    {% endif %}
+  </div>
+</div>
+{% endfor %} {% endfor %} {% endfor %}
