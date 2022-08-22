@@ -7,6 +7,17 @@ full-page: true
 
 <div class="container">
   <h1>SoNIC Workshop</h1>
+
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/j8Jo-ZJdJWY"
+    title="SoNIC summer workshop elevates and inspires future roboticists"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+
   <div class="row d-flex flex-wrap align-items-center">
     {% for image in site.static_files %} {% if image.path contains
     'img/outreach/sonic_vert' %}
@@ -28,6 +39,20 @@ full-page: true
       <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
     </div>
     {% elsif image.path contains 'img/outreach/demo_hori' %}
+    <div class="col-12 col-md-6 col-lg-6 pb-3">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+
+  <h1>Other Outreach Events</h1>
+  <div class="row d-flex flex-wrap align-items-center">
+    {% for image in site.static_files %} {% if image.path contains
+    'img/outreach/other_vert' %}
+    <div class="col-12 col-md-4 col-lg-4 pb-3">
+      <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
+    </div>
+    {% elsif image.path contains 'img/outreach/other_hori' %}
     <div class="col-12 col-md-6 col-lg-6 pb-3">
       <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
     </div>

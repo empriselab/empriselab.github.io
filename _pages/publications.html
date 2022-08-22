@@ -18,11 +18,15 @@ assign group_title = 'Other Papers' %} {% endif %}
 
 {% for pub in type_group.items %}
 <div class="grid-parent">
+  {% if pub.alt == 0 %}
   <img
     class="grid-child"
-    src="{{
-      '/assets/img/pubs/' | append: pub.thumbnail | relative_url }}"
+    src="{{ '/assets/img/pubs_2022/' | append: pub.thumbnail | relative_url }}"
   />
+  {% else %} {% for image in site.static_files %} {% assign vr = 'img/pubs/' |
+  append: pub.alt | append: '_' %} {% if image.path contains vr %}
+  <img class="grid-child" src="{{ site.baseurl }}{{ image.path }}" alt="" />
+  {% endif %} {% endfor %} {% endif %}
   <div class="grid-child">
     <a href="{{ pub.link.url }}">{{ pub.title }}</a>
     <br />
