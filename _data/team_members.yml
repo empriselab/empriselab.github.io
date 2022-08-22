@@ -22,6 +22,14 @@
   website: https://rkjenamani.github.io
   type: 1
 
+- name: Ruolin Ye
+  photo: ruolin.jpg
+  info: Ph.D. Student, Computer Science
+  email: cathyye2000 AT sjtu dot edu dot cn
+  bio: Ruolin Ye is currently a senior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
+  website: https://yorucathy.github.io
+  type: 1
+
 - name: Boxin Xu
   photo: boxin.jpg
   info: M.S. Student, Mechanical Engineering
@@ -46,14 +54,6 @@
   website: ""
   type: 2-1
 
-- name: Ruolin Ye
-  photo: ruolin.jpg
-  info: Undergraduate Research Intern
-  email: cathyye2000 AT sjtu dot edu dot cn
-  bio: Ruolin Ye is currently a senior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
-  website: https://yorucathy.github.io
-  type: 3-1
-
 - name: David Kim
   photo: davidkim.jpg
   info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
@@ -76,7 +76,7 @@
   email: ar732 AT cornell dot edu
   bio: Advika is a freshman pursuing Computer Science and a minor in Robotics at Cornell University. Her interest in Robotics stems from tinkering with Arduino and Raspberry Pi. Some of her other hobbies include playing tennis and hiking around campus.
   website: ""
-  type: 3-2
+  type: 3-1
 
 - name: Sidharth Vasudev
   photo: sidharth.jpeg
