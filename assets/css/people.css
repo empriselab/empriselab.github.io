@@ -151,6 +151,7 @@
 
 .clickable-modal-trigger {
   color: #007bff;
+  height: 100%
 }
 
 .clickable-modal-trigger:hover {
@@ -223,6 +224,8 @@
   }
   .img-fluid {
     margin-bottom: 10px;
+    /* height: 100%; */
+    /* width: 100%; */
   }
   #professor-name {
     display: block !important;
