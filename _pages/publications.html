@@ -3,39 +3,46 @@ permalink: /publications/
 layout: page
 title: Publications
 css: /assets/css/people.css
+full-width: true
 ---
 
-{% assign pubs_by_year = site.data.pubs | group_by: 'year' %} {% for year in
-pubs_by_year %}
-<h3>{{ year.name }}</h3>
+<div class="container">
+  {% assign pubs_by_year = site.data.pubs | group_by: 'year' %} {% for year in
+  pubs_by_year %}
+  <h3>{{ year.name }}</h3>
 
-{% assign pubs_by_type = year.items | group_by: 'type' %} {% for type_group in
-pubs_by_type %} {% if type_group.name == 'conf-journal' %} {% assign group_title
-= 'Conference / Journal Papers' %} {% elsif type_group.name == 'other' %} {%
-assign group_title = 'Other Papers' %} {% endif %}
+  {% assign pubs_by_type = year.items | group_by: 'type' %} {% for type_group in
+  pubs_by_type %} {% if type_group.name == 'conf-journal' %} {% assign
+  group_title = 'Conference / Journal Papers' %} {% elsif type_group.name ==
+  'other' %} {% assign group_title = 'Other Papers' %} {% endif %}
 
-<h4>{{ group_title }}</h4>
+  <h4>{{ group_title }}</h4>
 
-{% for pub in type_group.items %}
-<div class="grid-parent">
-  {% if pub.alt == 0 %}
-  <img
-    class="grid-child"
-    src="{{ '/assets/img/pubs_2022/' | append: pub.thumbnail | relative_url }}"
-  />
-  {% else %} {% for image in site.static_files %} {% assign vr = 'img/pubs/' |
-  append: pub.alt | append: '_' %} {% if image.path contains vr %}
-  <img class="grid-child" src="{{ site.baseurl }}{{ image.path }}" alt="" />
-  {% endif %} {% endfor %} {% endif %}
-  <div class="grid-child">
-    <a href="{{ pub.link.url }}">{{ pub.title }}</a>
-    <br />
-    {{ pub.authors }}
-    <br />
-    <em>{{ pub.venue }}.</em>&nbsp;{{ pub.year }}. {% if pub.note %}
-    <br />
-    <strong>{{ pub.note }}</strong>
-    {% endif %}
+  {% for pub in type_group.items %}
+  <div class="pub-grid-parent">
+    {% if pub.alt == 0 %}
+    <img
+      class="pub-grid-child"
+      src="{{ '/assets/img/pubs_2022/' | append: pub.thumbnail | relative_url }}"
+    />
+    {% else %} {% for image in site.static_files %} {% assign vr = 'img/pubs/' |
+    append: pub.alt | append: '_' %} {% if image.path contains vr %}
+    <img
+      class="pub-grid-child"
+      src="{{ site.baseurl }}{{ image.path }}"
+      alt=""
+    />
+    {% endif %} {% endfor %} {% endif %}
+    <div class="pub-grid-child">
+      <a href="{{ pub.link.url }}">{{ pub.title }}</a>
+      <br />
+      {{ pub.authors }}
+      <br />
+      <em>{{ pub.venue }}.</em>&nbsp;{{ pub.year }}. {% if pub.note %}
+      <br />
+      <strong>{{ pub.note }}</strong>
+      {% endif %}
+    </div>
   </div>
+  {% endfor %} {% endfor %} {% endfor %}
 </div>
-{% endfor %} {% endfor %} {% endfor %}

@@ -114,11 +114,24 @@
 
 .alumni-entries {
   display: grid;
-  grid-template-columns: 200px 200px auto;
+  grid-template-columns: 200px 250px auto;
   grid-template-rows: 1fr;
   grid-template-areas: "name dept job";
   column-gap: 20px;
   margin-bottom: 5px;
+}
+
+.pub-grid-parent {
+  display: grid;
+  grid-template-columns: 200px auto;
+  grid-template-rows: 1fr;
+  column-gap: 20px;
+  margin-bottom: 20px;
+}
+
+.pub-grid-child {
+  justify-self: start;
+  align-self: start;
 }
 
 .grid-parent {
