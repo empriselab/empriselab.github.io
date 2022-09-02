@@ -5,7 +5,7 @@
   year: 2022
   type: preprint
   venue: arXiv preprint
-  thumbnail: arxiv.png
+  thumbnail: 1_human_robot_commensality.gif
   alt: 0
 
 - title: "RCareWorld: A Human-centric Simulation World for Caregiving Robots"
@@ -15,7 +15,7 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Intelligent Robots and Systems
-  thumbnail: iros.png
+  thumbnail: emprise-logo.png
   alt: 0
 
 - title: "SPARCS: Structuring Physically Assistive Robotics for Caregiving with Stakeholders-in-the-loop"
@@ -25,7 +25,7 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Intelligent Robots and Systems
-  thumbnail: iros.png
+  thumbnail: emprise-logo.png
   alt: 0
 
 - title: "Learning from Demonstration using a Curvature Regularized Variational Auto-Encoder (CurvVAE)"
@@ -35,7 +35,7 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Intelligent Robots and Systems
-  thumbnail: iros.png
+  thumbnail: 4_curvvae.gif
   alt: 0
 
 - title: "Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer"
@@ -45,7 +45,7 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Robotics and Automation
-  thumbnail: icra.png
+  thumbnail: 5_bite_transfer.gif
   alt: 0
 
 - title: "Benchmarking Structured Policies and Policy Optimization for Real-World Dexterous Object Manipulation"
