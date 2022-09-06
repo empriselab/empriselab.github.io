@@ -18,16 +18,16 @@
   photo: rajat.jpg
   info: Ph.D. Student, Computer Science
   email: rj277 AT cornell dot edu
-  bio: Rajat's research interests are in motion planning, human-robot interaction, and machine learning. Rajat received his B.Tech in Computer Science and Engineering from IIT Kharagpur.
-  website: https://rkjenamani.github.io
+  bio: "Rajat's research interests are in human-robot interaction and machine learning. Rajat received his B.Tech in Computer Science and Engineering from IIT Kharagpur."
+  website: https://www.cs.cornell.edu/~rkjenamani
   type: 1
 
 - name: Ruolin Ye
   photo: ruolin.png
   info: Ph.D. Student, Computer Science
-  email: cathyye2000 AT sjtu dot edu dot cn
-  bio: Ruolin Ye is currently a senior undergraduate student from Shanghai Jiao Tong University. She wants to enable robots to seamlessly interact with humans, and believes multimodal perception and adaptive planning are the first steps to achieve this.
-  website: https://yorucathy.github.io
+  email: ry273 AT cornell dot edu
+  bio: "Ruolin is a first year PhD student in Cornell University. Her research interests include human-robot interaction, simulation, and multimodal perception. Ruolin received her B.Engineering from Shanghai Jiao Tong University."
+  website: https://sites.google.com/view/ruolin-ye/home
   type: 1
 
 - name: Boxin Xu
