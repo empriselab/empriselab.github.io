@@ -8,6 +8,16 @@
   thumbnail: 1_human_robot_commensality.gif
   alt: 0
 
+- title: "Analyzing Material Recognition Performance of Thermal Tactile Sensing using a Large Materials Database and a Real Robot"
+  authors: Haoping Bai, Haofeng Chen, Elizabeth Healy, Charles C. Kemp, Tapomayukh Bhattacharjee
+  link:
+    url: "https://arxiv.org/abs/1711.01490"
+  year: 2022
+  type: preprint
+  venue: arXiv preprint
+  thumbnail: emprise-logo.png
+  alt: 0
+
 - title: "RCareWorld: A Human-centric Simulation World for Caregiving Robots"
   authors: Ruolin Ye*, Wenqiang Xu*, Haoyuan Fu, Rajat Kumar Jenamani, Vy Nguyen, Cewu Lu, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
   link:

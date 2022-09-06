@@ -40,7 +40,7 @@
 
 - name: Daniel Stabile
   photo: daniel.jpg
-  info: M.Eng. Student, Computer Science
+  info: M.S. Student, Computer Science
   email: dis52 AT cornell dot edu
   bio: Daniel graduated with a B.S. in Computer Science in May 2021 and is currently pursuing an M.Eng in Computer Science as well. He’s interested in Robot Manipulation, CV, and ML. Daniel enjoys biking, cooking, and traveling.
   website: https://danielstabile.com
@@ -56,11 +56,19 @@
 
 - name: David Kim
   photo: davidkim.jpg
-  info: Undergraduate Student, Computer Science & Electrical and Computer Engineering
+  info: M.Eng. Student, Computer Science
   email: jk2537 AT cornell dot edu
-  bio: David is a senior studying Computer Science and Electrical and Computer Engineering at Cornell University. He is planning to pursue a PhD in robotics after graduating from Cornell. Some of David's hobbies include biking around campus, playing board games with friends, and cooking.
+  bio: David is an M.Eng. student in Computer Science. Some of David's hobbies include biking around campus, playing board games with friends, and traveling.
   website: http://heydavid.kim
-  type: 3-1
+  type: 2-2
+
+- name: Grace Zhang
+  photo: grace.png
+  info: M.Eng Student, Electrical and Computer Engineering
+  email: gtz4 AT cornell dot edu
+  bio: "Grace is a Master of Engineering student studying Electrical and Computer Engineering at Cornell University. She graduated with her B.S. from Cornell University in Spring 2022. Her interests lie in robotics, embedded systems, and medical applications of the two. In her free time, she enjoys dancing, traveling, and spending time with friends."
+  website: "https://umdiddle.github.io/"
+  type: 2-2
 
 - name: Brandon Man
   photo: brandon.jpeg
@@ -84,13 +92,21 @@
   email: sv355 AT cornell dot edu
   bio: Sidharth is a Junior in Computer Science. His interests lie in the field of Artificial Intelligence Intelligent Decision Making. He is particularly interested in the applications of such techniques in the world, leading to his strong interest in robotics. Sidharth enjoys watching (and playing) basketball, reading, gaming, and going on treks.
   website: ""
-  type: 3-2
+  type: 3-1
 
 - name: Xuefeng (Sienna) Hu
   photo: sienna.jpg
   info: Undergraduate Student
   email: xh244 AT cornell dot edu
   bio: "Xuefeng is a Junior in Computer Science (A fun fact: she transferred from Fashion Design major to CS). She's interested in Software Engineering and Robotics, as there are so many real-life applications of these fields and contribute to a better society through computing. During her spare time, she loves TV dramas/shows, photography, painting and spending time with friends."
+  website: ""
+  type: 3-2
+
+- name: Boao (Mark) Dong
+  photo: mark.jpg
+  info: Undergraduate Student
+  email: bd324 AT cornell dot edu
+  bio: "Boao is a senior student majoring Computer Science and Economics. He likes human-robot interaction and simulation. He likes music and acting."
   website: ""
   type: 3-2
 
