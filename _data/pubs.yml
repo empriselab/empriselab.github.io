@@ -1,13 +1,3 @@
-- title: "Human-Robot Commensality: Bite Timing Prediction for Robot-Assisted Feeding in Groups"
-  authors: Jan Ondras*, Abrar Anwar*, Tong Wu*, Fanjun Bu, Malte Jung, Jorge Jose Ortiz, Tapomayukh Bhattacharjee
-  link:
-    url: "https://arxiv.org/abs/2207.03348"
-  year: 2022
-  type: preprint
-  venue: arXiv preprint
-  thumbnail: 1_human_robot_commensality.gif
-  alt: 0
-
 - title: "Analyzing Material Recognition Performance of Thermal Tactile Sensing using a Large Materials Database and a Real Robot"
   authors: Haoping Bai, Haofeng Chen, Elizabeth Healy, Charles C. Kemp, Tapomayukh Bhattacharjee
   link:
@@ -16,6 +6,16 @@
   type: preprint
   venue: arXiv preprint
   thumbnail: emprise-logo.png
+  alt: 0
+
+- title: "Human-Robot Commensality: Bite Timing Prediction for Robot-Assisted Feeding in Groups"
+  authors: Jan Ondras*, Abrar Anwar*, Tong Wu*, Fanjun Bu, Malte Jung, Jorge Jose Ortiz, Tapomayukh Bhattacharjee
+  link:
+    url: "https://arxiv.org/abs/2207.03348"
+  year: 2022
+  type: conf-journal
+  venue: arXiv preprint
+  thumbnail: 1_human_robot_commensality.gif
   alt: 0
 
 - title: "RCareWorld: A Human-centric Simulation World for Caregiving Robots"
