@@ -14,7 +14,8 @@
     url: "https://arxiv.org/abs/2207.03348"
   year: 2022
   type: conf-journal
-  venue: arXiv preprint
+  venue: 2022 Conference on Robot Learning
+  website: https://emprise.cs.cornell.edu/hrcom/
   thumbnail: 1_human_robot_commensality.gif
   alt: 0
 
@@ -25,7 +26,9 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Intelligent Robots and Systems
-  thumbnail: emprise-logo.png
+  note: Nominated for Best Paper Award, ABB Best Student Paper Award, and Best RoboCup Paper Award sponsored by RoboCup Federation at IROS 2022
+  website: https://emprise.cs.cornell.edu/rcareworld/
+  thumbnail: 2_rcareworld.gif
   alt: 0
 
 - title: "SPARCS: Structuring Physically Assistive Robotics for Caregiving with Stakeholders-in-the-loop"
@@ -35,6 +38,7 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Intelligent Robots and Systems
+  website: https://emprise.cs.cornell.edu/sparcs/
   thumbnail: emprise-logo.png
   alt: 0
 
@@ -55,6 +59,7 @@
   year: 2022
   type: conf-journal
   venue: IEEE International Conference on Robotics and Automation
+  website: https://sites.google.com/view/comfortbitetransfer-icra22/home
   thumbnail: 5_bite_transfer.gif
   alt: 0
 

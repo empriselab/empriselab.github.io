@@ -20,6 +20,7 @@ full-width: true
 
   {% for pub in type_group.items %}
   <div class="pub-grid-parent">
+    <!-- Thumbnail -->
     {% if pub.alt == 0 %}
     <img
       class="pub-grid-child"
@@ -33,14 +34,30 @@ full-width: true
       alt=""
     />
     {% endif %} {% endfor %} {% endif %}
+
+
     <div class="pub-grid-child">
+      <!-- Title -->
       <a href="{{ pub.link.url }}">{{ pub.title }}</a>
       <br />
+
+      <!-- Authors -->
       {{ pub.authors }}
       <br />
-      <em>{{ pub.venue }}.</em>&nbsp;{{ pub.year }}. {% if pub.note %}
+
+      <!-- Year and Conference -->
+      <em>{{ pub.venue }}.</em>&nbsp;{{ pub.year }}.
+      
+      <!-- Notes -->
+      {% if pub.note %}
       <br />
-      <strong>{{ pub.note }}</strong>
+      <strong style="color:#ff782d;">{{ pub.note }}</strong>
+      {% endif %}
+
+      <!-- Website -->
+      {% if pub.website%}
+      <br />
+      <a href="{{ pub.website }}">[Project Website]</a>
       {% endif %}
     </div>
   </div>
