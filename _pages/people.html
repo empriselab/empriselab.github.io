@@ -1,7 +1,7 @@
 ---
 permalink: /people/
 layout: people-page
-title: People
+title: People & Robots
 css: /assets/css/people.css
 js: /assets/js/people.js
 full-width: true
@@ -14,9 +14,11 @@ full-width: true
     <h2 class="row-label" id="row-label-2">M.S. & M.Eng. Students</h2>
     <h2 class="row-label" id="row-label-3">Undergraduate Students</h2>
     <h2 class="row-label" id="row-label-4">OT Collaborators</h2>
+    <h2 class="row-label" id="row-label-5">Robots</h2>
 
     {% for member in site.data.team_members %}
     <div class="member-info my-3 type-{{ member.type }}">
+
       <img
         class="img-fluid clickable-modal-trigger"
         id="modal-trigger-image-{{ forloop.index }}"
@@ -37,11 +39,16 @@ full-width: true
         class="text-center clickable-modal-trigger"
         id="modal-trigger-text-{{ forloop.index }}"
       >
+      {% if member.type != "5-1" and member.type != "5-2" %} <!-- Non Robots-->
         <strong>{{ member.name }}</strong>
+      {% else %} <!-- Robots -->
+       <a href="{{ member.website }}" target="_blank"><strong>{{ member.name }}</strong></a>
+      {% endif %}
       </div>
       {% endif %}
 
       <!-- Hidden modal that opens when image clicked -->
+      {% if member.type != "5-1" || "5-2" %} <!-- Exclude robots -->
       <div class="image-modal" id="modal-{{ forloop.index }}">
         <div class="image-modal-content">
           <span class="close">&times;</span>
@@ -57,6 +64,7 @@ full-width: true
           <p>{{ member.bio }}</p>
         </div>
       </div>
+      {% endif %}
     </div>
     {% endfor %}
 

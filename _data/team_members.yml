@@ -133,3 +133,23 @@
   bio: "V earned her doctorate in occupational therapy at Pacific University in Hillsboro, Oregon. V’s main field of interest is promoting accessibility in health care and technologies - especially for underserved and rural populations.<br/><br/>V is an agent of change in the world of occupational therapy. She creates infinite accessible possibilities for individuals to accomplish their fun, fulfilling, and meaningful occupations no matter their stage in life. She strives to have others see greatness in themselves while engaging in lifelong active learning that enriches both her experiences and those she serves. She invites you to join her journey."
   website: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
   type: 4
+
+- name: Yui <br> Gen3 Kinova 7 dof
+  photo: yui.png
+  website: https://www.kinovarobotics.com/product/gen3-robots
+  type: 5-1
+
+- name: Ayase <br> Gen3 Kinova 6 dof
+  photo: ayase.png
+  website: https://www.kinovarobotics.com/product/gen3-robots
+  type: 5-1
+
+- name: Frank <br> Franka Emika Panda
+  photo: franka.png
+  website: https://www.pomorobotics.com/robots/frankpanda/
+  type: 5-1
+
+- name: MuSHR
+  photo: MuSHR.png
+  website: https://mushr.io/
+  type: 5-2
