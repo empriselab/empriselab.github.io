@@ -70,6 +70,14 @@
   website: "https://umdiddle.github.io/"
   type: 2-2
 
+- name: Thomas Patton 
+  photo: thomas.jpeg
+  info: M.Eng Student, Computer Science
+  email: tjp93 AT cornell dot edu
+  bio: "Thomas is a Master of Engineering student studying Computer Science with a focus in machine learning. Outside of school Thomas enjoys lifting weights, playing piano, and drinking coffee."
+  website: "https://thomaspttn.github.io"
+  type: 2-2
+
 - name: Brandon Man
   photo: brandon.jpeg
   info: Undergraduate Student, Computer Science
@@ -117,6 +125,14 @@
   bio: "Janeth is a junior majoring in Electrical and Computer Engineering. She is interested in Robotics and machine learning, particulary how the two fields can be integrated to solve different challenges in human environments. She also enjoys reading and soccer."
   website: ""
   type: 3-2
+
+- name: Yuhan (Anjelica) Bian
+  photo: anjelica.jpg
+  info: Undergraduate Student
+  email: yb265 AT cornell dot edu
+  bio: "Anjelica is a freshman in the Department of Engineering planning on studying Computer Science and/or ECE. Besides EmPRISE and academics, Anjelica is also a part of the Cornell WebDev project team, Cornell Rowing Club and an active member in WICC."
+  website: ""
+  type: 3-3
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
