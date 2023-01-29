@@ -102,14 +102,6 @@
   website: ""
   type: 3-1
 
-- name: Xuefeng (Sienna) Hu
-  photo: sienna.jpg
-  info: Undergraduate Student
-  email: xh244 AT cornell dot edu
-  bio: "Xuefeng is a Junior in Computer Science (A fun fact: she transferred from Fashion Design major to CS). She's interested in Software Engineering and Robotics, as there are so many real-life applications of these fields and contribute to a better society through computing. During her spare time, she loves TV dramas/shows, photography, painting and spending time with friends."
-  website: ""
-  type: 3-2
-
 - name: Boao (Mark) Dong
   photo: mark.jpg
   info: Undergraduate Student
@@ -132,7 +124,39 @@
   email: yb265 AT cornell dot edu
   bio: "Anjelica is a freshman in the Department of Engineering planning on studying Computer Science and/or ECE. Besides EmPRISE and academics, Anjelica is also a part of the Cornell WebDev project team, Cornell Rowing Club and an active member in WICC."
   website: ""
+  type: 3-2
+
+- name: Zoe Chen
+  photo: zoe.png
+  info: Undergraduate Student
+  email: zmc6 AT cornell dot edu
+  bio: "Zoe is an undergraduate student majoring in Electrical and Computer Engineering at Cornell University. After graduating with her B.S. in Spring 2023, she plans on enrolling in a Masters of Engineering program at Cornell University, also in Electrical and Computer Engineering. She is interested in a career in the medical device industry. Outside of work, Zoe enjoys dancing, crocheting, and video editing."
+  website: ""
   type: 3-3
+
+- name: Xiaoyu (Sherry) Liang
+  photo: sherry.jpg
+  info: Undergraduate Student
+  email: xl434 AT cornell dot edu
+  bio: "Sherry is a Sophomore studying Electrical and Computer Engineering and minoring in Robotics. She is panning to pursue a PhD in robotics or related fields. She is also a songwriter and the guitarist of Night Espresso band."
+  website: ""
+  type: 3-3
+
+- name: Edward Gu
+  photo: edward.jpg
+  info: Undergraduate Student
+  email: elg227 AT cornell dot edu
+  bio: "Edward is a Junior studying CS and Physics. He plans to pursue a PhD in AI or Robotics. Some of the diverse things he enjoys are piano, philosophy, and basketball."
+  website: ""
+  type: 3-3
+
+- name: Diego Virtue
+  photo: diego.jpeg
+  info: Undergraduate Student
+  email: dtv25 AT cornell dot edu
+  bio: "Diego is a Junior studying Computer Science with minors in Fashion Studies and Robotics. He is passionate about the intersection between technology and design. In between his programming assignments, you might find Diego reading comics or falling off his skateboard."
+  website: ""
+  type: 3-4
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
