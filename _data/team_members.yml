@@ -86,14 +86,6 @@
   website: ""
   type: 3-1
 
-- name: Advika Ravi Kumar
-  photo: advika.png
-  info: Undergraduate Student
-  email: ar732 AT cornell dot edu
-  bio: Advika is a freshman pursuing Computer Science and a minor in Robotics at Cornell University. Her interest in Robotics stems from tinkering with Arduino and Raspberry Pi. Some of her other hobbies include playing tennis and hiking around campus.
-  website: ""
-  type: 3-1
-
 - name: Sidharth Vasudev
   photo: sidharth.jpeg
   info: Undergraduate Student
@@ -108,7 +100,7 @@
   email: bd324 AT cornell dot edu
   bio: "Boao is a senior student majoring Computer Science and Economics. He likes human-robot interaction and simulation. He likes music and acting."
   website: ""
-  type: 3-2
+  type: 3-1
 
 - name: Janeth Manyalla
   photo: jane.jpg
@@ -132,7 +124,7 @@
   email: zmc6 AT cornell dot edu
   bio: "Zoe is an undergraduate student majoring in Electrical and Computer Engineering at Cornell University. After graduating with her B.S. in Spring 2023, she plans on enrolling in a Masters of Engineering program at Cornell University, also in Electrical and Computer Engineering. She is interested in a career in the medical device industry. Outside of work, Zoe enjoys dancing, crocheting, and video editing."
   website: "https://zoemallorie.github.io/portfolio/"
-  type: 3-3
+  type: 3-2
 
 - name: Xiaoyu (Sherry) Liang
   photo: sherry.jpg
@@ -156,7 +148,7 @@
   email: dtv25 AT cornell dot edu
   bio: "Diego is a Junior studying Computer Science with minors in Fashion Studies and Robotics. He is passionate about the intersection between technology and design. In between his programming assignments, you might find Diego reading comics or falling off his skateboard."
   website: ""
-  type: 3-4
+  type: 3-3
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
