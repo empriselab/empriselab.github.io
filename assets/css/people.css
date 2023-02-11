@@ -30,7 +30,7 @@
 
 .grid-container {
   display: grid;
-  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 1fr 50px 1fr 1fr 1fr 50px 1fr 50px 1fr;
+  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 1fr 50px 1fr 1fr 1fr 1fr 50px 1fr 50px 1fr;
   grid-template-columns: repeat(3, 1fr); /* Each person gets his/her column */
 }
 
@@ -93,30 +93,33 @@
 .type-3-3 {
   grid-row: 11 / span 1;
 }
+.type-3-4 {
+  grid-row: 12 / span 1;
+}
 
 /* Honorary lab members */
 #row-label-4 {
-  grid-row: 12 / span 1;
+  grid-row: 13 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 .type-4 {
-  grid-row: 13 / span 1;
+  grid-row: 14 / span 1;
 }
 
 /* Robots */
 #row-label-5 {
-  grid-row: 14 / span 1;
+  grid-row: 15 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 .type-5-1 {
-  grid-row: 15 / span 1;
+  grid-row: 16 / span 1;
 }
 .type-5-2 {
-  grid-row: 16 / span 1;
+  grid-row: 17 / span 1;
 }
 
 /* Lab alumni */
