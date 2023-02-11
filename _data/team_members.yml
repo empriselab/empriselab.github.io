@@ -150,6 +150,22 @@
   website: ""
   type: 3-3
 
+- name: Nayoung (Sarah) Ha
+  photo: nayoung.png
+  info: Undergraduate Student
+  email: nh285 AT cornell dot edu
+  bio: "Sarah is a sophomore majoring in Computer Science. Her current interests are in simulating autonomous vehicles and she is currently a software member of Cornell University Autonomous Underwater Vehicle. Outside of academics, she enjoys drawing, playing video games, and playing the bass guitar."
+  website: "www.sarahha.me"
+  type: 3-4
+
+- name: Marcus Lee
+  photo: marcus.png
+  info: Undergraduate Student
+  email: mrl256 AT cornell dot edu
+  bio: "Marcus is a freshman majoring in Computer Science. He is passionate about computer vision and machine learning, especially in robotics. Aside from academics, he enjoys playing basketball, golf, and chess."
+  website: ""
+  type: 3-4
+
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
