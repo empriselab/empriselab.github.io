@@ -48,7 +48,7 @@ full-width: true
       {% endif %}
 
       <!-- Hidden modal that opens when image clicked -->
-      {% if member.type != "5-1" || "5-2" %} <!-- Exclude robots -->
+      {% if member.type != "5-1" or member.type != "5-2" %} <!-- Exclude robots -->
       <div class="image-modal" id="modal-{{ forloop.index }}">
         <div class="image-modal-content">
           <span class="close">&times;</span>
