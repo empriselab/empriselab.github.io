@@ -1,0 +1,55 @@
+- name: Tapomayukh "Tapo" Bhattacharjee
+  photo: tapo.jpg
+  info: Assistant Professor, Computer Science
+  email: tapomayukh AT cornell dot edu
+  bio: Tapo wants to enable robots to assist people with mobility limitations with activities of daily living. He believes that efficient and safe physical and social interactions between robots and their immediate environments is the key. His work spans the fields of human-robot interaction, haptic perception, and robot manipulation.
+  website: http://www.tapomayukh.com
+  type: 0
+
+- name: Ruolin Ye
+  photo: ruolin.png
+  info: PhD Student, Computer Science
+  email: ry273 AT cornell dot edu
+  bio: "My name is Ruolin Ye. I am a first-year Ph.D. student at Cornell University supervised by Prof. Tapomayukh Bhattacharjee. My research is about human-robot interaction. I love sketching, making cocktails, and watching musicals."
+  website: http://ruolinye.care
+  type: 1-1
+
+- name: Shubhangi Sinha
+  photo: shubhangi.png
+  info: MS Student, Sibley School of Mechanical and Aerospace Engineering
+  email: ss3392 AT cornell dot edu
+  bio: "Shubhangi is an MS student studying Mechanical Engineering. In her free time, she likes biking, reading and playing the piano."
+  website: ""
+  type: 1-1
+
+- name: Chenxi Ji
+  photo: chenxi.png
+  info: PhD Student, Biological Engineering
+  email: cj289 AT cornell dot edu
+  bio: "2nd Year PhD student from MAE department."
+  website: ""
+  type: 1-1
+
+- name: Nayoung (Sarah) Ha
+  photo: nayoung.png
+  info: Undergraduate Student, Computer Science
+  email: nh285 AT cornell dot edu
+  bio: "Sarah is a sophomore majoring in Computer Science. Her current interests are in simulating autonomous vehicles and she is currently a software member of Cornell University Autonomous Underwater Vehicle. Outside of academics, she enjoys drawing, playing video games, and playing the bass guitar."
+  website: https://sarahha.me/
+  type: 1-2
+
+- name: Marcus Lee
+  photo: marcus.png
+  info: Undergraduate Student, Computer Science
+  email: mrl256 AT cornell dot edu
+  bio: "Marcus is a sophomore majoring in Computer Science. He is passionate about computer vision and machine learning, especially in robotics. Aside from academics, he enjoys playing basketball, golf, and chess."
+  website: ""
+  type: 1-2
+
+- name: Lucy Jiang
+  photo: lucy.jpeg
+  info: PhD Student, Computer Science
+  email: lucjia AT cs dot cornell dot edu
+  bio: "Lucy is a second-year PhD student, and her research interests are in accessibility and human-computer interaction. At present, she is working on a project focused on video accessibility for blind and low vision users. In her free time, she loves baking, inline skating, and going on long walks and hikes."
+  website: https://lucjia.github.io/
+  type: 1-2
