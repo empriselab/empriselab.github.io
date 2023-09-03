@@ -1,14 +1,54 @@
 - name: Elizabeth Healy
   department: MEng, CS 2022
-  job: Full-Stack Engineer at Virtru
+  job: Full-Stack Engineer, Virtru
   website: https://www.linkedin.com/in/elizabeth-a-healy
 
 - name: Aparajito Saha
   department: BS, CS & ECE 2022
-  job: Software Development Engineer at Amazon Robotics
+  job: Software Development Engineer, Amazon Robotics
   website: https://aparajitosaha.github.io
 
 - name: Abrar Anwar
-  department: Visiting PhD Student, CS
-  job: PhD student at USC
+  department: Visiting PhD Student, CS 
+  job: PhD student, USC
   website: https://abraranwar.github.io/
+
+- name: Grace Zhang
+  department: MEng, ECE 2023
+  job: Embedded Firmware Engineer, Lutron Electronics 
+  website: https://umdiddle.github.io/
+
+- name: Skyler Valdez
+  department: MS, CS 2023
+  job: Software Engineer, Sandia National Labs
+  website: 
+
+- name: Sidharth Vasudev
+  department: BS, CS 2023
+  job: MS in CS, Cornell Tech
+  website: https://www.linkedin.com/in/sidharth-vasudev-5267071b3/
+
+- name: Elaine Zheng
+  department: BS, CS 2023
+  job: Software Engineer, Bloomberg
+  website: https://www.linkedin.com/in/elaine-zheng-829a9b166/
+
+- name: Brandon Man
+  department: BS, CS 2023
+  job: MS in MechE, MIT
+  website: https://www.linkedin.com/in/brandon-man-6116b9156/
+
+- name: Daniel Stabile
+  department: MS, CS 2023
+  job: Associate Staff, MIT Lincoln Lab
+  website: https://danielstabile.com/
+
+- name: Thomas Patton
+  department: MEng, CS 2023
+  job: Robotics Software Engineer, ModalAI
+  website: https://thomaspttn.github.io
+
+- name: David Kim
+  department: MEng, CS 2023
+  job: Consultant, EY
+  website: http://heydavid.kim
