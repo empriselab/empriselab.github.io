@@ -214,6 +214,22 @@
   website: ""
   type: 3-5
 
+- name: Jueun Kwon
+  photo: jueun.jpg
+  info: Undergraduate Student
+  email: jk2463 AT cornell dot edu
+  bio: "Jueun is a senior mechanical engineering student at Cornell. She is passionate about applying mechanical engineering and robotics concepts to various fields such as autonomous systems, robot perception, and human robot interaction."
+  website: ""
+  type: 3-6
+
+- name: Nikki Hart
+  photo: nikki.png
+  info: Undergraduate Student
+  email: njh84 AT cornell dot edu
+  bio: "Nikki is a senior with a major in Mechanical Engineering and a minor in Robotics. Her interests in robotics include perception, planning, and manipulation. Outside of classes and research, Nikki enjoys rock climbing and exploring Ithaca."
+  website: ""
+  type: 3-6
+
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
