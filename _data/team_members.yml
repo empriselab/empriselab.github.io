@@ -81,7 +81,7 @@
 - name: Mahika Goel
   photo: mahika.jpg
   info: MEng, Mechanical Engineering
-  email: mh994 AT cornell dot edu
+  email: mg994 AT cornell dot edu
   bio: "Mahika is a mechanical engineering M.Eng student (also completing her Bachelors in MechE). She is primarily interested in dynamic modelling and designing control systems for dynamic systems, especially in their applications to robotics. In her free time, Mahika is an Indian classical dancer, and enjoys choreographing and leading a dance team on Cornell's campus -- Cornell Nazaqat!"
   website: ""
   type: 2-2
@@ -228,6 +228,13 @@
   email: njh84 AT cornell dot edu
   bio: "Nikki is a senior with a major in Mechanical Engineering and a minor in Robotics. Her interests in robotics include perception, planning, and manipulation. Outside of classes and research, Nikki enjoys rock climbing and exploring Ithaca."
   website: ""
+  type: 3-6
+
+- name: Bahaa Kotb
+  photo: bahaa.png
+  info: Undergraduate Student
+  email: bmk89 AT cornell dot edu
+  bio: "Bahaa is a Junior with a major in Computer Science. He is interested in robotics and machine learning, and wants to use these skills to help people. Outside of school you can find him playing soccer or going to the gym."
   type: 3-6
 
 - name: Dr. Katherine Dimitropoulou
