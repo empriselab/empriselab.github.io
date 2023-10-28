@@ -38,14 +38,6 @@
   website: https://rohanb2018.github.io/
   type: 1-2
 
-- name: Leah Lackey
-  photo: leah.png
-  info: Ph.D. Student, Electrical and Computer Engineering
-  email: lml276 AT cornell dot edu
-  bio: "Leah is a PhD student in the ECE department, and is interested in making assistive devices for people with disabilities. She is currently most interested in robot manipulation and learning. She previously worked as a researcher in Yale's Lens Media Lab."
-  website: http://lacksanno.com
-  type: 1-2
-
 - name: Ziang Liu
   photo: ziang.png
   info: Ph.D. Student, Computer Science
@@ -53,14 +45,6 @@
   bio: "Ziang is a 1st-year PhD student in the Computer Science department. His research aims to build robots that perceive, understand, reason, and interact in the physical world to better assist people with day-to-day tasks, leveraging inspiration from human cognition. He obtained a M.S. in CS from Stanford University in 2023, a B.S. in CS and a B.S. in Applied Math from University of Southern California in 2021. He loves skiing, birding, hiking, photography, and everything about nature."
   website: https://www.ziangliu.com/
   type: 1-2
-
-- name: Boxin Xu
-  photo: boxin.jpg
-  info: M.S. Student, Mechanical Engineering
-  email: bx65 AT cornell dot edu
-  bio: Boxin is passionate about combining hands-on experience with the implementation of the algorithm in the field of assistive and medical robots. Boxin is also interested in outdoor activities such as skiing and backpacking. Besides, she is a feminist that fights for equal rights for woman and the LGBTQ groups.
-  website: ""
-  type: 2-1
 
 - name: Shubhangi Sinha
   photo: shubhangi.png
@@ -84,7 +68,7 @@
   email: mg994 AT cornell dot edu
   bio: "Mahika is a mechanical engineering M.Eng student (also completing her Bachelors in MechE). She is primarily interested in dynamic modelling and designing control systems for dynamic systems, especially in their applications to robotics. In her free time, Mahika is an Indian classical dancer, and enjoys choreographing and leading a dance team on Cornell's campus -- Cornell Nazaqat!"
   website: ""
-  type: 2-2
+  type: 2-1
 
 - name: Boao (Mark) Dong
   photo: mark.jpg
@@ -93,14 +77,6 @@
   bio: "Boao is a senior student majoring Computer Science and Economics. He likes human-robot interaction and simulation. He likes music and acting."
   website: ""
   type: 2-2
-
-- name: Janeth Manyalla
-  photo: jane.jpg
-  info: Undergraduate Student
-  email: jim59 AT cornell dot edu
-  bio: "Janeth is a senior majoring in Electrical and Computer Engineering. She is interested in Robotics and machine learning, particulary how the two fields can be integrated to solve different challenges in human environments. She also enjoys reading and soccer."
-  website: ""
-  type: 3-1
 
 - name: Yuhan (Anjelica) Bian
   photo: anjelica.jpg
@@ -124,7 +100,7 @@
   email: elg227 AT cornell dot edu
   bio: "Edward is a Senior studying CS and Physics. He plans to pursue a PhD in AI or Robotics. Some of the diverse things he enjoys are piano, philosophy, and basketball."
   website: ""
-  type: 3-2
+  type: 3-1
 
 - name: Diego Virtue
   photo: diego.jpeg
@@ -148,7 +124,7 @@
   email: mrl256 AT cornell dot edu
   bio: "Marcus is a sophomore majoring in Computer Science. He is passionate about computer vision and machine learning, especially in robotics. Aside from academics, he enjoys playing basketball, golf, and chess."
   website: ""
-  type: 3-3
+  type: 3-2
 
 - name: Xilai Dai
   photo: Xilai.jpg
@@ -162,7 +138,7 @@
   photo: isabella.jpeg
   info: Undergraduate Student
   email: lmw25 AT cornell dot edu
-  bio: "Isabella Wells is a Sophomore studying Computer Science. She is interested in human-robot interaction and the intersection of design and technology. In her free time, you can find Isabella skiing, golfing, enjoying nature, or playing with her dog."
+  bio: "Isabella Wells is a Junior studying Computer Science. She is interested in human-robot interaction and the intersection of design and technology. In her free time, you can find Isabella skiing, golfing, enjoying nature, or playing with her dog."
   website: ""
   type: 3-3
 
@@ -172,12 +148,12 @@
   email: yh464 AT cornell dot edu
   bio: "Yifei is an undegrade student majoring in Computer Science and Operations Research, with a minor in Robotics. She is interested in robot learning, Human Robot Interaction, and planning. In her free time, you can possibly catch Yifei playing video games or taking a long nap, as she is quite sedentary. If you want to scare her soul out of her body, pretend to be a mechanical dinosaur."
   website: ""
-  type: 3-4
+  type: 3-3
 
 - name: Luoyan Zhong
   photo: luoyan.jpg
   info: Undergraduate Intern Student
-  email: l572 AT cornell dot edu
+  email: lz572 AT cornell dot edu
   bio: "Luoyan is an intern student from the University of Science and Technology of China, majoring in automation. She is interested in circuit design, embedded system, all kinds of hardware things! She really likes sports, especially long-distance running."
   website: ""
   type: 3-4
@@ -196,15 +172,7 @@
   email: elh245 AT cornell dot edu
   bio: "Eric is a sophomore majoring in Computer Science. He is interested in robotics, and particularly helping robots interact with humans and the world more naturally. He plans to pursue a Ph.D in robotics or a related field. He also enjoys playing video games, piano and watching interesting YouTube videos."
   website: ""
-  type: 3-5
-
-- name: Luke Kulm
-  photo: luke.jpg
-  info: Undergraduate Student
-  email: lbk73 AT cornell dot edu
-  bio: "Luke is a junior studying computer science. He is interested in robotics, machine learning, and making intelligent systems aligned with humans. Outside of academics, he enjoys spending time outdoors skiing, fishing, and hiking."
-  website: ""
-  type: 3-5
+  type: 3-4
 
 - name: Carly Jiang
   photo: carly.png
@@ -220,7 +188,7 @@
   email: jk2463 AT cornell dot edu
   bio: "Jueun is a senior mechanical engineering student at Cornell. She is passionate about applying mechanical engineering and robotics concepts to various fields such as autonomous systems, robot perception, and human robot interaction."
   website: ""
-  type: 3-6
+  type: 3-5
 
 - name: Nikki Hart
   photo: nikki.png
@@ -228,7 +196,7 @@
   email: njh84 AT cornell dot edu
   bio: "Nikki is a senior with a major in Mechanical Engineering and a minor in Robotics. Her interests in robotics include perception, planning, and manipulation. Outside of classes and research, Nikki enjoys rock climbing and exploring Ithaca."
   website: ""
-  type: 3-6
+  type: 3-5
 
 - name: Bahaa Kotb
   photo: bahaa.png
@@ -243,14 +211,6 @@
   email: kd2524 AT cumc dot columbia dot edu
   bio: ""
   website: https://www.vagelos.columbia.edu/profile/katherine-dimitropoulou-phd
-  type: 4
-
-- name: Dr. V Nguyen
-  photo: v_nguyen.jpg
-  info: Occupational Therapist
-  email: venture.vy AT gmail dot com
-  bio: "V earned her doctorate in occupational therapy at Pacific University in Hillsboro, Oregon. V’s main field of interest is promoting accessibility in health care and technologies - especially for underserved and rural populations.<br/><br/>V is an agent of change in the world of occupational therapy. She creates infinite accessible possibilities for individuals to accomplish their fun, fulfilling, and meaningful occupations no matter their stage in life. She strives to have others see greatness in themselves while engaging in lifelong active learning that enriches both her experiences and those she serves. She invites you to join her journey."
-  website: https://www.linkedin.com/in/v-nguyen-otd-otr-l-80b20818/
   type: 4
 
 - name: Yui <br> Gen3 Kinova 7 dof
