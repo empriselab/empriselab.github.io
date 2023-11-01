@@ -1,31 +1,31 @@
-// Set up the modal to be ready to be clicked and toggled.
-function activateModal(triggerId, modalId, closeId) {
-  // Get the modal and elements
-  let modal = document.getElementById(modalId);
-  let trigger = document.getElementById(triggerId);
-  let closeButton = document.getElementById(closeId);
+const playlistUrl = 'https://www.youtube.com/watch?v=bkkzGDVs4hc&list=PLR4mEXh9zalJ0Ty3GxHHnhu9Rl941mdgi&pp=iAQB';
+const playlistId = new URLSearchParams(new URL(playlistUrl).search).get("list");
+const apiKey = 'AIzaSyACAQhPFEvUD_dMAis-Y48qiVO0hSVU-bk';
 
-  // When the user clicks on the trigger, open the modal
-  trigger.onclick = function () {
-    modal.style.display = "block";
-  };
+function embedVideos(videoIds) {
+  const container = document.getElementById('featuredVideosContainer');
 
-  // When the user clicks on (x), close the modal
-  closeButton.onclick = function () {
-    modal.style.display = "none";
-  };
+  videoIds.forEach(id => {
+    // Create the iframe for each video
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://www.youtube.com/embed/${id}`;
+    iframe.classList.add("embed-responsive-item");
+    iframe.setAttribute("allowfullscreen", "");
+
+    // Create the column for the iframe
+    const videoDiv = document.createElement('div');
+    videoDiv.classList.add("my-3", "embed-responsive", "embed-responsive-16by9", "video-col");
+    videoDiv.appendChild(iframe);
+
+    // Append the column to the main container
+    container.appendChild(videoDiv);
+  });
 }
 
-// Get the total number of projects on the page
-const numProjects = document.querySelectorAll('.project-title').length;
-for (let i = 1; i <= numProjects; i++) {
-  activateModal(`modal-trigger-project-${i}`, `modal-project-${i}`, `close-project-${i}`);
-}
-
-// When the user clicks anywhere outside of ANY modals, close it
-let modals = Array.from(document.getElementsByClassName("image-modal"));
-window.onclick = function (event) {
-  if (modals.includes(event.target)) {
-    event.target.style.display = "none";
-  }
-};
+// Fetch video IDs and embed them
+fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=${playlistId}&key=${apiKey}`)
+  .then(response => response.json())
+  .then(data => {
+    const videoIds = data.items.map(item => item.contentDetails.videoId);
+    embedVideos(videoIds);
+  });
