@@ -4,61 +4,58 @@ layout: page
 title: Research
 css: /assets/css/research.css
 js: /assets/js/research.js
+full-width: true
 ---
 
 <div class="row">
-  {% for project in site.data.research %}
-  <div class="{% if forloop.last %}col-md-6 offset-md-3{% else %}col-md-6{% endif %}">
-    <div class="project-wrapper text-center">
-      <!-- Clicking on the project title activates the modal -->
-      <h2 class="project-title clickable-modal-trigger" id="modal-trigger-project-{{ forloop.index }}">
-        {{ project.title }}
-      </h2>
+  {% assign project_count = site.data.research | size %}
 
-      <!-- Modal content -->
-      <div id="modal-project-{{ forloop.index }}" class="image-modal">
-        <div class="image-modal-content">
-          <span class="close" id="close-project-{{ forloop.index }}">&times;</span>
-          <h2>{{ project.title }}</h2>
-          <a href="{{ project.link }}">{{ project.link }}</a>
-          <p>{{ project.description }}</p>
+  {% for project in site.data.research %}
+  <!-- Calculate the offset for projects that do not fill a full row -->
+  {% assign remainder = project_count | modulo: 3 %}
+
+  {% if forloop.last and remainder == 1 %}
+  <div class="col-md-4 offset-md-4">
+    {% elsif forloop.last and remainder == 2 %}
+    <div class="col-md-4 offset-md-2">
+      {% else %}
+      <div class="col-md-4">
+        {% endif %}
+
+        <div class="project-wrapper text-center">
+          <h2 class="project-title">
+            {{ project.title }}
+          </h2>
+
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe
+              class="embed-responsive-item"
+              src="{{ project.video }}"
+              title="{{ project.title }}"
+              allowfullscreen></iframe>
+          </div>
+
+          {% if project.link %}
+          <a href="{{ project.link }}" class="project-website-link" target="_blank" rel="noopener noreferrer">Project Website</a>
+          {% endif %}
+
         </div>
       </div>
-
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe
-          class="embed-responsive-item"
-          src="{{ project.video }}"
-          title="{{ project.title }}"
-          allowfullscreen></iframe>
-      </div>
+      {% endfor %}
     </div>
-  </div>
-  {% endfor %}
-</div>
 
-<h2>Featured Videos</h2>
 
-<p align="center">
-  <iframe
-    width="640"
-    height="360"
-    src="https://www.youtube.com/embed/f-NboRkoTDs"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
-</p>
+    <h2>Featured Videos</h2>
 
-<div class="row row-cols-3">
-  {% for video in site.data.vidlist %}
-  <div class="col my-3">
-    <div class="embed-responsive embed-responsive-16by9">
+    <p align="center">
       <iframe
-        class="embed-responsive-item"
-        src="https://www.youtube.com/embed/{{ video.ytid }}"
+        width="640"
+        height="360"
+        src="https://www.youtube.com/embed/f-NboRkoTDs"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
-    </div>
-  </div>
-  {% endfor %}
-</div>
+    </p>
+
+    <div id="featuredVideosContainer" class="row row-cols-3"></div>

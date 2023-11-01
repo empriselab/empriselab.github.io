@@ -1,3 +1,13 @@
+- title: "To Ask or Not To Ask: Robot-assisted Bite Acquisition with Human-in-the-loop Contextual Bandits"
+  authors: Rohan Banerjee, Sarah Dean, Tapomayukh Bhattacharjee
+  link: 
+    url: https://drive.google.com/file/d/1dK-VwRzWpLHIrt3mlsM-Thgkl1RU-c1j/view?usp=drive_link
+  year: 2023
+  type: other
+  venue: First Workshop on Out-of-Distribution Generalization in Robotics at CoRL 2023
+  thumbnail: 
+  alt: 68
+
 - title: "Human-Robot Commensality: Bite Timing Prediction for Robot-Assisted Feeding in Groups"
   authors: Jan Ondras*, Abrar Anwar*, Tong Wu*, Fanjun Bu, Malte Jung, Jorge Jose Ortiz, Tapomayukh Bhattacharjee
   link:
