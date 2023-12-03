@@ -1,3 +1,33 @@
+- title: "Inferring Human Intent and Predicting Human Action in Human–Robot Collaboration"
+  authors: Guy Hoffman, Tapomayukh Bhattacharjee, and Stefanos Nikolaidis
+  link: 
+    url: https://www.annualreviews.org/doi/abs/10.1146/annurev-control-071223-105834
+  year: 2024
+  type: conf-journal
+  venue: Annual Review of Control, Robotics, and Autonomous Systems
+  thumbnail: 
+  alt: 69
+
+- title: "Robot-assisted Inside-mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control"
+  authors: Rajat Jenamani, Daniel Stabile, Ziang Liu, Abrar Anwar, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
+  link: 
+    url:
+  year: 2024
+  type: conf-journal
+  venue: ACM/IEEE International Conference on Human Robot Interaction
+  thumbnail: 
+  alt: 71
+
+- title: "RABBIT: A Robot-Assisted Bed Bathing System with Multimodal Perception and Integrated Compliance"
+  authors: Rishabh Madan, Skyler Valdez, David Kim, Sujie Fang, Luoyan Zhong, Diego Virtue, Tapomayukh Bhattacharjee
+  link: 
+    url:
+  year: 2024
+  type: conf-journal
+  venue: ACM/IEEE International Conference on Human Robot Interaction
+  thumbnail: 
+  alt: 70
+
 - title: "To Ask or Not To Ask: Robot-assisted Bite Acquisition with Human-in-the-loop Contextual Bandits"
   authors: Rohan Banerjee, Sarah Dean, Tapomayukh Bhattacharjee
   link: 
