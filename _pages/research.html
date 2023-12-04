@@ -11,7 +11,7 @@ full-width: true
   {% assign project_count = site.data.research | size %}
 
   {% for project in site.data.research %}
-  <!-- Calculate the offset for projects that do not fill a full row -->
+
   {% assign remainder = project_count | modulo: 5 %}
 
   {% if forloop.last and remainder == 1 %}
