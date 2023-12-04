@@ -33,9 +33,6 @@ fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResul
       }))
       .filter(video => !mainVideoData.includes(video.ytid)
       );
-
-    console.log(mainVideoData);
-    console.log(filteredVideoData);
-
+      
     embedVideos(filteredVideoData);
   });
