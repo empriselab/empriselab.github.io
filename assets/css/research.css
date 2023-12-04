@@ -7,12 +7,22 @@
 
 #featuredVideosContainer {
   gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-#featuredVideosContainer .video-col {
-  flex: 1 0 calc(33.333% - 1rem);
-  max-width: calc(33.333% - 1rem);
+#featuredVideosContainer .col-md-3 {
+  flex: 1 0 calc(25% - 1rem);
+  max-width: calc(25% - 1rem);
   box-sizing: border-box;
+}
+
+@media (max-width: 765px) {
+  #featuredVideosContainer .col-md-3 {
+    flex: 1 0 calc(33.33% - 1rem);
+    max-width: calc(33.33% - 1rem);
+  }
 }
 
 .project-website-link {
@@ -145,4 +155,8 @@
 .col-md-4 {
   padding-left: 7.5px;
   padding-right: 7.5px;
+}
+
+.no-link-space {
+  margin-bottom: 37.5px;
 }
