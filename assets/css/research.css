@@ -158,5 +158,15 @@
 }
 
 .no-link-space {
-  margin-bottom: 37.5px;
+  margin-bottom: 15;
+}
+
+.last-row {
+  margin-left: -7.5px;
+  margin-right: -7.5px;
+}
+
+.last-row .col-md-4 {
+  padding-left: 7.5px;
+  padding-right: 7.5px;
 }

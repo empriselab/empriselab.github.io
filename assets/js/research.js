@@ -13,7 +13,7 @@ function embedVideos(videoData) {
     iframe.setAttribute("allowfullscreen", "");
 
     const videoDiv = document.createElement('div');
-    videoDiv.classList.add("my-3", "embed-responsive", "embed-responsive-16by9", "col-md-3"); // Updated class to col-md-3
+    videoDiv.classList.add("my-3", "embed-responsive", "embed-responsive-16by9", "col-md-3");
     videoDiv.appendChild(iframe);
 
     container.appendChild(videoDiv);
@@ -33,6 +33,6 @@ fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResul
       }))
       .filter(video => !mainVideoData.includes(video.ytid)
       );
-      
+
     embedVideos(filteredVideoData);
   });

@@ -46,6 +46,13 @@
   website: https://www.ziangliu.com/
   type: 1-2
 
+- name: Pranav Thakkar
+  photo: pranav.jpg
+  info: Ph.D. Student, Aerospace Engineering
+  email: pnt8 AT cornell dot edu
+  bio: "Pranav is a 1st year PhD student in Aerospace Engineering. He graduated from IIT Bombay with a Bachelor's and a Master's degree in Aerospace Engineering, and was previously part of the robot vision team at Honda R&D Life Creation Center in Wako, Japan. His research interests include learning and task planning for safe robot manipulation. Outside of work, he learns jazz piano and enjoys hiking, picnics and metal music."
+  type: 1-2
+
 - name: Shubhangi Sinha
   photo: shubhangi.png
   info: MS, Mechanical Engineering

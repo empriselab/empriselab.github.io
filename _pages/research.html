@@ -7,64 +7,49 @@ js: /assets/js/research.js
 full-width: true
 ---
 
-<div class="row">
-  {% assign project_count = site.data.research | size %}
-
+<div class="row justify-content-center last-row">
   {% for project in site.data.research %}
+  <div class="col-md-4">
+    <div class="project-wrapper text-center">
+      <h2 class="project-title {% unless project.link %}no-link-space{% endunless %}">
+        {{ project.title }}
+      </h2>
 
-  {% assign remainder = project_count | modulo: 5 %}
+      {% if project.link %}
+      <a href="{{ project.link }}" class="project-website-link" target="_blank" rel="noopener noreferrer">Project Website</a>
+      {% endif %}
 
-  {% if forloop.last and remainder == 1 %}
-  <div class="col-md-4 offset-md-6">
-    {% elsif forloop.last and remainder == 2 %}
-    <div class="col-md-4 offset-md-4">
-      {% elsif forloop.last and remainder == 3 %}
-      <div class="col-md-4 offset-md-2">
-        {% else %}
-        <div class="col-md-4">
-          {% endif %}
-
-          <div class="project-wrapper text-center">
-            <h2 class="project-title {% unless project.link %}no-link-space{% endunless %}">
-              {{ project.title }}
-            </h2>
-
-            {% if project.link %}
-            <a href="{{ project.link }}" class="project-website-link" target="_blank" rel="noopener noreferrer">Project Website</a>
-            {% endif %}
-
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe
-                class="embed-responsive-item"
-                src="https://www.youtube.com/embed/{{ project.ytid }}"
-                title="{{ project.title }}"
-                allowfullscreen></iframe>
-            </div>
-          </div>
-
-        </div>
-        {% endfor %}
-      </div>
-
-      <hr style="width: 100%; border: 1px solid #ccc; margin-top: 20px; margin-bottom: 20px;">
-
-      <h2 class="text-center">Other Featured Videos</h2>
-
-      <p align="center">
+      <div class="embed-responsive embed-responsive-16by9">
         <iframe
-          width="640"
-          height="360"
-          src="https://www.youtube.com/embed/f-NboRkoTDs"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          class="embed-responsive-item"
+          src="https://www.youtube.com/embed/{{ project.ytid }}"
+          title="{{ project.title }}"
           allowfullscreen></iframe>
-      </p>
-
-      <div id="mainVideoData" style="display: none;">
-        {% for project in site.data.research %}
-        {{project.ytid}}{% unless forloop.last %},{% endunless %}
-        {% endfor %}
       </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
 
-      <div id="featuredVideosContainer" class="row row-cols-4"></div>
+<hr style="width: 100%; border: 1px solid #ccc; margin-top: 20px; margin-bottom: 20px;">
+
+<h2 class="text-center">Other Featured Videos</h2>
+
+<p align="center">
+  <iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/f-NboRkoTDs"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+</p>
+
+<div id="mainVideoData" style="display: none;">
+  {% for project in site.data.research %}
+  {{project.ytid}}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+</div>
+
+<div id="featuredVideosContainer" class="row row-cols-4"></div>
