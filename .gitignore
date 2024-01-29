@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+rcareworld/index.html 
 
 # general
 .DS_Store
