@@ -212,6 +212,13 @@
   bio: "Bahaa is a Junior with a major in Computer Science. He is interested in robotics and machine learning, and wants to use these skills to help people. Outside of school you can find him playing soccer or going to the gym."
   type: 3-6
 
+- name: Justin Guo
+  photo: justin.jpg
+  info: Undergraduate Student
+  email: jjg283 AT cornell dot edu
+  bio: "Justin is a junior undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, as well as applying best software engineering practices. Outside of class, he loves learning to cook Asian dishes with his trusty wok and can be found jamming out to music, no matter the setting."
+  type: 3-6
+
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
