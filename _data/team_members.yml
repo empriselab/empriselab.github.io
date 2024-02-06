@@ -51,6 +51,7 @@
   info: Ph.D. Student, Aerospace Engineering
   email: pnt8 AT cornell dot edu
   bio: "Pranav is a 1st year PhD student in Aerospace Engineering. He graduated from IIT Bombay with a Bachelor's and a Master's degree in Aerospace Engineering, and was previously part of the robot vision team at Honda R&D Life Creation Center in Wako, Japan. His research interests include learning and task planning for safe robot manipulation. Outside of work, he learns jazz piano and enjoys hiking, picnics and metal music."
+  website: https://pranavnnt.github.io/
   type: 1-2
 
 - name: Shubhangi Sinha
@@ -61,14 +62,6 @@
   website: ""
   type: 2-1
 
-- name: Zoe Chen
-  photo: zoe.png
-  info: MEng, Electrical and Computer Engineering
-  email: zmc6 AT cornell dot edu
-  bio: "Zoe is a master student in Electrical and Computer Engineering at Cornell University. She is interested in a career in the medical device industry. Outside of work, Zoe enjoys dancing, crocheting, and video editing."
-  website: "https://zoemallorie.github.io/portfolio/"
-  type: 2-1
-
 - name: Mahika Goel
   photo: mahika.jpg
   info: MEng, Mechanical Engineering
@@ -76,14 +69,6 @@
   bio: "Mahika is a mechanical engineering M.Eng student (also completing her Bachelors in MechE). She is primarily interested in dynamic modelling and designing control systems for dynamic systems, especially in their applications to robotics. In her free time, Mahika is an Indian classical dancer, and enjoys choreographing and leading a dance team on Cornell's campus -- Cornell Nazaqat!"
   website: ""
   type: 2-1
-
-- name: Boao (Mark) Dong
-  photo: mark.jpg
-  info: Undergraduate Student
-  email: bd324 AT cornell dot edu
-  bio: "Boao is a senior student majoring Computer Science and Economics. He likes human-robot interaction and simulation. He likes music and acting."
-  website: ""
-  type: 2-2
 
 - name: Yuhan (Anjelica) Bian
   photo: anjelica.jpg

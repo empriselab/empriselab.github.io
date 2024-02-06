@@ -8,10 +8,30 @@
   thumbnail: 
   alt: 69
 
+- title: "MORPHeus: a Multimodal One-armed Robot-assisted Peeling system with Human Users in-the-loop"
+  authors: Ruolin Ye, Yifei Hu, Yuhan Bian, Luke Kulm, Tapomayukh Bhattacharjee
+  link: 
+    url:
+  year: 2024
+  type: conf-journal
+  venue: International Conference on Robotics and Automation
+  thumbnail: 
+  alt: 73
+
+- title: "CushSense: Soft, Stretchable, and Comfortable Tactile Sensing Skin for Physical Human-Robot Interaction"
+  authors: Boxin Xu, Luoyan Zhong, Grace Zhang, Xiaoyu Liang, Diego Virtue, Rishabh Madan, and Tapo Bhattacharjee
+  link: 
+    url: https://drive.google.com/file/d/1tE1OpgdVxwe1j67HUKUg-5cGr17-kQQG/view
+  year: 2024
+  type: conf-journal
+  venue: International Conference on Robotics and Automation
+  thumbnail: 
+  alt: 72
+
 - title: "Robot-assisted Inside-mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control"
   authors: Rajat Jenamani, Daniel Stabile, Ziang Liu, Abrar Anwar, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
   link: 
-    url:
+    url: https://drive.google.com/drive/folders/1qTKy0RLepjAsCBm2dvGyXBqD9avaahBz
   year: 2024
   type: conf-journal
   venue: ACM/IEEE International Conference on Human Robot Interaction
@@ -21,7 +41,7 @@
 - title: "RABBIT: A Robot-Assisted Bed Bathing System with Multimodal Perception and Integrated Compliance"
   authors: Rishabh Madan, Skyler Valdez, David Kim, Sujie Fang, Luoyan Zhong, Diego Virtue, Tapomayukh Bhattacharjee
   link: 
-    url:
+    url: https://arxiv.org/abs/2401.15159
   year: 2024
   type: conf-journal
   venue: ACM/IEEE International Conference on Human Robot Interaction
