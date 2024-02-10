@@ -1,6 +1,6 @@
-const playlistUrl = 'https://www.youtube.com/watch?v=bkkzGDVs4hc&list=PLR4mEXh9zalJ0Ty3GxHHnhu9Rl941mdgi&pp=iAQB';
+const playlistUrl = 'https://youtube.com/playlist?list=PLR4mEXh9zalJ0Ty3GxHHnhu9Rl941mdgi&feature=shared';
 const playlistId = new URLSearchParams(new URL(playlistUrl).search).get("list");
-const apiKey = 'AIzaSyACAQhPFEvUD_dMAis-Y48qiVO0hSVU-bk';
+const apiKey = 'AIzaSyC5EZFn45h7UE2g139ASNr8rGKA8J1eX5c';
 
 function embedVideos(videoData) {
   const container = document.getElementById('featuredVideosContainer');
@@ -34,5 +34,6 @@ fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResul
       .filter(video => !mainVideoData.includes(video.ytid)
       );
 
-    embedVideos(filteredVideoData);
+    const reversedFiltered = filteredVideoData.reverse();
+    embedVideos(reversedFiltered);
   });
