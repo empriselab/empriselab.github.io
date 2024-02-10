@@ -118,14 +118,6 @@
   website: ""
   type: 3-2
 
-- name: Xilai Dai
-  photo: Xilai.jpg
-  info: Undergraduate Student
-  email: xd44 AT cornell dot edu
-  bio: "Xilai is a senior double majoring in computer science and physics. He is interested in machine learning and computer vision/graphics."
-  website: ""
-  type: 3-3
-
 - name: Isabella Wells
   photo: isabella.jpeg
   info: Undergraduate Student
@@ -142,21 +134,13 @@
   website: ""
   type: 3-3
 
-- name: Luoyan Zhong
-  photo: luoyan.jpg
-  info: Undergraduate Intern Student
-  email: lz572 AT cornell dot edu
-  bio: "Luoyan is an intern student from the University of Science and Technology of China, majoring in automation. She is interested in circuit design, embedded system, all kinds of hardware things! She really likes sports, especially long-distance running."
-  website: ""
-  type: 3-4
-
 - name: Janna Lin
   photo: janna.jpeg
   info: Undergraduate Intern Student
   email: jnl77 AT cornell dot edu
   bio: "Janna is a junior majoring in CS and minoring in robotics with an interest in robot manipulation and planning. She loves making and drinking coffee, as coffee has become part of her blood that sustains her daily life. If possible, she'd open a café when she retires, where every day, as she brews coffee, she'd listen to the stories of those who come and go."
   website: ""
-  type: 3-4
+  type: 3-3
 
 - name: Eric Hu
   photo: eric.png
@@ -172,7 +156,7 @@
   email: cjj43 AT cornell dot edu
   bio: "Carly is a sophomore majoring in CS. She is interested in machine learning and robotics, and strongly believes in using AI to help people. Outside of school, you can usually find her playing RPGs, reading books, or watching sci-fi."
   website: ""
-  type: 3-5
+  type: 3-4
 
 - name: Jueun Kwon
   photo: jueun.jpg
@@ -180,29 +164,21 @@
   email: jk2463 AT cornell dot edu
   bio: "Jueun is a senior mechanical engineering student at Cornell. She is passionate about applying mechanical engineering and robotics concepts to various fields such as autonomous systems, robot perception, and human robot interaction."
   website: ""
-  type: 3-5
-
-- name: Nikki Hart
-  photo: nikki.png
-  info: Undergraduate Student
-  email: njh84 AT cornell dot edu
-  bio: "Nikki is a senior with a major in Mechanical Engineering and a minor in Robotics. Her interests in robotics include perception, planning, and manipulation. Outside of classes and research, Nikki enjoys rock climbing and exploring Ithaca."
-  website: ""
-  type: 3-5
+  type: 3-4
 
 - name: Bahaa Kotb
   photo: bahaa.png
   info: Undergraduate Student
   email: bmk89 AT cornell dot edu
   bio: "Bahaa is a Junior with a major in Computer Science. He is interested in robotics and machine learning, and wants to use these skills to help people. Outside of school you can find him playing soccer or going to the gym."
-  type: 3-6
+  type: 3-5
 
 - name: Justin Guo
   photo: justin.jpg
   info: Undergraduate Student
   email: jjg283 AT cornell dot edu
   bio: "Justin is a junior undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, as well as applying best software engineering practices. Outside of class, he loves learning to cook Asian dishes with his trusty wok and can be found jamming out to music, no matter the setting."
-  type: 3-6
+  type: 3-5
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
