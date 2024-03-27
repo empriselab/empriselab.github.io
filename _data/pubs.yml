@@ -1,3 +1,24 @@
+- title: "Assistive Applications, Accessibility, and Disability Ethics in HRI"
+  authors: Katherine H. Allen, Reuben M. Aronson, Tapomayukh Bhattacharjee, Frank Broz, Mai Lee Chang, Maggie Collier, Taylor Kessler Faulkner, Hee Rin Lee, Isabel Neto, Katie Winkle, Elaine Schaertl Short
+  link: 
+    url: https://dl.acm.org/doi/10.1145/3610978.3638151
+  year: 2024
+  type: other
+  venue: Companion of the ACM/IEEE International Conference on Human Robot Interaction
+  thumbnail: 
+  alt: 75
+
+- title: "An Adaptable, Safe, and Portable Robot-Assisted Feeding System"
+  authors: Ethan Kroll Gordon*, Rajat Kumar Jenamani*, Amal Nanavati*, Ziang Liu, Haya Bolotski, Raida Karim, Daniel Stabile, Atharva Kashyap, Bernie Hao Zhu, Xilai Dai, Tyler Schrenk, Jonathan Ko, Taylor Kessler Faulkner, Tapomayukh Bhattacharjee, Siddhartha Srinivasa
+  link: 
+    url: https://arxiv.org/abs/2403.04134
+  year: 2024
+  type: other
+  venue: ACM/IEEE International Conference on Human Robot Interaction
+  note: Best Demonstration Award Winner
+  thumbnail: 
+  alt: 74
+
 - title: "Inferring Human Intent and Predicting Human Action in Human–Robot Collaboration"
   authors: Guy Hoffman, Tapomayukh Bhattacharjee, and Stefanos Nikolaidis
   link: 
@@ -35,6 +56,7 @@
   year: 2024
   type: conf-journal
   venue: ACM/IEEE International Conference on Human Robot Interaction
+  note: Best Paper Award Nomination
   thumbnail: 
   alt: 71
 
