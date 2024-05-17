@@ -1,3 +1,36 @@
+- name: Mahika Goel
+  department: BS/MEng, MechE 2024
+  job: Controls and Automation Engineer, SpaceX
+  website: https://www.linkedin.com/in/mahika-goel-2bbb201a5/
+- name: Diego Virtue
+  department: BS, CS 2024
+  job: Software Engineer, Apple
+  website: https://www.linkedin.com/in/diego-virtue/
+- name: Jueun Kwon
+  department: BS, MechE 2024
+  job: PhD student, Northwestern
+  website: https://www.linkedin.com/in/jueunkwon/
+- name: Luoyan Zhong
+  department: Undergrad Intern
+  job: PhD student, Cornell
+  website: https://luoyan02.github.io/
+- name: Xilai Dai
+  department: BS, CS 2024
+  job: PhD student, Cornell
+  website: https://www.linkedin.com/in/xilaidai/
+
+- name: Nikki Hart
+  department: BS, MechE 2023
+  job:
+  website:
+- name: Boao Dong
+  department: MEng, CS 2023
+  job: Software Engineer, Tiktok
+  website: https://www.linkedin.com/in/boao-mark-dong-50a82a1a5/
+- name: Boxin Xu
+  department: MS, MechE 2023
+  job: 
+  website: 
 - name: Zoe Chen
   department: MEng, ECE 2023
   job: Quantum Hardware Electrical Engineer, HRL Labs
