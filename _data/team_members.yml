@@ -214,6 +214,14 @@
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
   type: 3-6
 
+- name: Shuaixing Chen
+  photo: Shuaixing_Chen.jpg
+  info: Undergraduate Intern
+  email: alkdischen AT gmail dot com
+  bio: "Shuaixing Chen is a junior undergraduate student from Shanghai Jiao Tong University, majoring in Electrical Engineering and Automation. His research interest lies in Embodied AI, multi-agent intelligence and robot collaboration with LLM. He enjoys watching old black-and-white movies and reading classic philosophy books."
+  website: https://alkdischen.github.io
+  type: 3-6
+
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
