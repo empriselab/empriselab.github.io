@@ -12,7 +12,7 @@
   email: rm773 AT cornell dot edu
   bio: Rishabh's research interests are in leveraging robot learning for decision-making under uncertainty to enable assistive robots. He received his B.Tech. in Ocean Engineering and Naval Architecture from the Indian Institute of Technology Kharagpur.
   website: https://cs.cornell.edu/~madan
-  type: 1-1
+  type: 2-1
 
 - name: Rajat Kumar Jenamani
   photo: rajat.jpg
@@ -20,7 +20,7 @@
   email: rj277 AT cornell dot edu
   bio: "Rajat's research interests are in human-robot interaction and machine learning. Rajat received his B.Tech in Computer Science and Engineering from IIT Kharagpur."
   website: https://www.cs.cornell.edu/~rkjenamani
-  type: 1-1
+  type: 2-1
 
 - name: Ruolin Ye
   photo: ruolin.png
@@ -28,7 +28,7 @@
   email: ry273 AT cornell dot edu
   bio: "Ruolin is a 2nd-year PhD student in the Computer Science department. She graduated from Shanghai Jiao Tong University with B.Eng. in Information Engineering in 2022. Her research interest lies in simulation and multi-agent collaboration. Outside of research, she is an amateur bartender and painter."
   website: https://sites.google.com/view/ruolin-ye/home
-  type: 1-1
+  type: 2-1
 
 - name: Rohan Banerjee
   photo: rohan.jpeg
@@ -36,7 +36,7 @@
   email: rbb242 AT cornell dot edu
   bio: "Rohan is a 4th-year PhD student in the Computer Science department. His research interests lie generally in the area of robust, learning-based sequential decision-making for robotics, with the goal of building learning-based systems that respect human preferences. Outside of research, he likes reading, writing, playing musical instruments, and exploring Ithaca."
   website: https://rohanb2018.github.io/
-  type: 1-2
+  type: 2-2
 
 - name: Ziang Liu
   photo: ziang.png
@@ -44,7 +44,7 @@
   email: zl873 AT cornell dot edu
   bio: "Ziang is a 1st-year PhD student in the Computer Science department. His research aims to build robots that perceive, understand, reason, and interact in the physical world to better assist people with day-to-day tasks, leveraging inspiration from human cognition. He obtained a M.S. in CS from Stanford University in 2023, a B.S. in CS and a B.S. in Applied Math from University of Southern California in 2021. He loves skiing, birding, hiking, photography, and everything about nature."
   website: https://www.ziangliu.com/
-  type: 1-2
+  type: 2-2
 
 - name: Pranav Thakkar
   photo: pranav.jpg
@@ -52,7 +52,7 @@
   email: pnt8 AT cornell dot edu
   bio: "Pranav is a 1st year PhD student in Aerospace Engineering working on robot-assisted dressing for everyday clothing. He graduated from IIT Bombay with a Bachelor's and a Master's degree in Aerospace Engineering, and was previously part of the robot vision team at Honda R&D Life Creation Center in Wako, Japan. Outside of work, he learns jazz piano and enjoys hiking, picnics and metal music."
   website: https://pranavnnt.github.io/
-  type: 1-2
+  type: 2-2
 
 - name: Shubhangi Sinha
   photo: shubhangi.png
@@ -60,7 +60,7 @@
   email: ss3392 AT cornell dot edu
   bio: "Shubhangi Sinha is a 2nd year MS student studying Mechanical Engineering at Cornell University.  She enjoys playing the piano (particularly anime OSTs) and reading alongside her engineering pursuits."
   website: ""
-  type: 2-1
+  type: 3-1
 
 - name: Huy Nguyen
   photo: Huy_Nguyen.jpg
@@ -68,7 +68,7 @@
   email: hcn9 AT cornell dot edu
   bio: "Huy is a second semester MEng student in computer science at Cornell. He graduated with a BS in Computer Science from Cornell in 2023. He doesn't have the time to read as much as he would like these days, but he is always down for getting a book recommendation regardless."
   website: "https://haku-c.github.io/"
-  type: 2-1
+  type: 3-1
 
 - name: Jiayuan Fu
   photo: Jiayuan_Fu.jpeg
@@ -76,14 +76,14 @@
   email: jf766 AT cornell dot edu
   bio: "Jiayuan is a Master of Engineering student in Computer Science. She obtained her B.S. in CS from Georgia Institute of Technology in 2023. She is interested in human-robot interaction and building robots to better assist people in everyday life. Outside of research, she loves to spend time with her cats while reading novels and cooking delicious food. "
   website: ""
-  type: 2-1
+  type: 3-1
 
 - name: Yunting Yan
   photo: Yunting_Yan.jpg
   info: MS, Mechanical Engineering
   email: yy2244 AT cornell dot edu
   bio: "Yunting is an MS student in Mechanical Engineering. His research interests include Human-Robot Interaction, control, and Artificial Intelligence. Outside of academics, he enjoys cooking and playing badminton."
-  type: 2-2
+  type: 3-2
 
 - name: Yuhan (Anjelica) Bian
   photo: anjelica.jpg
@@ -91,7 +91,7 @@
   email: yb265 AT cornell dot edu
   bio: "Anjelica is a sophomore in the Department of Engineering planning on studying Computer Science and/or ECE. Besides EmPRISE and academics, Anjelica is also a part of the Cornell WebDev project team, Cornell Rowing Club and an active member in WICC."
   website: ""
-  type: 3-1
+  type: 4-1
 
 - name: Xiaoyu (Sherry) Liang
   photo: sherry.jpg
@@ -99,7 +99,7 @@
   email: xl434 AT cornell dot edu
   bio: "Sherry is a Junior studying Electrical and Computer Engineering and minoring in Robotics. She is panning to pursue a PhD in robotics or related fields. She is also a songwriter and the guitarist of Night Espresso band."
   website: ""
-  type: 3-1
+  type: 4-1
 
 - name: Nayoung (Sarah) Ha
   photo: nayoung.png
@@ -107,7 +107,7 @@
   email: nh285 AT cornell dot edu
   bio: "Sarah is a sophomore majoring in Computer Science. Her current interests are in simulating autonomous vehicles and she is currently a software member of Cornell University Autonomous Underwater Vehicle. Outside of academics, she enjoys drawing, playing video games, and playing the bass guitar."
   website: "https://www.sarahha.me"
-  type: 3-1
+  type: 4-1
 
 - name: Marcus Lee
   photo: marcus.png
@@ -115,7 +115,7 @@
   email: mrl256 AT cornell dot edu
   bio: "Marcus is a sophomore majoring in Computer Science. He is passionate about computer vision and machine learning, especially in robotics. Aside from academics, he enjoys playing basketball, golf, and chess."
   website: ""
-  type: 3-2
+  type: 4-2
 
 - name: Isabella Wells
   photo: isabella.jpeg
@@ -123,7 +123,7 @@
   email: lmw25 AT cornell dot edu
   bio: "Isabella Wells is a Junior studying Computer Science. She is interested in human-robot interaction and the intersection of design and technology. In her free time, you can find Isabella skiing, golfing, enjoying nature, or playing with her dog."
   website: ""
-  type: 3-2
+  type: 4-2
 
 - name: Yifei Hu
   photo: yifei.jpg
@@ -131,7 +131,7 @@
   email: yh464 AT cornell dot edu
   bio: "Yifei is an undegrade student majoring in Computer Science and Operations Research, with a minor in Robotics. She is interested in robot learning, Human Robot Interaction, and planning. In her free time, you can possibly catch Yifei playing video games or taking a long nap, as she is quite sedentary. If you want to scare her soul out of her body, pretend to be a mechanical dinosaur."
   website: ""
-  type: 3-2
+  type: 4-2
 
 - name: Janna Lin
   photo: janna.jpeg
@@ -139,7 +139,7 @@
   email: jnl77 AT cornell dot edu
   bio: "Janna is a junior majoring in CS and minoring in robotics with an interest in robot manipulation and planning. She loves making and drinking coffee, as coffee has become part of her blood that sustains her daily life. If possible, she'd open a café when she retires, where every day, as she brews coffee, she'd listen to the stories of those who come and go."
   website: ""
-  type: 3-3
+  type: 4-3
 
 - name: Eric Hu
   photo: eric.png
@@ -147,7 +147,7 @@
   email: elh245 AT cornell dot edu
   bio: "Eric is a sophomore majoring in Computer Science. He is interested in robotics, and particularly helping robots interact with humans and the world more naturally. He plans to pursue a Ph.D in robotics or a related field. He also enjoys playing video games, piano and watching interesting YouTube videos."
   website: ""
-  type: 3-3
+  type: 4-3
 
 - name: Carly Jiang
   photo: carly.png
@@ -155,28 +155,28 @@
   email: cjj43 AT cornell dot edu
   bio: "Carly is a sophomore majoring in CS. She is interested in machine learning and robotics, and strongly believes in using AI to help people. Outside of school, you can usually find her playing RPGs, reading books, or watching sci-fi."
   website: ""
-  type: 3-3
+  type: 4-3
 
 - name: Bahaa Kotb
   photo: bahaa.png
   info: Undergraduate Student
   email: bmk89 AT cornell dot edu
   bio: "Bahaa is a Junior with a major in Computer Science. He is interested in robotics and machine learning, and wants to use these skills to help people. Outside of school you can find him playing soccer or going to the gym."
-  type: 3-4
+  type: 4-4
 
 - name: Justin Guo
   photo: justin.jpg
   info: Undergraduate Student
   email: jjg283 AT cornell dot edu
   bio: "Justin is a junior undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, as well as applying best software engineering practices. Outside of class, he loves learning to cook Asian dishes with his trusty wok and can be found jamming out to music, no matter the setting."
-  type: 3-4
+  type: 4-4
 
 - name: Anthony Song
   photo: Anthony_Song.jpg
   info: Undergraduate Student
   email: abs343 AT cornell dot edu
   bio: "Anthony is a 2nd year undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, but he is also interested in hardware and computer architecture. Outside of class, you can find him on the basketball court, bingeing on Netflix, or eating chicken tenders."
-  type: 3-4
+  type: 4-4
 
 - name: Krishna Palempalli
   photo: Krishna_Palempalli.jpg
@@ -184,35 +184,35 @@
   email: kp386 AT cornell dot edu
   website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
   bio: "Krishna is a junior majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
-  type: 3-5
+  type: 4-5
 
 - name: Christina Ge
   photo: Christina_Ge.jpg
   info: Undergraduate Student
   email: rg759 AT cornell dot edu
   bio: "Christina is a sophomore majoring in Mechanical Engineering. She is interested in human-robot interactions and how assertive robots benefit humans daily. Outside of the lab, Christina is a member of Cornell Electric Vehicle and she enjoys skiing and exploring Ithaca."
-  type: 3-5
+  type: 4-5
 
 - name: Joyce Yang
   photo: Joyce_Yang.jpg
   info: Undergraduate Student
   email: jby33 AT cornell dot edu
   bio: "Joyce is a sophomore majoring in Computer Science and minoring in Economics. Her interests lie in human-robot interaction and using robots to assist humans with daily living activities in home environments. Outside the lab, Joyce is currently a member of Cornell Data Science, and her hobbies include playing volleyball, watching stand-up comedy, and coding to movie soundtracks."
-  type: 3-5
+  type: 4-5
 
 - name: Qiandao Liu
   photo: Qiandao_Liu.jpg
   info: Undergraduate Student
   email: ql342 AT cornell dot edu
   bio: "Qiandao is a freshman majoring in CS and minoring in Data Science, he is intresting in robot assistant human dressing. Outside academics, he is an old school photographer, a professional backpacking vagrant, a birder, an excellent chef and a Cyberpunk 2077 enthusiast."
-  type: 3-6
+  type: 4-6
 
 - name: Amber Li
   photo: Amber_Li.jpg
   info: Undergraduate Student
   email: adl94 AT cornell dot edu
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
-  type: 3-6
+  type: 4-6
 
 - name: Shuaixing Chen
   photo: Shuaixing_Chen.jpg
@@ -220,7 +220,21 @@
   email: alkdischen AT gmail dot com
   bio: "Shuaixing Chen is a junior undergraduate student from Shanghai Jiao Tong University, majoring in Electrical Engineering and Automation. His research interest lies in Embodied AI, multi-agent intelligence and robot collaboration with LLM. He enjoys watching old black-and-white movies and reading classic philosophy books."
   website: https://alkdischen.github.io
-  type: 3-6
+  type: 5-1
+
+- name: Tam Nguyen
+  photo: Tam_Nguyen.jpg
+  info: Undergraduate Intern
+  email: thetam.n.11 AT gmail dot com
+  bio: "Tam is a junior undergraduate student majoring in Computer Science and minoring in Mathematics and Robotics at the University of Massachusetts Lowell. His research interests include assistive robotics and human-robot interaction. He is interested in video games, music, and boba."
+  type: 5-1
+
+- name: Angchen Xie
+  photo: Angchen_Xie.jpg
+  info: Undergraduate Intern
+  email: xieangchen808 AT gmail dot com
+  bio: "Angchen is a junior undergraduate student majoring in Automation at Shanghai Jiao Tong University. His research interests include robot perception and decision-making processes, and he is eager to explore real robot hardware and human-robot interaction (HRI). In his free time, he enjoys playing basketball, singing, and playing chess."
+  type: 5-1
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
@@ -228,24 +242,24 @@
   email: kd2524 AT cumc dot columbia dot edu
   bio: ""
   website: https://www.vagelos.columbia.edu/profile/katherine-dimitropoulou-phd
-  type: 4
+  type: 6
 
 - name: Yui <br> Gen3 Kinova 7 dof
   photo: yui.png
   website: https://www.kinovarobotics.com/product/gen3-robots
-  type: 5-1
+  type: 7-1
 
 - name: Ayase <br> Gen3 Kinova 6 dof
   photo: ayase.png
   website: https://www.kinovarobotics.com/product/gen3-robots
-  type: 5-1
+  type: 7-1
 
 - name: Akira <br> Franka Emika Panda
   photo: franka.png
   website: https://www.pomorobotics.com/robots/frankpanda/
-  type: 5-1
+  type: 7-1
 
 - name: Bojji of the Bosse Fleet <br> MuSHR
   photo: MuSHR.png
   website: https://mushr.io/
-  type: 5-2
+  type: 7-2
