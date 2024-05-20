@@ -37,6 +37,7 @@
   type: conf-journal
   venue: International Conference on Robotics and Automation
   thumbnail: 
+  website: https://emprise.cs.cornell.edu/morpheus/
   alt: 73
 
 - title: "CushSense: Soft, Stretchable, and Comfortable Tactile Sensing Skin for Physical Human-Robot Interaction"
@@ -47,6 +48,7 @@
   type: conf-journal
   venue: International Conference on Robotics and Automation
   thumbnail: 
+  website: https://emprise.cs.cornell.edu/cushsense
   alt: 72
 
 - title: "Robot-assisted Inside-mouth Bite Transfer using Robust Mouth Perception and Physical Interaction-Aware Control"
@@ -69,6 +71,7 @@
   type: conf-journal
   venue: ACM/IEEE International Conference on Human Robot Interaction
   thumbnail: 
+  website: https://emprise.cs.cornell.edu/rabbit/
   alt: 70
 
 - title: "To Ask or Not To Ask: Robot-assisted Bite Acquisition with Human-in-the-loop Contextual Bandits"
