@@ -16,7 +16,12 @@ full-width: true
       </h2>
 
       {% if project.link %}
-      <a href="{{ project.link }}" class="project-website-link" target="_blank" rel="noopener noreferrer">Project Website</a>
+      {% assign link_text = project.link_text | default: "Project Website" %}
+      <a href="{{ project.link }}" class="project-website-link" target="_blank" rel="noopener noreferrer">{{ link_text }}</a>
+      {% endif %}
+      {% if project.link_2 %}
+      {% assign link_2_text = project.link_2_text | default: "Project Website" %}
+      | <a href="{{ project.link_2 }}" class="project-website-link" target="_blank" rel="noopener noreferrer">{{ link_2_text }}</a>
       {% endif %}
 
       <div class="embed-responsive embed-responsive-16by9">
