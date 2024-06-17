@@ -214,6 +214,20 @@
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
   type: 4-6
 
+- name: Qi Chen
+  photo: Qi_Chen.jpg
+  info: Undergraduate Student
+  email: qc74 AT cornell dot edu
+  bio: "Qi is a junior majoring in Computer Science and Electrical Engineering. He enjoys Robotics and wants to make robots that serve people better; he would like to contribute to Robotics with interdisciplinary knowledge and develop robots through both software and hardware fields. When he's not working on school work, you may find him taking photos of landscape around the campus."
+  type: 4-6
+
+- name: Alexis Hao
+  photo: Alexis_Hao.jpg
+  info: Undergraduate Student
+  email: yh826 AT cornell dot edu
+  bio: "Alexis just graduated from Cornell in May 2024 with a Bachelor's degree in Computer Science and Psychology. Her research interests include learning for robot manipulation and human-robot interaction. Outside of research, you can find her reading about neuroscience and psychology or trying to ski without falling."
+  type: 4-7
+
 - name: Shuaixing Chen
   photo: Shuaixing_Chen.jpg
   info: Undergraduate Intern
