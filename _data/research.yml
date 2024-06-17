@@ -1,6 +1,9 @@
 - title: "Robot-assisted Feeding"
   link: "https://emprise.cs.cornell.edu/bitetransfer/"
-  ytid: "CJ66x7JfqG0"
+  link_text: "Bite Transfer"
+  link_2: "https://flair-robot.github.io/"
+  link_2_text: "Bite Acquisition"
+  ytid: "ad06vJWldYo"
   description: "Eating is an activity of daily living (ADL) and losing the
   ability to self-feed can be devastating. Robots have the potential to help
   with these tasks. Successful robotic assistive feeding depends on reliable
