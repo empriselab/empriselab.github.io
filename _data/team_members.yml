@@ -6,6 +6,14 @@
   website: http://www.tapomayukh.com
   type: 0
 
+- name: Tom Silver
+  photo: Tom_Silver.jpeg
+  info: Postdoc
+  email: tsilver AT princeton dot edu
+  bio: Tom Silver received his PhD from MIT (EECS) in 2024, where he was advised by Leslie Kaelbling and Josh Tenenbaum. His research is at the intersection of machine learning and planning with applications to robotics and often uses techniques from task and motion planning, program synthesis, and neuro-symbolic learning. Before graduate school, he was a researcher at Vicarious AI and received his B.A. from Harvard with highest honors in computer science and mathematics in 2016. He has also interned at Google Research (Brain Robotics) and the Boston Dynamics AI Institute.
+  website: https://tomsilver.github.io/
+  type: 1-1
+
 - name: Rishabh Madan
   photo: rishabh.jpg
   info: Ph.D. Student, Computer Science
@@ -83,6 +91,13 @@
   info: MS, Mechanical Engineering
   email: yy2244 AT cornell dot edu
   bio: "Yunting is an MS student in Mechanical Engineering. His research interests include Human-Robot Interaction, control, and Artificial Intelligence. Outside of academics, he enjoys cooking and playing badminton."
+  type: 3-2
+
+- name: Shiqin Tong
+  photo: Shiqin_Tong.jpg
+  info: MS, Health Informatics
+  email: sto4004 AT med dot cornell dot edu
+  bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
   type: 3-2
 
 - name: Yuhan (Anjelica) Bian
@@ -226,6 +241,20 @@
   info: Undergraduate Student
   email: yh826 AT cornell dot edu
   bio: "Alexis just graduated from Cornell in May 2024 with a Bachelor's degree in Computer Science and Psychology. Her research interests include learning for robot manipulation and human-robot interaction. Outside of research, you can find her reading about neuroscience and psychology or trying to ski without falling."
+  type: 4-7
+
+- name: Alif Abdullah
+  photo: Alif_Abdullah.jpg
+  info: Undergraduate Student
+  email: aa2298 AT cornell dot edu
+  bio: Alif is a sophomore CS student, interested in pursuing a career in AI and Robotics. He has a massive appetite, and will eat whatever you put in front of him. Please send him any food recipes from any cuisine you think are really good! Outside of his research interests and food habits, he does calisthenics as a hobby. As a result, he is somewhat conscious of his diet, but will crumble in front of a good cookie. 
+  type: 4-7
+
+- name: Riley Coogan
+  photo: Riley_Coogan.jpeg
+  info: Undergraduate Student
+  email: rmc329 AT cornell dot edu
+  bio: Riley is a Junior majoring in Computer Science in the Cornell College of Engineering. His research interests lie in the application of Machine Learning and Perception to create products which solve real-world problems. Outside of academics, he enjoys playing basketball, volunteering with the Cornell Raptor Program, and playing guitar. 
   type: 4-7
 
 - name: Shuaixing Chen
