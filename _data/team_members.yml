@@ -70,19 +70,19 @@
   website: ""
   type: 3-1
 
-- name: Huy Nguyen
-  photo: Huy_Nguyen.jpg
-  info: MEng, Computer Science
-  email: hcn9 AT cornell dot edu
-  bio: "Huy is a second semester MEng student in computer science at Cornell. He graduated with a BS in Computer Science from Cornell in 2023. He doesn't have the time to read as much as he would like these days, but he is always down for getting a book recommendation regardless."
-  website: "https://haku-c.github.io/"
+- name: Ben Dodson
+  photo: Ben_Dodson.jpg
+  info: MEng, Mechanical Engineering
+  email: bzd4 AT cornell dot edu
+  bio: "Ben Dodson graduated from Cornell University majoring in Mechanical Engineering and minoring in Computer Science. He is an MEng student in Mechanical Engineering. He is interested in robotic design and construction as well as the integration between hardware and software. In his free time, he likes to rock climb and hang out with friends."
+  website: ""
   type: 3-1
 
-- name: Jiayuan Fu
-  photo: Jiayuan_Fu.jpeg
+- name: Deepanshi Srivastava
+  photo: Deepanshi_Srivastava.jpg
   info: MEng, Computer Science
-  email: jf766 AT cornell dot edu
-  bio: "Jiayuan is a Master of Engineering student in Computer Science. She obtained her B.S. in CS from Georgia Institute of Technology in 2023. She is interested in human-robot interaction and building robots to better assist people in everyday life. Outside of research, she loves to spend time with her cats while reading novels and cooking delicious food. "
+  email: ds2399 AT cornell dot edu
+  bio: "Deepanshi graduated from Cornell University  from the MEng CS program. She has profound interest in understanding, implementing and researching various Machine Learning, Computer Vision, Deep learning concepts and delving deep into their mathematical quintessence as well as pragmatic applications. Her aim is to explore Artificial intelligence and spread its potential beyond the grounds of luxury to the place where ‘relief’ is the need of the hour.  Outside academics she is a trained Indian classical vocalist and enjoys poetry writing and painting."
   website: ""
   type: 3-1
 
@@ -100,12 +100,19 @@
   bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
   type: 3-2
 
-- name: Yuhan (Anjelica) Bian
-  photo: anjelica.jpg
+- name: Yuting Yang
+  photo: Yuting_Yang.jpg
+  info: MS, Human-Computer Interaction
+  email: yutingy AT umich dot edu
+  bio: "Yuting is pursuing an MS in Human-Computer Interaction at the University of Michigan, building on her solid design foundation from the Savannah College of Art and Design (BFA). With expertise in user experience research, she focuses on creating user-centric designs that seamlessly connect technology and human experience. Her research spans human-computer interaction, human-centered privacy and security, and health technology. Yuting is passionate about how thoughtful design can empower users. With over 10 years of experience in Chinese calligraphy, she blends creativity and precision in her work. Outside of research, Yuting enjoys working out, practicing Pilates, and is aiming to complete a marathon soon."
+  type: 3-2
+
+- name: Andrew Richmond
+  photo: Andrew_Richmond.jpg
   info: Undergraduate Student
-  email: yb265 AT cornell dot edu
-  bio: "Anjelica is a sophomore in the Department of Engineering planning on studying Computer Science and/or ECE. Besides EmPRISE and academics, Anjelica is also a part of the Cornell WebDev project team, Cornell Rowing Club and an active member in WICC."
-  website: ""
+  email: ar744 AT cornell dot edu
+  bio: "Andrew is a Junior majoring in Computer Science in the College of Engineering. He is passionate about the applications of Machine Learning and enjoys working with all things data to solve real-world problems. Outside of the lab, Andrew loves to play golf, watch sports, and spend time in nature."
+  website: "https://www.andrew-richmond.com/"
   type: 4-1
 
 - name: Xiaoyu (Sherry) Liang
@@ -124,12 +131,12 @@
   website: "https://www.sarahha.me"
   type: 4-1
 
-- name: Marcus Lee
-  photo: marcus.png
+- name: Bohan Yang
+  photo: Bohan_Yang.png
   info: Undergraduate Student
-  email: mrl256 AT cornell dot edu
-  bio: "Marcus is a sophomore majoring in Computer Science. He is passionate about computer vision and machine learning, especially in robotics. Aside from academics, he enjoys playing basketball, golf, and chess."
-  website: ""
+  email: by93 AT cornell dot edu
+  bio: "Bohan is a junior year CS student at Cornell University, who is passionate about machine learning and utilizing AI to improve humanity in a whole. His research interests lies in multimodal machine learning, human-robot interaction, and 3D reconstruction. In his free time, he watches Premier League and plays piano."
+  website: "https://whoisfrankyang.github.io/"
   type: 4-2
 
 - name: Isabella Wells
