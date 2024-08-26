@@ -100,13 +100,6 @@
   bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
   type: 3-2
 
-- name: Yuting Yang
-  photo: Yuting_Yang.jpg
-  info: MS, Human-Computer Interaction
-  email: yutingy AT umich dot edu
-  bio: "Yuting is pursuing an MS in Human-Computer Interaction at the University of Michigan, building on her solid design foundation from the Savannah College of Art and Design (BFA). With expertise in user experience research, she focuses on creating user-centric designs that seamlessly connect technology and human experience. Her research spans human-computer interaction, human-centered privacy and security, and health technology. Yuting is passionate about how thoughtful design can empower users. With over 10 years of experience in Chinese calligraphy, she blends creativity and precision in her work. Outside of research, Yuting enjoys working out, practicing Pilates, and is aiming to complete a marathon soon."
-  type: 3-2
-
 - name: Andrew Richmond
   photo: Andrew_Richmond.jpg
   info: Undergraduate Student
@@ -284,6 +277,13 @@
   info: Undergraduate Intern
   email: xieangchen808 AT gmail dot com
   bio: "Angchen is a junior undergraduate student majoring in Automation at Shanghai Jiao Tong University. His research interests include robot perception and decision-making processes, and he is eager to explore real robot hardware and human-robot interaction (HRI). In his free time, he enjoys playing basketball, singing, and playing chess."
+  type: 5-1
+
+- name: Yuting Yang
+  photo: Yuting_Yang.jpg
+  info: MS, Human-Computer Interaction
+  email: yutingy AT umich dot edu
+  bio: "Yuting is pursuing an MS in Human-Computer Interaction at the University of Michigan, building on her solid design foundation from the Savannah College of Art and Design (BFA). With expertise in user experience research, she focuses on creating user-centric designs that seamlessly connect technology and human experience. Her research spans human-computer interaction, human-centered privacy and security, and health technology. Yuting is passionate about how thoughtful design can empower users. With over 10 years of experience in Chinese calligraphy, she blends creativity and precision in her work. Outside of research, Yuting enjoys working out, practicing Pilates, and is aiming to complete a marathon soon."
   type: 5-1
 
 - name: Dr. Katherine Dimitropoulou
