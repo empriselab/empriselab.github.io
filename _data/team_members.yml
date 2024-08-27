@@ -100,6 +100,13 @@
   bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
   type: 3-2
 
+- name: Karan Baijal
+  photo: Karan_Baijal.jpg
+  info: MS, Computer Science
+  email: kb553 AT cornell dot edu
+  bio: "Karan graduated from Cornell University majoring in Physics and minoring in CS and MechE. He is currently pursuing a masters in Computer Science, focusing on robotics and machine learning, at Cornell. His research interests lie in the intersection of Robotics, Machine Learning, and Physics. Outside of research and academics, he enjoys reading books, playing soccer, hanging out with friends, listening to music, and doing photography!"
+  type: 3-2
+
 - name: Andrew Richmond
   photo: Andrew_Richmond.jpg
   info: Undergraduate Student
