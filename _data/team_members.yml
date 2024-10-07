@@ -70,14 +70,6 @@
   website: ""
   type: 3-1
 
-- name: Deepanshi Srivastava
-  photo: Deepanshi_Srivastava.jpg
-  info: MEng, Computer Science
-  email: ds2399 AT cornell dot edu
-  bio: "Deepanshi graduated from Cornell University  from the MEng CS program. She has profound interest in understanding, implementing and researching various Machine Learning, Computer Vision, Deep learning concepts and delving deep into their mathematical quintessence as well as pragmatic applications. Her aim is to explore Artificial intelligence and spread its potential beyond the grounds of luxury to the place where ‘relief’ is the need of the hour.  Outside academics she is a trained Indian classical vocalist and enjoys poetry writing and painting."
-  website: ""
-  type: 3-1
-
 - name: Yunting Yan
   photo: Yunting_Yan.jpg
   info: MS, Mechanical Engineering
@@ -90,7 +82,7 @@
   info: MS, Health Informatics
   email: sto4004 AT med dot cornell dot edu
   bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
-  type: 3-2
+  type: 3-1
 
 - name: Karan Baijal
   photo: Karan_Baijal.jpg
@@ -105,14 +97,6 @@
   email: aks237 AT cornell dot edu
   bio: "Ajay Sunkara graduated from Cornell University with a major in Mechanical Engineering and a minor in Computer Science. He is an MEng student in Mechanical Engineering and is interested in controls and reinforcement learning in robotics. Outside of school, he enjoys playing basketball and reading."
   type: 3-2
-
-- name: Andrew Richmond
-  photo: Andrew_Richmond.jpg
-  info: Undergraduate Student
-  email: ar744 AT cornell dot edu
-  bio: "Andrew is a Junior majoring in Computer Science in the College of Engineering. He is passionate about the applications of Machine Learning and enjoys working with all things data to solve real-world problems. Outside of the lab, Andrew loves to play golf, watch sports, and spend time in nature."
-  website: "https://www.andrew-richmond.com/"
-  type: 4-1
 
 - name: Xiaoyu (Sherry) Liang
   photo: sherry.jpg
@@ -136,31 +120,7 @@
   email: by93 AT cornell dot edu
   bio: "Bohan is a junior year CS student at Cornell University, who is passionate about machine learning and utilizing AI to improve humanity in a whole. His research interests lies in multimodal machine learning, human-robot interaction, and 3D reconstruction. In his free time, he watches Premier League and plays piano."
   website: "https://whoisfrankyang.github.io/"
-  type: 4-2
-
-# - name: Isabella Wells
-#   photo: isabella.jpeg
-#   info: Undergraduate Student
-#   email: lmw25 AT cornell dot edu
-#   bio: "Isabella Wells is a Junior studying Computer Science. She is interested in human-robot interaction and the intersection of design and technology. In her free time, you can find Isabella skiing, golfing, enjoying nature, or playing with her dog."
-#   website: ""
-#   type: 4-2
-
-- name: Yifei Hu
-  photo: yifei.jpg
-  info: Undergraduate Student
-  email: yh464 AT cornell dot edu
-  bio: "Yifei is an undegrade student majoring in Computer Science and Operations Research, with a minor in Robotics. She is interested in robot learning, Human Robot Interaction, and planning. In her free time, you can possibly catch Yifei playing video games or taking a long nap, as she is quite sedentary. If you want to scare her soul out of her body, pretend to be a mechanical dinosaur."
-  website: ""
-  type: 4-2
-
-# - name: Janna Lin
-#   photo: janna.jpeg
-#   info: Undergraduate Intern Student
-#   email: jnl77 AT cornell dot edu
-#   bio: "Janna is a junior majoring in CS and minoring in robotics with an interest in robot manipulation and planning. She loves making and drinking coffee, as coffee has become part of her blood that sustains her daily life. If possible, she'd open a café when she retires, where every day, as she brews coffee, she'd listen to the stories of those who come and go."
-#   website: ""
-#   type: 4-3
+  type: 4-1
 
 - name: Eric Hu
   photo: eric.png
@@ -170,34 +130,19 @@
   website: ""
   type: 4-2
 
-# - name: Carly Jiang
-#   photo: carly.png
-#   info: Undergraduate Student
-#   email: cjj43 AT cornell dot edu
-#   bio: "Carly is a sophomore majoring in CS. She is interested in machine learning and robotics, and strongly believes in using AI to help people. Outside of school, you can usually find her playing RPGs, reading books, or watching sci-fi."
-#   website: ""
-#   type: 4-3
-
-# - name: Bahaa Kotb
-#   photo: bahaa.png
-#   info: Undergraduate Student
-#   email: bmk89 AT cornell dot edu
-#   bio: "Bahaa is a Junior with a major in Computer Science. He is interested in robotics and machine learning, and wants to use these skills to help people. Outside of school you can find him playing soccer or going to the gym."
-#   type: 4-4
-
 - name: Justin Guo
   photo: justin.jpg
   info: Undergraduate Student
   email: jjg283 AT cornell dot edu
   bio: "Justin is a junior undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, as well as applying best software engineering practices. Outside of class, he loves learning to cook Asian dishes with his trusty wok and can be found jamming out to music, no matter the setting."
-  type: 4-3
+  type: 4-2
 
 - name: Anthony Song
   photo: Anthony_Song.jpg
   info: Undergraduate Student
   email: abs343 AT cornell dot edu
   bio: "Anthony is a 2nd year undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, but he is also interested in hardware and computer architecture. Outside of class, you can find him on the basketball court, bingeing on Netflix, or eating chicken tenders."
-  type: 4-3
+  type: 4-2
 
 - name: Krishna Palempalli
   photo: Krishna_Palempalli.jpg
@@ -207,47 +152,49 @@
   bio: "Krishna is a junior majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
   type: 4-3
 
-- name: Christina Ge
-  photo: Christina_Ge.jpg
-  info: Undergraduate Student
-  email: rg759 AT cornell dot edu
-  bio: "Christina is a sophomore majoring in Mechanical Engineering. She is interested in human-robot interactions and how assertive robots benefit humans daily. Outside of the lab, Christina is a member of Cornell Electric Vehicle and she enjoys skiing and exploring Ithaca."
-  type: 4-4
-
 - name: Joyce Yang
   photo: Joyce_Yang.jpg
   info: Undergraduate Student
   email: jby33 AT cornell dot edu
   bio: "Joyce is a sophomore majoring in Computer Science and minoring in Economics. Her interests lie in human-robot interaction and using robots to assist humans with daily living activities in home environments. Outside the lab, Joyce is currently a member of Cornell Data Science, and her hobbies include playing volleyball, watching stand-up comedy, and coding to movie soundtracks."
-  type: 4-4
+  type: 4-3
 
 - name: Qiandao Liu
   photo: Qiandao_Liu.jpg
   info: Undergraduate Student
   email: ql342 AT cornell dot edu
   bio: "Qiandao is a freshman majoring in CS and minoring in Data Science, he is intresting in robot assistant human dressing. Outside academics, he is an old school photographer, a professional backpacking vagrant, a birder, an excellent chef and a Cyberpunk 2077 enthusiast."
-  type: 4-4
+  type: 4-3
 
 - name: Amber Li
   photo: Amber_Li.jpg
   info: Undergraduate Student
   email: adl94 AT cornell dot edu
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
-  type: 4-5
+  type: 4-4
 
 - name: Alif Abdullah
   photo: Alif_Abdullah.jpg
   info: Undergraduate Student
   email: aa2298 AT cornell dot edu
   bio: Alif is a sophomore CS student, interested in pursuing a career in AI and Robotics. He has a massive appetite, and will eat whatever you put in front of him. Please send him any food recipes from any cuisine you think are really good! Outside of his research interests and food habits, he does calisthenics as a hobby. As a result, he is somewhat conscious of his diet, but will crumble in front of a good cookie. 
+  type: 4-4
+
+- name: Andres Blanco
+  photo: Andres_Blanco.jpg
+  info: Undergraduate Student
+  email: arb345 AT cornell dot edu
+  bio: "Andres Blanco is an undergraduate senior in Mechanical Engineering at Cornell University interested in robotics planning and control. He worked at Amazon Robotics this Spring on serial link arm trajectory generation. Right now he is working on contact-rich planning for robotic arms via the lab."
+  website: https://www.andres-blanco.com/
+  type: 4-4
+
+- name: Moustafa Kassem
+  photo: Moustafa_Kassem.jpg
+  info: Undergraduate Student
+  email: mk2436 AT cornell dot edu
+  bio: "Moustafa Kassem is an undergraduate sophomore double majoring in Applied Engineering Physics and Computer Science at Cornell. His academic interests lie in the intersection of machine learning, signal processing, and optics, particularly in their applications to biomedical devices and sensing. In his free time, he enjoys reading, playing basketball, and watching movies."
   type: 4-5
 
-- name: Riley Coogan
-  photo: Riley_Coogan.jpeg
-  info: Undergraduate Student
-  email: rmc329 AT cornell dot edu
-  bio: Riley is a Junior majoring in Computer Science in the Cornell College of Engineering. His research interests lie in the application of Machine Learning and Perception to create products which solve real-world problems. Outside of academics, he enjoys playing basketball, volunteering with the Cornell Raptor Program, and playing guitar. 
-  type: 4-5
 
 - name: Shuaixing Chen
   photo: Shuaixing_Chen.jpg
@@ -256,13 +203,6 @@
   bio: "Shuaixing Chen is a junior undergraduate student from Shanghai Jiao Tong University, majoring in Electrical Engineering and Automation. His research interest lies in Embodied AI, multi-agent intelligence and robot collaboration with LLM. He enjoys watching old black-and-white movies and reading classic philosophy books."
   website: https://alkdischen.github.io
   type: 5-1
-
-# - name: Tam Nguyen
-#   photo: Tam_Nguyen.jpg
-#   info: Undergraduate Intern
-#   email: thetam.n.11 AT gmail dot com
-#   bio: "Tam is a junior undergraduate student majoring in Computer Science and minoring in Mathematics and Robotics at the University of Massachusetts Lowell. His research interests include assistive robotics and human-robot interaction. He is interested in video games, music, and boba."
-#   type: 5-1
 
 - name: Angchen Xie
   photo: Angchen_Xie.jpg
