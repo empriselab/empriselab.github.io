@@ -173,13 +173,6 @@
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
   type: 4-4
 
-- name: Alif Abdullah
-  photo: Alif_Abdullah.jpg
-  info: Undergraduate Student
-  email: aa2298 AT cornell dot edu
-  bio: Alif is a sophomore CS student, interested in pursuing a career in AI and Robotics. He has a massive appetite, and will eat whatever you put in front of him. Please send him any food recipes from any cuisine you think are really good! Outside of his research interests and food habits, he does calisthenics as a hobby. As a result, he is somewhat conscious of his diet, but will crumble in front of a good cookie. 
-  type: 4-4
-
 - name: Andres Blanco
   photo: Andres_Blanco.jpg
   info: Undergraduate Student
@@ -193,7 +186,7 @@
   info: Undergraduate Student
   email: mk2436 AT cornell dot edu
   bio: "Moustafa Kassem is an undergraduate sophomore double majoring in Applied Engineering Physics and Computer Science at Cornell. His academic interests lie in the intersection of machine learning, signal processing, and optics, particularly in their applications to biomedical devices and sensing. In his free time, he enjoys reading, playing basketball, and watching movies."
-  type: 4-5
+  type: 4-4
 
 
 - name: Shuaixing Chen
