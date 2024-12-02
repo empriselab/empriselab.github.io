@@ -30,7 +30,7 @@
 
 .grid-container {
   display: grid;
-  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 1fr 50px 1fr 1fr 50px 1fr 1fr 1fr 1fr 50px 1fr 1fr 50px 1fr 50px 1fr;
+  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 1fr 50px 1fr 1fr 50px 1fr 1fr 1fr 1fr 1fr 50px 1fr 1fr 50px 1fr 50px 1fr;
   grid-template-columns: repeat(3, 1fr);
   /* Each person gets his/her column */
 }
@@ -122,9 +122,9 @@
   grid-row: 15 / span 1;
 }
 
-/* .type-4-5 {
+.type-4-5 {
   grid-row: 16 / span 1;
-} */
+}
 
 /* .type-4-6 {
   grid-row: 17 / span 1;
@@ -136,46 +136,46 @@
 
 /* Visiting interns */
 #row-label-5 {
-  grid-row: 16 / span 1;
+  grid-row: 17 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-5-1 {
-  grid-row: 17 / span 1;
+  grid-row: 18 / span 1;
 }
 
 .type-5-2 {
-  grid-row: 18 / span 1;
+  grid-row: 19 / span 1;
 }
 
 /* Honorary lab members */
 #row-label-6 {
-  grid-row: 19 / span 1;
+  grid-row: 20 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-6 {
-  grid-row: 20 / span 1;
+  grid-row: 21 / span 1;
 }
 
 /* Robots */
 #row-label-7 {
-  grid-row: 21 / span 1;
+  grid-row: 22 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-7-1 {
-  grid-row: 22 / span 1;
+  grid-row: 23 / span 1;
 }
 
 .type-7-2 {
-  grid-row: 23 / span 1;
+  grid-row: 24 / span 1;
 }
 
 /* Lab alumni */
