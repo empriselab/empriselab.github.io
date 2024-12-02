@@ -188,6 +188,12 @@
   bio: "Moustafa Kassem is an undergraduate sophomore double majoring in Applied Engineering Physics and Computer Science at Cornell. His academic interests lie in the intersection of machine learning, signal processing, and optics, particularly in their applications to biomedical devices and sensing. In his free time, he enjoys reading, playing basketball, and watching movies."
   type: 4-4
 
+- name: Shao Stassen
+  photo: Shao_Stassen.jpg
+  info: Undergraduate Student
+  email: ses439 AT cornell dot edu
+  bio: "Shao Stassen is an undergraduate junior majoring in CS at Cornell University. His academic passions lie at the intersection of robotic control, machine learning, and computer vision, with a particular interest in leveraging these technologies to develop innovative robotic solutions that positively impact communities and improve quality of life. Outside of school, Shao enjoys outdoor running and reading books."
+  type: 4-5
 
 - name: Shuaixing Chen
   photo: Shuaixing_Chen.jpg
