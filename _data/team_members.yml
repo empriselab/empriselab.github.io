@@ -62,6 +62,14 @@
   website: https://pranavnnt.github.io/
   type: 2-2
 
+- name: Zhanxin Wu
+  photo: Zhanxin_Wu.jpg
+  info: Ph.D. Student, Computer Science
+  email: zw754 AT cornell dot edu
+  bio: "Zhanxin is a first-year PhD student in the Computer Science department. She obtained an M.S. in CS from the National University of Singapore in 2024 and a B.S. in CSE from the Chinese University of Hong Kong, Shenzhen, in 2022. In her free time, she enjoys sketching and playing video games."
+  website: https://zhanxinwu.com/
+  type: 2-3
+
 - name: Ben Dodson
   photo: Ben_Dodson.jpg
   info: MEng, Mechanical Engineering
@@ -96,6 +104,13 @@
   info: MEng, Mechanical Engineering
   email: aks237 AT cornell dot edu
   bio: "Ajay Sunkara graduated from Cornell University with a major in Mechanical Engineering and a minor in Computer Science. He is an MEng student in Mechanical Engineering and is interested in controls and reinforcement learning in robotics. Outside of school, he enjoys playing basketball and reading."
+  type: 3-2
+
+- name: Heisen Kong
+  photo: Heisen_Kong.jpg
+  info: MEng, Systems Engineering
+  email: hk593 AT cornell dot edu
+  bio: "Heisen Kong is an early MEng student in Systems Engineering and studied Mechanical Engineering at Cornell. He is interested in human-robot interactions and product design. In his free time, he loves playing squash, volleyball with his friends, and makes great latte art!"
   type: 3-2
 
 - name: Xiaoyu (Sherry) Liang
