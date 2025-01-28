@@ -99,13 +99,6 @@
   bio: "Karan graduated from Cornell University majoring in Physics and minoring in CS and MechE. He is currently pursuing a masters in Computer Science, focusing on robotics and machine learning, at Cornell. His research interests lie in the intersection of Robotics, Machine Learning, and Physics. Outside of research and academics, he enjoys reading books, playing soccer, hanging out with friends, listening to music, and doing photography!"
   type: 3-2
 
-- name: Ajay Sunkara
-  photo: Ajay_Sunkara.jpg
-  info: MEng, Mechanical Engineering
-  email: aks237 AT cornell dot edu
-  bio: "Ajay Sunkara graduated from Cornell University with a major in Mechanical Engineering and a minor in Computer Science. He is an MEng student in Mechanical Engineering and is interested in controls and reinforcement learning in robotics. Outside of school, he enjoys playing basketball and reading."
-  type: 3-2
-
 - name: Heisen Kong
   photo: Heisen_Kong.jpg
   info: MEng, Systems Engineering
@@ -119,14 +112,6 @@
   email: xl434 AT cornell dot edu
   bio: "Sherry is a Junior studying Electrical and Computer Engineering and minoring in Robotics. She is panning to pursue a PhD in robotics or related fields. She is also a songwriter and the guitarist of Night Espresso band."
   website: ""
-  type: 4-1
-
-- name: Nayoung (Sarah) Ha
-  photo: nayoung.png
-  info: Undergraduate Student
-  email: nh285 AT cornell dot edu
-  bio: "Sarah is a sophomore majoring in Computer Science. Her current interests are in simulating autonomous vehicles and she is currently a software member of Cornell University Autonomous Underwater Vehicle. Outside of academics, she enjoys drawing, playing video games, and playing the bass guitar."
-  website: "https://www.sarahha.me"
   type: 4-1
 
 - name: Bohan Yang
@@ -143,7 +128,7 @@
   email: elh245 AT cornell dot edu
   bio: "Eric is a sophomore majoring in Computer Science. He is interested in robotics, and particularly helping robots interact with humans and the world more naturally. He plans to pursue a Ph.D in robotics or a related field. He also enjoys playing video games, piano and watching interesting YouTube videos."
   website: ""
-  type: 4-2
+  type: 4-1
 
 - name: Justin Guo
   photo: justin.jpg
@@ -165,7 +150,7 @@
   email: kp386 AT cornell dot edu
   website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
   bio: "Krishna is a junior majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
-  type: 4-3
+  type: 4-2
 
 - name: Joyce Yang
   photo: Joyce_Yang.jpg
@@ -186,7 +171,7 @@
   info: Undergraduate Student
   email: adl94 AT cornell dot edu
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
-  type: 4-4
+  type: 4-3
 
 - name: Andres Blanco
   photo: Andres_Blanco.jpg
@@ -196,19 +181,12 @@
   website: https://www.andres-blanco.com/
   type: 4-4
 
-- name: Moustafa Kassem
-  photo: Moustafa_Kassem.jpg
-  info: Undergraduate Student
-  email: mk2436 AT cornell dot edu
-  bio: "Moustafa Kassem is an undergraduate sophomore double majoring in Applied Engineering Physics and Computer Science at Cornell. His academic interests lie in the intersection of machine learning, signal processing, and optics, particularly in their applications to biomedical devices and sensing. In his free time, he enjoys reading, playing basketball, and watching movies."
-  type: 4-4
-
 - name: Shao Stassen
   photo: Shao_Stassen.jpg
   info: Undergraduate Student
   email: ses439 AT cornell dot edu
   bio: "Shao Stassen is an undergraduate junior majoring in CS at Cornell University. His academic passions lie at the intersection of robotic control, machine learning, and computer vision, with a particular interest in leveraging these technologies to develop innovative robotic solutions that positively impact communities and improve quality of life. Outside of school, Shao enjoys outdoor running and reading books."
-  type: 4-5
+  type: 4-4
 
 - name: Shuaixing Chen
   photo: Shuaixing_Chen.jpg
