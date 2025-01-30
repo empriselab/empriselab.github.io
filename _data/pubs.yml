@@ -1,3 +1,44 @@
+- title: "To Ask or Not To Ask: Human-in-the-loop Contextual Bandits with Applications in Robot-Assisted Feeding"
+  authors: Rohan Banerjee, Rajat Kumar Jenamani*, Sidharth Vasudev*, Amal Nanavati, Katherine Dimitropoulou, Sarah Dean†, Tapomayukh Bhattacharjee†
+  link:
+    url: https://drive.google.com/file/d/1-opve8SPbrq-6nankJap9mUqq532o4ua/view?usp=drive_link
+  year: 2025
+  venue: International Conference on Robotics and Automation
+  type: conf-journal
+  thumbnail:
+  alt: 81
+
+- title: "GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings"
+  authors: Ziang Liu, Yuanchen Ju, Yu Da, Tom Silver, Pranav N. Thakkar, Jenna Li, Justin Guo, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
+  link:
+    url: https://arxiv.org/abs/2501.17855
+  year: 2025
+  venue: IEEE/ACM International Conference on Human-Robot Interaction
+  type: conf-journal
+  thumbnail:
+  alt: 80
+
+- title: "CART-MPC: Coordinating Assistive Devices for Robot-Assisted Transferring with Multi-Agent Model Predictive Control"
+  authors: Ruolin Ye*, Shuaixing Chen*, Yunting Yan*, Joyce Yang, Christina Ge, Jose Barreiros, Kate Tsui, Tom Silver, Tapomayukh Bhattacharjee
+  link: 
+    url: https://arxiv.org/abs/2501.11149
+  year: 2025
+  venue: IEEE/ACM International Conference on Human-Robot Interaction
+  type: conf-journal
+  thumbnail:
+  alt: 79
+
+- title: "Enhancing Independence with Physical Caregiving Robots"
+  authors: "Rajat Kumar Jenamani*, Akhil Padmanabha*, Amal Nanavati*, Maya Cakmak†, Zackory Erickson†, Tapomayukh Bhattacherjee†"
+  link:
+    url: https://drive.google.com/file/d/14mxKDJkX_V8gxYoFPZ2-T9ezvHWeZKLy/view?usp=drive_link
+  year: 2025
+  type: other
+  venue: Companion of the ACM/IEEE International Conference on Human Robot Interaction
+  website: https://caregivingrobots.github.io/
+  thumbnail:
+  alt: 78
+
 - title: "REPeat: A Real2Sim2Real Approach for Pre-acquisition of Soft Food Items in Robot-assisted Feeding"
   authors: Nayoung Ha* , Ruolin Ye* , Ziang Liu, Shubhangi Sinha, Tapomayukh Bhattacharjee
   link:
