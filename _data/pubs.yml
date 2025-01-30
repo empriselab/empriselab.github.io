@@ -8,6 +8,16 @@
   thumbnail:
   alt: 81
 
+- title: "RCareGen: An Interface for Scene and Task Generation in RCareWorld"
+  authors: Shuaixing Chen, Ruolin Ye, Saurabh Dingwani, Pooyan Fazli, Hasti Seifi, Tapomayukh Bhattacharjee
+  link: 
+    url: https://drive.google.com/file/d/1kfFqSGS5-tIty_hQJsHZ_pGIiHXLj83D/view?usp=drive_link
+  year: 2025
+  venue: Companion of the IEEE/ACM International Conference on Human Robot Interaction
+  type: other
+  thumbnail:
+  alt: 82
+
 - title: "GRACE: Generalizing Robot-Assisted Caregiving with User Functionality Embeddings"
   authors: Ziang Liu, Yuanchen Ju, Yu Da, Tom Silver, Pranav N. Thakkar, Jenna Li, Justin Guo, Katherine Dimitropoulou, Tapomayukh Bhattacharjee
   link:
