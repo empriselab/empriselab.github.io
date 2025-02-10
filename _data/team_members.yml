@@ -106,6 +106,13 @@
   bio: "Heisen Kong is an early MEng student in Systems Engineering and studied Mechanical Engineering at Cornell. He is interested in human-robot interactions and product design. In his free time, he loves playing squash, volleyball with his friends, and makes great latte art!"
   type: 3-2
 
+- name: Xiaoman Yang
+  photo: Xiaoman_Yang.png
+  info: MS, Design Technology
+  email: xy498 AT cornell dot edu
+  bio: "Xiaoman is an M.S. student in the Design Technology program at Cornell University, with a keen interest in additive manufacturing, structural design, and Arduino. Beyond her academic pursuits, she is passionate about figure skating and is a member of the Cornell University Figure Skating Club."
+  type: 3-2
+
 - name: Xiaoyu (Sherry) Liang
   photo: sherry.jpg
   info: Undergraduate Student
@@ -186,6 +193,13 @@
   info: Undergraduate Student
   email: ses439 AT cornell dot edu
   bio: "Shao Stassen is an undergraduate junior majoring in CS at Cornell University. His academic passions lie at the intersection of robotic control, machine learning, and computer vision, with a particular interest in leveraging these technologies to develop innovative robotic solutions that positively impact communities and improve quality of life. Outside of school, Shao enjoys outdoor running and reading books."
+  type: 4-4
+
+- name: Rolando Rodríguez
+  photo: Rolando_Rodríguez.jpg
+  info: Undergraduate Student
+  email: rar339 AT cornell dot edu
+  bio: "Rolando is a third-year undergraduate majoring in CS and minoring in ECE originally from Miami, Florida. With reserach interests in perception, human interaction, and machine learning in robotics, he hopes to seek their intersections towards social good. Outside of the classroom, he enjoys playing and watching sports, exploring the outdoors, and a good book."
   type: 4-4
 
 - name: Shuaixing Chen
