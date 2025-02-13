@@ -30,7 +30,7 @@
 
 .grid-container {
   display: grid;
-  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 1fr 1fr 50px 1fr 1fr 50px 1fr 1fr 1fr 1fr 50px 1fr 1fr 50px 1fr 50px 1fr;
+  grid-template-rows: 50px 1fr 50px 1fr 50px 1fr 1fr 1fr 50px 1fr 1fr 1fr 50px 1fr 1fr 1fr 1fr 50px 1fr 50px 1fr 50px 1fr;
   grid-template-columns: repeat(3, 1fr);
   /* Each person gets his/her column */
 }
@@ -102,28 +102,32 @@
   grid-row: 11 / span 1;
 }
 
+.type-3-3 {
+  grid-row: 12 / span 1;
+}
+
 /* Undergraduate students */
 #row-label-4 {
-  grid-row: 12 / span 1;
+  grid-row: 13 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-4-1 {
-  grid-row: 13 / span 1;
-}
-
-.type-4-2 {
   grid-row: 14 / span 1;
 }
 
-.type-4-3 {
+.type-4-2 {
   grid-row: 15 / span 1;
 }
 
-.type-4-4 {
+.type-4-3 {
   grid-row: 16 / span 1;
+}
+
+.type-4-4 {
+  grid-row: 17 / span 1;
 }
 
 /* .type-4-5 {
@@ -140,17 +144,13 @@
 
 /* Visiting interns */
 #row-label-5 {
-  grid-row: 17 / span 1;
+  grid-row: 18 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-5-1 {
-  grid-row: 18 / span 1;
-}
-
-.type-5-2 {
   grid-row: 19 / span 1;
 }
 
