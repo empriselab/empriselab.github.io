@@ -113,6 +113,13 @@
   bio: "Xiaoman is an M.S. student in the Design Technology program at Cornell University, with a keen interest in additive manufacturing, structural design, and Arduino. Beyond her academic pursuits, she is passionate about figure skating and is a member of the Cornell University Figure Skating Club."
   type: 3-2
 
+- name: Giorgi Berndt
+  photo: Giorgi_Berndt.jpg
+  info: MEng, Computer Science
+  email: gb449 AT cornell dot edu
+  bio: "Giorgi is a CS major at Cornell University. He is particularly interested in working on robots having worked on autonomous vehicles and humanoid robotics. In addition, he has an interest in improving healthcare access to those with disabilities and other chronic / severe health issues in the US. Thus, EMPRISE is a natural fit as it allows him to help people with disabilities while pursuing his passion of robotics. Beyond academics, Giorgi is interested in fitness, jiu jitsu, meditation, and spirituality."
+  type: 3-3
+
 - name: Xiaoyu (Sherry) Liang
   photo: sherry.jpg
   info: Undergraduate Student
@@ -217,19 +224,12 @@
   bio: "Angchen is a junior undergraduate student majoring in Automation at Shanghai Jiao Tong University. His research interests include robot perception and decision-making processes, and he is eager to explore real robot hardware and human-robot interaction (HRI). In his free time, he enjoys playing basketball, singing, and playing chess."
   type: 5-1
 
-- name: Yuting Yang
-  photo: Yuting_Yang.jpg
-  info: MS, Human-Computer Interaction
-  email: yutingy AT umich dot edu
-  bio: "Yuting is pursuing an MS in Human-Computer Interaction at the University of Michigan, building on her solid design foundation from the Savannah College of Art and Design (BFA). With expertise in user experience research, she focuses on creating user-centric designs that seamlessly connect technology and human experience. Her research spans human-computer interaction, human-centered privacy and security, and health technology. Yuting is passionate about how thoughtful design can empower users. With over 10 years of experience in Chinese calligraphy, she blends creativity and precision in her work. Outside of research, Yuting enjoys working out, practicing Pilates, and is aiming to complete a marathon soon."
-  type: 5-1
-
 - name: Claire Ju
   photo: Claire_Ju.jpg
   info: Research Intern
   email: yj567 AT cornell dot edu
   bio: "Claire(Yuanchen) is a research intern at Cornell University. Previously, she was a full-time Research Assistant at Tsinghua University, IIIS. Her research interests primarily lie in 3D Vision and Robot Manipulation."
-  type: 5-2
+  type: 5-1
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
