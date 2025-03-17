@@ -99,13 +99,6 @@
   bio: "Karan graduated from Cornell University majoring in Physics and minoring in CS and MechE. He is currently pursuing a masters in Computer Science, focusing on robotics and machine learning, at Cornell. His research interests lie in the intersection of Robotics, Machine Learning, and Physics. Outside of research and academics, he enjoys reading books, playing soccer, hanging out with friends, listening to music, and doing photography!"
   type: 3-2
 
-- name: Heisen Kong
-  photo: Heisen_Kong.jpg
-  info: MEng, Systems Engineering
-  email: hk593 AT cornell dot edu
-  bio: "Heisen Kong is an early MEng student in Systems Engineering and studied Mechanical Engineering at Cornell. He is interested in human-robot interactions and product design. In his free time, he loves playing squash, volleyball with his friends, and makes great latte art!"
-  type: 3-2
-
 - name: Xiaoman Yang
   photo: Xiaoman_Yang.png
   info: MS, Design Technology
@@ -118,7 +111,7 @@
   info: MEng, Computer Science
   email: gb449 AT cornell dot edu
   bio: "Giorgi is a CS major at Cornell University. He is particularly interested in working on robots having worked on autonomous vehicles and humanoid robotics. In addition, he has an interest in improving healthcare access to those with disabilities and other chronic / severe health issues in the US. Thus, EMPRISE is a natural fit as it allows him to help people with disabilities while pursuing his passion of robotics. Beyond academics, Giorgi is interested in fitness, jiu jitsu, meditation, and spirituality."
-  type: 3-3
+  type: 3-2
 
 - name: Xiaoyu (Sherry) Liang
   photo: sherry.jpg
@@ -144,11 +137,11 @@
   website: ""
   type: 4-1
 
-- name: Justin Guo
-  photo: justin.jpg
+- name: Samantha Saak
+  photo: Samantha_Saak.png
   info: Undergraduate Student
-  email: jjg283 AT cornell dot edu
-  bio: "Justin is a junior undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, as well as applying best software engineering practices. Outside of class, he loves learning to cook Asian dishes with his trusty wok and can be found jamming out to music, no matter the setting."
+  email: sls552 AT cornell dot edu
+  bio: "Sammy Saak is an undergraduate freshman majoring in Computer Science and minoring in Robotics at Cornell University. Her academic interests live in assistive robotics and the integration of robotics into daily life, and she plans to pursue a Ph.D. in a related discipline. Outside of research, she loves reading, photography, and is a member of Cornell University Unmanned Air Systems."
   type: 4-2
 
 - name: Anthony Song
@@ -209,13 +202,12 @@
   bio: "Rolando is a third-year undergraduate majoring in CS and minoring in ECE originally from Miami, Florida. With reserach interests in perception, human interaction, and machine learning in robotics, he hopes to seek their intersections towards social good. Outside of the classroom, he enjoys playing and watching sports, exploring the outdoors, and a good book."
   type: 4-4
 
-- name: Shuaixing Chen
-  photo: Shuaixing_Chen.jpg
-  info: Undergraduate Intern
-  email: alkdischen AT gmail dot com
-  bio: "Shuaixing Chen is a junior undergraduate student from Shanghai Jiao Tong University, majoring in Electrical Engineering and Automation. His research interest lies in Embodied AI, multi-agent intelligence and robot collaboration with LLM. He enjoys watching old black-and-white movies and reading classic philosophy books."
-  website: https://alkdischen.github.io
-  type: 5-1
+- name: Eric Qiu
+  photo: Eric_Qiu.jpg
+  info: Undergraduate Student
+  email: sq225 AT cornell dot edu
+  bio: "Eric Qiu is an undergraduate sophomore studying in Computer Science and Mathematics. His academic interests primarily lies in the intersection of machine learning and social impact as well as studying the mathematical underpinning of statistical learning. Outside of academics, he enjoys working out, going on random sidequests, and convincing people that he's a regular rock climber."
+  type: 4-5
 
 - name: Angchen Xie
   photo: Angchen_Xie.jpg
