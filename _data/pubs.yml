@@ -1,3 +1,10 @@
+- title: "FEAST: A Flexible Mealtime-Assistance System Towards In-the-Wild Personalization"
+  authors: Rajat Kumar Jenamani, Tom Silver, Ben Dodson, Shiqin Tong, Anthony Song, Yuting Yang, Ziang Liu, Benjamin Howe, Aimee Whitneck, Tapomayukh Bhattacharjee
+  year: 2025
+  venue: "Robotics: Science and Systems"
+  type: conf-journal
+  alt: 83
+
 - title: "To Ask or Not To Ask: Human-in-the-loop Contextual Bandits with Applications in Robot-Assisted Feeding"
   authors: Rohan Banerjee, Rajat Kumar Jenamani*, Sidharth Vasudev*, Amal Nanavati, Katherine Dimitropoulou, Sarah Dean†, Tapomayukh Bhattacharjee†
   link:
