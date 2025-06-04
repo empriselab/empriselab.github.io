@@ -70,14 +70,6 @@
   website: https://zhanxinwu.com/
   type: 2-3
 
-- name: Ben Dodson
-  photo: Ben_Dodson.jpg
-  info: MEng, Mechanical Engineering
-  email: bzd4 AT cornell dot edu
-  bio: "Ben Dodson graduated from Cornell University majoring in Mechanical Engineering and minoring in Computer Science. He is an MEng student in Mechanical Engineering. He is interested in robotic design and construction as well as the integration between hardware and software. In his free time, he likes to rock climb and hang out with friends."
-  website: ""
-  type: 3-1
-
 - name: Yunting Yan
   photo: Yunting_Yan.jpg
   info: MS, Mechanical Engineering
@@ -92,19 +84,12 @@
   bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
   type: 3-1
 
-- name: Karan Baijal
-  photo: Karan_Baijal.jpg
-  info: MS, Computer Science
-  email: kb553 AT cornell dot edu
-  bio: "Karan graduated from Cornell University majoring in Physics and minoring in CS and MechE. He is currently pursuing a masters in Computer Science, focusing on robotics and machine learning, at Cornell. His research interests lie in the intersection of Robotics, Machine Learning, and Physics. Outside of research and academics, he enjoys reading books, playing soccer, hanging out with friends, listening to music, and doing photography!"
-  type: 3-2
-
 - name: Xiaoman Yang
   photo: Xiaoman_Yang.png
   info: MS, Design Technology
   email: xy498 AT cornell dot edu
   bio: "Xiaoman is an M.S. student in the Design Technology program at Cornell University, with a keen interest in additive manufacturing, structural design, and Arduino. Beyond her academic pursuits, she is passionate about figure skating and is a member of the Cornell University Figure Skating Club."
-  type: 3-2
+  type: 3-1
 
 - name: Giorgi Berndt
   photo: Giorgi_Berndt.jpg
@@ -112,14 +97,6 @@
   email: gb449 AT cornell dot edu
   bio: "Giorgi is a CS major at Cornell University. He is particularly interested in working on robots having worked on autonomous vehicles and humanoid robotics. In addition, he has an interest in improving healthcare access to those with disabilities and other chronic / severe health issues in the US. Thus, EMPRISE is a natural fit as it allows him to help people with disabilities while pursuing his passion of robotics. Beyond academics, Giorgi is interested in fitness, jiu jitsu, meditation, and spirituality."
   type: 3-2
-
-- name: Xiaoyu (Sherry) Liang
-  photo: sherry.jpg
-  info: Undergraduate Student
-  email: xl434 AT cornell dot edu
-  bio: "Sherry is a Junior studying Electrical and Computer Engineering and minoring in Robotics. She is panning to pursue a PhD in robotics or related fields. She is also a songwriter and the guitarist of Night Espresso band."
-  website: ""
-  type: 4-1
 
 - name: Bohan Yang
   photo: Bohan_Yang.png
@@ -142,7 +119,7 @@
   info: Undergraduate Student
   email: sls552 AT cornell dot edu
   bio: "Sammy Saak is an undergraduate freshman majoring in Computer Science and minoring in Robotics at Cornell University. Her academic interests live in assistive robotics and the integration of robotics into daily life, and she plans to pursue a Ph.D. in a related discipline. Outside of research, she loves reading, photography, and is a member of Cornell University Unmanned Air Systems."
-  type: 4-2
+  type: 4-1
 
 - name: Anthony Song
   photo: Anthony_Song.jpg
@@ -164,7 +141,7 @@
   info: Undergraduate Student
   email: jby33 AT cornell dot edu
   bio: "Joyce is a sophomore majoring in Computer Science and minoring in Economics. Her interests lie in human-robot interaction and using robots to assist humans with daily living activities in home environments. Outside the lab, Joyce is currently a member of Cornell Data Science, and her hobbies include playing volleyball, watching stand-up comedy, and coding to movie soundtracks."
-  type: 4-3
+  type: 4-2
 
 - name: Qiandao Liu
   photo: Qiandao_Liu.jpg
@@ -186,7 +163,7 @@
   email: arb345 AT cornell dot edu
   bio: "Andres Blanco is an undergraduate senior in Mechanical Engineering at Cornell University interested in robotics planning and control. He worked at Amazon Robotics this Spring on serial link arm trajectory generation. Right now he is working on contact-rich planning for robotic arms via the lab."
   website: https://www.andres-blanco.com/
-  type: 4-4
+  type: 4-3
 
 - name: Shao Stassen
   photo: Shao_Stassen.jpg
@@ -207,7 +184,7 @@
   info: Undergraduate Student
   email: sq225 AT cornell dot edu
   bio: "Eric Qiu is an undergraduate sophomore studying in Computer Science and Mathematics. His academic interests primarily lies in the intersection of machine learning and social impact as well as studying the mathematical underpinning of statistical learning. Outside of academics, he enjoys working out, going on random sidequests, and convincing people that he's a regular rock climber."
-  type: 4-5
+  type: 4-4
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
