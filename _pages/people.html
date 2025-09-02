@@ -10,7 +10,7 @@ full-width: true
 <div class="full-page">
   <div class="grid-container">
     <h2 class="row-label" id="row-label-0">Faculty</h2>
-    <!-- <h2 class="row-label" id="row-label-1">Postdoc</h2> -->
+    <h2 class="row-label" id="row-label-1" style="display:none">Postdoc</h2>
     <h2 class="row-label" id="row-label-2">Ph.D. Students</h2>
     <h2 class="row-label" id="row-label-3">M.S. & M.Eng. Students</h2>
     <h2 class="row-label" id="row-label-4">Undergraduate Students</h2>
@@ -47,7 +47,7 @@ full-width: true
       {% endif %}
 
       <!-- Hidden modal that opens when image clicked -->
-      {% if member.type != "7-1" or member.type != "7-2" %} <!-- Exclude robots -->
+      {% if member.type != "7-1" or member.type != "7-2" % or member.type != "7-3" %} <!-- Exclude robots -->
       <div class="image-modal" id="modal-{{ forloop.index }}">
         <div class="image-modal-content">
           <span class="close">&times;</span>
