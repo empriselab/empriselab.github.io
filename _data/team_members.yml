@@ -105,7 +105,7 @@
   email: kp386 AT cornell dot edu
   website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
   bio: "Krishna is a BS + MEng student majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
-  type: 3-1
+  type: 3-2
 
 - name: Nayoung Sarah Ha
   photo: nayoung.png
@@ -113,7 +113,7 @@
   email: nh285 AT cornell dot edu
   website: nayoungsarahha.com
   bio: ""
-  type: 3-1
+  type: 3-2
 
 - name: Bohan Yang
   photo: Bohan_Yang.png
@@ -150,7 +150,7 @@
   info: Undergraduate Student
   email: adl94 AT cornell dot edu
   bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
-  type: 4-3
+  type: 4-2
 
 - name: Andres Blanco
   photo: Andres_Blanco.jpg
@@ -158,28 +158,28 @@
   email: arb345 AT cornell dot edu
   bio: "Andres Blanco is an undergraduate senior in Mechanical Engineering at Cornell University interested in robotics planning and control. He worked at Amazon Robotics this Spring on serial link arm trajectory generation. Right now he is working on contact-rich planning for robotic arms via the lab."
   website: https://www.andres-blanco.com/
-  type: 4-3
+  type: 4-2
 
 - name: Shao Stassen
   photo: Shao_Stassen.jpg
   info: Undergraduate Student
   email: ses439 AT cornell dot edu
   bio: "Shao Stassen is an undergraduate junior majoring in CS at Cornell University. His academic passions lie at the intersection of robotic control, machine learning, and computer vision, with a particular interest in leveraging these technologies to develop innovative robotic solutions that positively impact communities and improve quality of life. Outside of school, Shao enjoys outdoor running and reading books."
-  type: 4-4
+  type: 4-3
 
 - name: Rolando Rodríguez
   photo: Rolando_Rodríguez.jpg
   info: Undergraduate Student
   email: rar339 AT cornell dot edu
   bio: "Rolando is a third-year undergraduate majoring in CS and minoring in ECE originally from Miami, Florida. With reserach interests in perception, human interaction, and machine learning in robotics, he hopes to seek their intersections towards social good. Outside of the classroom, he enjoys playing and watching sports, exploring the outdoors, and a good book."
-  type: 4-4
+  type: 4-3
 
 - name: Eric Qiu
   photo: Eric_Qiu.jpg
   info: Undergraduate Student
   email: sq225 AT cornell dot edu
   bio: "Eric Qiu is an undergraduate sophomore studying in Computer Science and Mathematics. His academic interests primarily lies in the intersection of machine learning and social impact as well as studying the mathematical underpinning of statistical learning. Outside of academics, he enjoys working out, going on random sidequests, and convincing people that he's a regular rock climber."
-  type: 4-4
+  type: 4-3
 
 - name: Christy Cheung
   photo: Christy_Cheung.jpg
@@ -214,7 +214,7 @@
 - name: Ayase <br> Gen3 Kinova 6 dof
   photo: ayase.png
   website: https://www.kinovarobotics.com/product/gen3-robots
-  type: 7-1
+  type: 7-2
 
 - name: Akira <br> Franka Emika Panda
   photo: franka.png
@@ -229,4 +229,4 @@
 - name: Arm Farm <br> WidowX 250
   photo: armfarm.jpg
   website: https://docs.trossenrobotics.com/interbotix_xsarms_docs/specifications/wx250.html
-  type: 7-2
+  type: 7-3
