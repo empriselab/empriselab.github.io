@@ -6,14 +6,6 @@
   website: http://www.tapomayukh.com
   type: 0
 
-- name: Tom Silver
-  photo: Tom_Silver.jpeg
-  info: Postdoc
-  email: tsilver AT princeton dot edu
-  bio: Tom Silver received his PhD from MIT (EECS) in 2024, where he was advised by Leslie Kaelbling and Josh Tenenbaum. His research is at the intersection of machine learning and planning with applications to robotics and often uses techniques from task and motion planning, program synthesis, and neuro-symbolic learning. Before graduate school, he was a researcher at Vicarious AI and received his B.A. from Harvard with highest honors in computer science and mathematics in 2016. He has also interned at Google Research (Brain Robotics) and the Boston Dynamics AI Institute.
-  website: https://tomsilver.github.io/
-  type: 1-1
-
 - name: Rishabh Madan
   photo: rishabh.jpg
   info: Ph.D. Student, Computer Science
@@ -70,6 +62,22 @@
   website: https://zhanxinwu.com/
   type: 2-3
 
+- name: Shengmiao (Samuel) Jin
+  photo: Shengmiao_Jin.png
+  info: Ph.D. Student, Robotics
+  email: sj887 AT cornell dot edu
+  bio: "Samuel is a first-year Robotics PhD student in the Computer Science department. His research interests lie in the intersection of Robot Learning, Tactile Sensing and Dexterous Manipulation. He obtained a B.S. in Electrical Engineering from University of Illinois Urbana-Champaign. Outside of research, he likes cooking, playing basketball and traveling."
+  website: https://leumasnij.github.io
+  type: 2-3
+
+- name: Jiaying Fang
+  photo: Jiaying_Fang.jpg
+  info: Ph.D. Student, Robotics
+  email: jf928 AT cornell dot edu
+  bio: "Jiaying is a first-year robotics PhD student. She obtainted an M.S. in EE from Stanford University in 2025 and B.Eng. (Hons) in EIE from Hong Kong Polytechnic University in 2023. Outside of research, she likes hiking and musicals."
+  website: https://jiayingfang.github.io
+  type: 2-3
+
 - name: Yunting Yan
   photo: Yunting_Yan.jpg
   info: MS, Mechanical Engineering
@@ -91,12 +99,21 @@
   bio: "Xiaoman is an M.S. student in the Design Technology program at Cornell University, with a keen interest in additive manufacturing, structural design, and Arduino. Beyond her academic pursuits, she is passionate about figure skating and is a member of the Cornell University Figure Skating Club."
   type: 3-1
 
-- name: Giorgi Berndt
-  photo: Giorgi_Berndt.jpg
+- name: Krishna Palempalli
+  photo: Krishna_Palempalli.jpg
   info: MEng, Computer Science
-  email: gb449 AT cornell dot edu
-  bio: "Giorgi is a CS major at Cornell University. He is particularly interested in working on robots having worked on autonomous vehicles and humanoid robotics. In addition, he has an interest in improving healthcare access to those with disabilities and other chronic / severe health issues in the US. Thus, EMPRISE is a natural fit as it allows him to help people with disabilities while pursuing his passion of robotics. Beyond academics, Giorgi is interested in fitness, jiu jitsu, meditation, and spirituality."
-  type: 3-2
+  email: kp386 AT cornell dot edu
+  website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
+  bio: "Krishna is a BS + MEng student majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
+  type: 3-1
+
+- name: Nayoung Sarah Ha
+  photo: nayoung.png
+  info: MEng, Computer Science
+  email: nh285 AT cornell dot edu
+  website: nayoungsarahha.com
+  bio: ""
+  type: 3-1
 
 - name: Bohan Yang
   photo: Bohan_Yang.png
@@ -121,34 +138,12 @@
   bio: "Sammy Saak is an undergraduate freshman majoring in Computer Science and minoring in Robotics at Cornell University. Her academic interests live in assistive robotics and the integration of robotics into daily life, and she plans to pursue a Ph.D. in a related discipline. Outside of research, she loves reading, photography, and is a member of Cornell University Unmanned Air Systems."
   type: 4-1
 
-- name: Anthony Song
-  photo: Anthony_Song.jpg
-  info: Undergraduate Student
-  email: abs343 AT cornell dot edu
-  bio: "Anthony is a 2nd year undergrad student majoring in Computer Science. His research interests primarily lie in machine learning and robotics, but he is also interested in hardware and computer architecture. Outside of class, you can find him on the basketball court, bingeing on Netflix, or eating chicken tenders."
-  type: 4-2
-
-- name: Krishna Palempalli
-  photo: Krishna_Palempalli.jpg
-  info: Undergraduate Student
-  email: kp386 AT cornell dot edu
-  website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
-  bio: "Krishna is a junior majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
-  type: 4-2
-
 - name: Joyce Yang
   photo: Joyce_Yang.jpg
   info: Undergraduate Student
   email: jby33 AT cornell dot edu
   bio: "Joyce is a sophomore majoring in Computer Science and minoring in Economics. Her interests lie in human-robot interaction and using robots to assist humans with daily living activities in home environments. Outside the lab, Joyce is currently a member of Cornell Data Science, and her hobbies include playing volleyball, watching stand-up comedy, and coding to movie soundtracks."
   type: 4-2
-
-- name: Qiandao Liu
-  photo: Qiandao_Liu.jpg
-  info: Undergraduate Student
-  email: ql342 AT cornell dot edu
-  bio: "Qiandao is a freshman majoring in CS and minoring in Data Science, he is intresting in robot assistant human dressing. Outside academics, he is an old school photographer, a professional backpacking vagrant, a birder, an excellent chef and a Cyberpunk 2077 enthusiast."
-  type: 4-3
 
 - name: Amber Li
   photo: Amber_Li.jpg
@@ -186,6 +181,13 @@
   bio: "Eric Qiu is an undergraduate sophomore studying in Computer Science and Mathematics. His academic interests primarily lies in the intersection of machine learning and social impact as well as studying the mathematical underpinning of statistical learning. Outside of academics, he enjoys working out, going on random sidequests, and convincing people that he's a regular rock climber."
   type: 4-4
 
+- name: Christy Cheung
+  photo: Christy_Cheung.jpg
+  info: Undergraduate Student
+  email: csc263 AT cornell dot edu
+  bio: "Christy is a sophomore studying computer science and mechanical engineering. Her academic interests lie in assistive robotics, computer vision, and robot manipulation. Outside of academics, she loves to play volleyball and search for good restaurants to share with her friends."
+  type: 4-4
+
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
@@ -204,6 +206,11 @@
   website: https://www.kinovarobotics.com/product/gen3-robots
   type: 7-1
 
+- name: Accelerator <br> Gen3 Kinova 7 dof
+  photo: yui.png
+  website: https://www.kinovarobotics.com/product/gen3-robots
+  type: 7-1
+
 - name: Ayase <br> Gen3 Kinova 6 dof
   photo: ayase.png
   website: https://www.kinovarobotics.com/product/gen3-robots
@@ -217,4 +224,9 @@
 - name: Bojji of the Bosse Fleet <br> MuSHR
   photo: MuSHR.png
   website: https://mushr.io/
+  type: 7-2
+
+- name: Arm Farm <br> WidowX 250
+  photo: armfarm.png
+  website: https://docs.trossenrobotics.com/interbotix_xsarms_docs/specifications/wx250.html
   type: 7-2

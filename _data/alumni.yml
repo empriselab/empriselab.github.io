@@ -1,3 +1,11 @@
+- name: Tom Silver
+  department: Postdoc, 2024-25
+  job: Assistant Professor, Princeton
+  website: https://tomsilver.github.io/
+- name: Giorgi Berndt
+  department: MEng, CS 2025
+  job: Robotics Software Engineer, Apptronik
+  website: ""
 - name: Alexis Hao
   department: BS, CS 2024
   job: MS student, CMU
