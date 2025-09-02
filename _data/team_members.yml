@@ -225,3 +225,8 @@
   photo: MuSHR.png
   website: https://mushr.io/
   type: 7-2
+
+- name: Arm Farm <br> WidowX 250
+  photo: armfarm.jpg
+  website: https://docs.trossenrobotics.com/interbotix_xsarms_docs/specifications/wx250.html
+  type: 7-3
