@@ -78,34 +78,13 @@
   website: https://jiayingfang.github.io
   type: 2-3
 
-- name: Yunting Yan
-  photo: Yunting_Yan.jpg
-  info: MS, Mechanical Engineering
-  email: yy2244 AT cornell dot edu
-  bio: "Yunting is an MS student in Mechanical Engineering. His research interests include Human-Robot Interaction, control, and Artificial Intelligence. Outside of academics, he enjoys cooking and playing badminton."
-  type: 3-1
-
-- name: Shiqin Tong
-  photo: Shiqin_Tong.jpg
-  info: MS, Health Informatics
-  email: sto4004 AT med dot cornell dot edu
-  bio: Shiqin is an MS student in health informatics at Cornell University (Weill Cornell Medicine). She received her first master's degree (Artificial Intelligence Systems) from the National University of Singapore. She received her B.S. in Software Engineering from Dalian University of Technology (China). Outside of academics, she has been passionate about figure skating and has previously served as a teaching assistant for skating classes in some commercial ice rinks in china.
-  type: 3-1
-
-- name: Xiaoman Yang
-  photo: Xiaoman_Yang.png
-  info: MS, Design Technology
-  email: xy498 AT cornell dot edu
-  bio: "Xiaoman is an M.S. student in the Design Technology program at Cornell University, with a keen interest in additive manufacturing, structural design, and Arduino. Beyond her academic pursuits, she is passionate about figure skating and is a member of the Cornell University Figure Skating Club."
-  type: 3-1
-
 - name: Krishna Palempalli
   photo: Krishna_Palempalli.jpg
   info: MEng, Computer Science
   email: kp386 AT cornell dot edu
   website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
   bio: "Krishna is a BS + MEng student majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
-  type: 3-2
+  type: 3-1
 
 - name: Nayoung Sarah Ha
   photo: nayoung.png
@@ -113,7 +92,7 @@
   email: nh285 AT cornell dot edu
   website: nayoungsarahha.com
   bio: ""
-  type: 3-2
+  type: 3-1
 
 - name: Bohan Yang
   photo: Bohan_Yang.png
