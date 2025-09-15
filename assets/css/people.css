@@ -40,14 +40,14 @@
   grid-template-columns: repeat(3, 1fr);
   /* Faculty: label + 1 row */
   /* PhD: label + 3 rows */
-  /* MS/MEng: label + 2 rows */
+  /* MS/MEng: label + 1 rows */
   /* Undergrad: label + 4 rows */
   /* OT: label + 1 row */
   /* Robots: label + 3 rows */
   grid-template-rows:
     50px 1fr
     50px 1fr 1fr 1fr
-    50px 1fr 1fr
+    50px 1fr
     50px 1fr 1fr 1fr 1fr
     50px 1fr
     50px 1fr 1fr 1fr;
