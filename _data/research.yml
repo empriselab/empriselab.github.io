@@ -1,4 +1,4 @@
-- title: "Multimodal Haptic Data Collection"
+- title: "CLAMP: Multimodal Haptic Dataset, Device, and Model"
   link: "https://emprise.cs.cornell.edu/clamp/"
   ytid: "NS9actomKLQ"
 
@@ -146,14 +146,4 @@
   system for one of the care recipients. We also perform experiments to show the 
   adaptability of this system to different caregiving scenarios. Finally, we 
   identify open challenges in physical robot caregiving by consulting care 
-  recipients and caregivers." 
-
-- title: "Compliant Manipulation with Whole-arm Sensing"
-  ytid: "trhqnOZ6bjU"
-  description: "Physical interactions between robots and humans are inevitable
-  and desired during caregiving. Tactile sensing can enable a robot to infer
-  properties of its surroundings from planned and incidental contact during
-  manipulation in unstructured human environments. Through this project, we are 
-  developing solutions that can efficiently combine multimodal sensing and 
-  perception to develop intelligent planning and control policies for safe and 
-  efficient manipulation with and around humans."
+  recipients and caregivers."
