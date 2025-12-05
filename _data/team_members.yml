@@ -74,9 +74,23 @@
   photo: Jiaying_Fang.jpg
   info: Ph.D. Student, Robotics
   email: jf928 AT cornell dot edu
-  bio: "Jiaying is a first-year robotics PhD student. She obtainted an M.S. in EE from Stanford University in 2025 and B.Eng. (Hons) in EIE from Hong Kong Polytechnic University in 2023. Outside of research, she likes hiking and musicals."
+  bio: "Jiaying is a first-year Robotics PhD student. She obtainted an M.S. in EE from Stanford University in 2025 and B.Eng. (Hons) in EIE from Hong Kong Polytechnic University in 2023. Outside of research, she likes hiking and musicals."
   website: https://jiayingfang.github.io
   type: 2-3
+
+- name: Yunting Yan
+  photo: Yunting_Yan.jpg
+  info: Ph.D. Student, Robotics
+  email: yy2244 AT cornell dot edu
+  bio: "Yunting is a first-year Robotics PhD student. His research interests include Human-Robot Interaction, control, and Artificial Intelligence. Outside of academics, he enjoys cooking and playing badminton."
+  type: 2-4
+
+- name: Chaewon Hwang
+  photo: chaewon.jpg
+  info: Ph.D. Student, Robotics
+  email: ch2325 AT cornell dot edu
+  bio: "Chaewon is a first-year Robotics PhD student. Her research interests lie in developing general and robust methods and frameworks for physical human–robot interaction tasks.  She received her B.E. in Mechanical and Biomedical Engineering from Ewha Womans University. Outside of research, she enjoys reading, hiking, and swimming."
+  type: 2-4
 
 - name: Krishna Palempalli
   photo: Krishna_Palempalli.jpg
@@ -165,6 +179,14 @@
   info: Undergraduate Student
   email: csc263 AT cornell dot edu
   bio: "Christy is a sophomore studying computer science and mechanical engineering. Her academic interests lie in assistive robotics, computer vision, and robot manipulation. Outside of academics, she loves to play volleyball and search for good restaurants to share with her friends."
+  type: 4-4
+
+- name: Ruofei Tong
+  photo: ruofei.jpg
+  info: Undergraduate Student
+  email: rt455 AT cornell dot edu
+  bio: "Ruofei is a senior Mechanical Engineering student passionate about hardware integration for robotic systems. He focuses on integrating mechanical, electrical, and software domains to create designs for real-world applications."
+  website: http://joetong.com
   type: 4-4
 
 - name: Dr. Katherine Dimitropoulou

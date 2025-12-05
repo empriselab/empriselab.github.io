@@ -1,3 +1,13 @@
+- title: "Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding"
+  authors: Maya Keely, Brandon Franco, Casey Grothoff, Rajat Kumar Jenamani, Tapomayukh Bhattacharjee, Dylan P. Losey, and Heramb Nemlekar
+  link:
+    url: https://arxiv.org/pdf/2501.01323
+  year: 2025
+  venue: International Journal of Robotics Research (IJRR)
+  type: conf-journal
+  thumbnail:
+  alt: 89
+
 - title: "SAVOR: Skill Affordance Learning from Visuo-Haptic Perception for Robot-Assisted Bite Acquisition"
   authors: Zhanxin Wu, Bo Ai, Tom Silver, Tapomayukh Bhattacharjee
   link:
