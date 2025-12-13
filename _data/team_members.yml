@@ -86,7 +86,7 @@
   type: 2-4
 
 - name: Chaewon Hwang
-  photo: chaewon.jpg
+  photo: chaewon.png
   info: Ph.D. Student, Robotics
   email: ch2325 AT cornell dot edu
   bio: "Chaewon is a first-year Robotics PhD student. Her research interests lie in developing general and robust methods and frameworks for physical human–robot interaction tasks.  She received her B.E. in Mechanical and Biomedical Engineering from Ewha Womans University. Outside of research, she enjoys reading, hiking, and swimming."
@@ -167,19 +167,12 @@
   bio: "Rolando is a third-year undergraduate majoring in CS and minoring in ECE originally from Miami, Florida. With reserach interests in perception, human interaction, and machine learning in robotics, he hopes to seek their intersections towards social good. Outside of the classroom, he enjoys playing and watching sports, exploring the outdoors, and a good book."
   type: 4-3
 
-- name: Eric Qiu
-  photo: Eric_Qiu.jpg
-  info: Undergraduate Student
-  email: sq225 AT cornell dot edu
-  bio: "Eric Qiu is an undergraduate sophomore studying in Computer Science and Mathematics. His academic interests primarily lies in the intersection of machine learning and social impact as well as studying the mathematical underpinning of statistical learning. Outside of academics, he enjoys working out, going on random sidequests, and convincing people that he's a regular rock climber."
-  type: 4-3
-
 - name: Christy Cheung
   photo: Christy_Cheung.jpg
   info: Undergraduate Student
   email: csc263 AT cornell dot edu
   bio: "Christy is a sophomore studying computer science and mechanical engineering. Her academic interests lie in assistive robotics, computer vision, and robot manipulation. Outside of academics, she loves to play volleyball and search for good restaurants to share with her friends."
-  type: 4-4
+  type: 4-3
 
 - name: Ruofei Tong
   photo: ruofei.jpg
