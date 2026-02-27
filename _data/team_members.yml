@@ -38,29 +38,13 @@
   website: https://rohanb2018.github.io/
   type: 2-2
 
-- name: Ziang Liu
-  photo: ziang.png
-  info: Ph.D. Student, Computer Science
-  email: zl873 AT cornell dot edu
-  bio: "Ziang is a 1st-year PhD student in the Computer Science department. His research aims to build robots that perceive, understand, reason, and interact in the physical world to better assist people with day-to-day tasks, leveraging inspiration from human cognition. He obtained a M.S. in CS from Stanford University in 2023, a B.S. in CS and a B.S. in Applied Math from University of Southern California in 2021. He loves skiing, birding, hiking, photography, and everything about nature."
-  website: https://www.ziangliu.com/
-  type: 2-2
-
-- name: Pranav Thakkar
-  photo: pranav.jpg
-  info: Ph.D. Student, Aerospace Engineering
-  email: pnt8 AT cornell dot edu
-  bio: "Pranav is a 1st year PhD student in Aerospace Engineering working on robot-assisted dressing for everyday clothing. He graduated from IIT Bombay with a Bachelor's and a Master's degree in Aerospace Engineering, and was previously part of the robot vision team at Honda R&D Life Creation Center in Wako, Japan. Outside of work, he learns jazz piano and enjoys hiking, picnics and metal music."
-  website: https://pranavnnt.github.io/
-  type: 2-2
-
 - name: Zhanxin Wu
   photo: Zhanxin_Wu.jpg
   info: Ph.D. Student, Computer Science
   email: zw754 AT cornell dot edu
   bio: "Zhanxin is a first-year PhD student in the Computer Science department. She obtained an M.S. in CS from the National University of Singapore in 2024 and a B.S. in CSE from the Chinese University of Hong Kong, Shenzhen, in 2022. In her free time, she enjoys sketching and playing video games."
   website: https://zhanxinwu.com/
-  type: 2-3
+  type: 2-2
 
 - name: Shengmiao (Samuel) Jin
   photo: Shengmiao_Jin.png
@@ -68,7 +52,7 @@
   email: sj887 AT cornell dot edu
   bio: "Samuel is a first-year Robotics PhD student in the Computer Science department. His research interests lie in the intersection of Robot Learning, Tactile Sensing and Dexterous Manipulation. He obtained a B.S. in Electrical Engineering from University of Illinois Urbana-Champaign. Outside of research, he likes cooking, playing basketball and traveling."
   website: https://leumasnij.github.io
-  type: 2-3
+  type: 2-2
 
 - name: Jiaying Fang
   photo: Jiaying_Fang.jpg
@@ -83,14 +67,14 @@
   info: Ph.D. Student, Robotics
   email: yy2244 AT cornell dot edu
   bio: "Yunting is a first-year Robotics PhD student. His research interests include Human-Robot Interaction, control, and Artificial Intelligence. Outside of academics, he enjoys cooking and playing badminton."
-  type: 2-4
+  type: 2-3
 
 - name: Chaewon Hwang
   photo: chaewon.png
   info: Ph.D. Student, Robotics
   email: ch2325 AT cornell dot edu
   bio: "Chaewon is a first-year Robotics PhD student. Her research interests lie in developing general and robust methods and frameworks for physical human–robot interaction tasks.  She received her B.E. in Mechanical and Biomedical Engineering from Ewha Womans University. Outside of research, she enjoys reading, hiking, and swimming."
-  type: 2-4
+  type: 2-3
 
 - name: Krishna Palempalli
   photo: Krishna_Palempalli.jpg
@@ -181,6 +165,27 @@
   bio: "Ruofei is a senior Mechanical Engineering student passionate about hardware integration for robotic systems. He focuses on integrating mechanical, electrical, and software domains to create designs for real-world applications."
   website: http://joetong.com
   type: 4-4
+
+- name: Tiffany Qiu
+  photo: tiffany.png
+  info: Undergraduate Student
+  email: tq52 AT cornell dot edu
+  bio: "Tiffany is a sophomore studying Computer Science. Her research interests lie in assistive robotics and simulation. Outside of academics, she enjoys playing badminton and eating good food."
+  type: 4-4
+
+- name: Tina Cheng
+  photo: tina.JPG
+  info: Undergraduate Student
+  email: tc564 AT cornell dot edu
+  bio: "Tina is a senior majoring in Computer Science with a minor in Cognitive Science. Her interests include assistive technology, machine learning, and computational neuroscience. In her free time, she enjoys reading, volunteering, and creating art such as painting or charcoal drawing."
+  type: 4-4
+
+- name: Damita Sara George
+  photo: damita.JPG
+  info: Undergraduate Student
+  email: dg662 AT cornell dot edu
+  bio: "Damita is a junior majoring in Computer Science with minors in AI and Philosophy. She is passionate about machine learning, robotics, and software engineering in a broader AI context. Outside of academics, she likes reading, watching good shows with friends, and exploring cafes."
+  type: 4-5
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
