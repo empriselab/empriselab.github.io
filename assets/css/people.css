@@ -46,9 +46,9 @@
   /* Robots: label + 3 rows */
   grid-template-rows:
     50px 1fr
-    50px 1fr 1fr 1fr 1fr
+    50px 1fr 1fr 1fr
     50px 1fr
-    50px 1fr 1fr 1fr 1fr
+    50px 1fr 1fr 1fr 1fr 1fr
     50px 1fr
     50px 1fr 1fr 1fr;
   /* optional spacing */
@@ -107,20 +107,16 @@
   grid-row: 6 / span 1;
 }
 
-.type-2-4 {
-  grid-row: 7 / span 1;
-}
-
 /* Masters students */
 #row-label-3 {
-  grid-row: 8 / span 1;
+  grid-row: 7 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-3-1 {
-  grid-row: 9 / span 1;
+  grid-row: 8 / span 1;
 }
 /* 
 .type-3-2 {
@@ -129,25 +125,29 @@
 
 /* Undergraduate students */
 #row-label-4 {
-  grid-row: 10 / span 1;
+  grid-row: 9 / span 1;
   grid-column: 1 / span 3;
   font-weight: 700;
   padding-left: 50px;
 }
 
 .type-4-1 {
-  grid-row: 11 / span 1;
+  grid-row: 10 / span 1;
 }
 
 .type-4-2 {
-  grid-row: 12 / span 1;
+  grid-row: 11 / span 1;
 }
 
 .type-4-3 {
-  grid-row: 13 / span 1;
+  grid-row: 12 / span 1;
 }
 
 .type-4-4 {
+  grid-row: 13 / span 1;
+}
+
+.type-4-5 {
   grid-row: 14 / span 1;
 }
 
