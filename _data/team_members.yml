@@ -76,21 +76,6 @@
   bio: "Chaewon is a first-year Robotics PhD student. Her research interests lie in developing general and robust methods and frameworks for physical human–robot interaction tasks.  She received her B.E. in Mechanical and Biomedical Engineering from Ewha Womans University. Outside of research, she enjoys reading, hiking, and swimming."
   type: 2-3
 
-- name: Krishna Palempalli
-  photo: Krishna_Palempalli.jpg
-  info: MEng, Computer Science
-  email: kp386 AT cornell dot edu
-  website: https://krishnapranav21.wixsite.com/krishna-palempalli-s
-  bio: "Krishna is a BS + MEng student majoring in Computer Science, whose interests lie at the intersection of Machine Learning, Artificial Intelligence, Robotics, Data Science, and Entrepreneurship. He wants to combine these with Software Engineering to create a positive impact in our world. He is planning to pursue an M.Eng in Computer Science to further explore these areas. Outside of school, you will you find him painting, learning to cook, and mindlessly scrolling through Instagram reels and YouTube shorts."
-  type: 3-1
-
-- name: Nayoung Sarah Ha
-  photo: nayoung.png
-  info: MEng, Computer Science
-  email: nh285 AT cornell dot edu
-  website: nayoungsarahha.com
-  bio: ""
-  type: 3-1
 
 - name: Bohan Yang
   photo: Bohan_Yang.png
@@ -122,12 +107,6 @@
   bio: "Joyce is a sophomore majoring in Computer Science and minoring in Economics. Her interests lie in human-robot interaction and using robots to assist humans with daily living activities in home environments. Outside the lab, Joyce is currently a member of Cornell Data Science, and her hobbies include playing volleyball, watching stand-up comedy, and coding to movie soundtracks."
   type: 4-2
 
-- name: Amber Li
-  photo: Amber_Li.jpg
-  info: Undergraduate Student
-  email: adl94 AT cornell dot edu
-  bio: "Amber is a sophomore majoring in Electrical and Computer Engineering and minoring in Computer Science. She is interested in assistive robotics and brining about positive change. Outside of academics, she enjoys spending time with friends, eating good food, and playing video games. She also loves playing sports, but doesn't have much time to nowadays. She is open to playing tennis, ping pong, and other fun activities."
-  type: 4-2
 
 - name: Andres Blanco
   photo: Andres_Blanco.jpg
@@ -142,7 +121,7 @@
   info: Undergraduate Student
   email: ses439 AT cornell dot edu
   bio: "Shao Stassen is an undergraduate junior majoring in CS at Cornell University. His academic passions lie at the intersection of robotic control, machine learning, and computer vision, with a particular interest in leveraging these technologies to develop innovative robotic solutions that positively impact communities and improve quality of life. Outside of school, Shao enjoys outdoor running and reading books."
-  type: 4-3
+  type: 4-2
 
 - name: Rolando Rodríguez
   photo: Rolando_Rodríguez.jpg
@@ -158,34 +137,27 @@
   bio: "Christy is a sophomore studying computer science and mechanical engineering. Her academic interests lie in assistive robotics, computer vision, and robot manipulation. Outside of academics, she loves to play volleyball and search for good restaurants to share with her friends."
   type: 4-3
 
-- name: Ruofei Tong
-  photo: ruofei.jpg
-  info: Undergraduate Student
-  email: rt455 AT cornell dot edu
-  bio: "Ruofei is a senior Mechanical Engineering student passionate about hardware integration for robotic systems. He focuses on integrating mechanical, electrical, and software domains to create designs for real-world applications."
-  website: http://joetong.com
-  type: 4-4
 
 - name: Tiffany Qiu
   photo: tiffany.png
   info: Undergraduate Student
   email: tq52 AT cornell dot edu
   bio: "Tiffany is a sophomore studying Computer Science. Her research interests lie in assistive robotics and simulation. Outside of academics, she enjoys playing badminton and eating good food."
-  type: 4-4
+  type: 4-3
 
 - name: Tina Cheng
   photo: tina.JPG
-  info: Undergraduate Student
+  info: MEng, Computer Science
   email: tc564 AT cornell dot edu
   bio: "Tina is a senior majoring in Computer Science with a minor in Cognitive Science. Her interests include assistive technology, machine learning, and computational neuroscience. In her free time, she enjoys reading, volunteering, and creating art such as painting or charcoal drawing."
-  type: 4-4
+  type: 3-1
 
 - name: Damita Sara George
   photo: damita.JPG
   info: Undergraduate Student
   email: dg662 AT cornell dot edu
   bio: "Damita is a junior majoring in Computer Science with minors in AI and Philosophy. She is passionate about machine learning, robotics, and software engineering in a broader AI context. Outside of academics, she likes reading, watching good shows with friends, and exploring cafes."
-  type: 4-5
+  type: 4-4
 
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
