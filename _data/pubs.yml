@@ -6,6 +6,7 @@
   venue: ACM/IEEE International Conference on Human Robot Interaction
   note: Best Systems Paper Award Nomination
   type: conf-journal
+  thumbnail:
   alt: 92
 
 - title: "A Human-in-the-Loop Confidence-Aware Failure Recovery Framework for Modular Robot Policies"
