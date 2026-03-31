@@ -160,6 +160,14 @@
   bio: "Damita is a junior majoring in Computer Science with minors in AI and Philosophy. She is passionate about machine learning, robotics, and software engineering in a broader AI context. Outside of academics, she likes reading, watching good shows with friends, and exploring cafes."
   type: 4-4
 
+- name: Dohyeok Lee
+  photo: dohyeok.png
+  info: Visiting Ph.D. Student
+  email: dohyeoklee.kr AT gmail dot com
+  bio: "Dohyeok is a second-year Ph.D. student at SNU (Seoul National University) and is currently a visiting researcher at the EmPRISE Lab. His research focuses on physics understanding for robot learning. He received his M.S. in ECE from SNU and B.S. in EE from KAIST. Outside of research, he enjoys reading, writing, watching movies, and training martial arts."
+  website: https://dohyeoklee.github.io/
+  type: 5-1
+
 - name: Dr. Katherine Dimitropoulou
   photo: katherine.jpeg
   info: Occupational Therapist
