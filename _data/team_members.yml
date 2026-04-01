@@ -30,14 +30,6 @@
   website: https://sites.google.com/view/ruolin-ye/home
   type: 2-1
 
-- name: Rohan Banerjee
-  photo: rohan.jpeg
-  info: Ph.D. Student, Computer Science
-  email: rbb242 AT cornell dot edu
-  bio: "Rohan is a 4th-year PhD student in the Computer Science department. His research interests lie generally in the area of robust, learning-based sequential decision-making for robotics, with the goal of building learning-based systems that respect human preferences. Outside of research, he likes reading, writing, playing musical instruments, and exploring Ithaca."
-  website: https://rohanb2018.github.io/
-  type: 2-2
-
 - name: Zhanxin Wu
   photo: Zhanxin_Wu.jpg
   info: Ph.D. Student, Computer Science
@@ -152,13 +144,6 @@
   bio: "Tina is a senior majoring in Computer Science with a minor in Cognitive Science. Her interests include assistive technology, machine learning, and computational neuroscience. In her free time, she enjoys reading, volunteering, and creating art such as painting or charcoal drawing."
   type: 3-1
 
-
-- name: Damita Sara George
-  photo: damita.JPG
-  info: Undergraduate Student
-  email: dg662 AT cornell dot edu
-  bio: "Damita is a junior majoring in Computer Science with minors in AI and Philosophy. She is passionate about machine learning, robotics, and software engineering in a broader AI context. Outside of academics, she likes reading, watching good shows with friends, and exploring cafes."
-  type: 4-4
 
 - name: Dohyeok Lee
   photo: dohyeok.png
